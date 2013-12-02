@@ -1,8 +1,10 @@
 **Integral's Reading List**
 
-#Recommended Reading
+# Recommended Reading
 
 The best introduction to economics is to pick up an introductory textbook. Mankiw, Cowen/Tabbarok, and Krugman/Wells are all fine choices; the differences between them are minor. However, there are also many books on economics directed at a popular audience. These are no substitute for an intro textbook, but make for fine, enjoyable, and stimulating reading.
+
+--------------
 
 ## **General Intro to Economics**
 
@@ -18,6 +20,7 @@ The best introduction to economics is to pick up an introductory textbook. Manki
 
 6. Florida, *The Rise of the Creative Class,* 2002, revised 2012. It's often useful to read economics in the context of sociology. This is a book that does just that, exploring how trends in economics (jobs, technology, and urbanization) have affected American society. He nicely touches on issues of inequality and class stratification. 
 
+---------------
 
 ## **More Microeconomics**
 
@@ -28,6 +31,8 @@ The best introduction to economics is to pick up an introductory textbook. Manki
 3. Malkiel, *A Random Walk Down Wall Street,* 1973, revised 2012.  This is a classic book on finance and investing, and comparable to Landsburg in that Malkiel lays out the "basic standard" for investing advice from research in economics and finance. It's the only finance book the layman will ever need, and the first one that an person interested in finance should pick up.
 
 4. Levitt and Dubner, *Freakonomics,* 2010. This book jump-started the pop-economics trend of the past few years. Readable and enjoyable.
+
+---------------
 
 ## **Macroeconomics**
 
@@ -41,7 +46,7 @@ It's often useful to start with some classic popular books. To that end, I like:
 
 4. Galbraith, *The Affluent Society,* 1958, revised 1998. This work is the intellectual foundation of 1990s-era moderate liberalism, and is an important read for that reason alone. This book tackles the hard questions of economic affluence, security, and income inequality.
 
-### Modern Macro
+## Modern Macro
 
 There are also modern books worth reading. I recommend:
 
@@ -55,7 +60,8 @@ There are also modern books worth reading. I recommend:
 
 5. Hartford, *The Undercover Economist Strikes Back,* 2014. If Leamer's the popular-academic book on macro and Deaton's the popular book on growth and inequality, then Hartford is the popular book on recessions and short-run economic fluctuations. He has an easygoing, informal style but explains recessions with some lucidity.
 
-### **Big Economics: Growth and the Wealth of Nations**
+
+## **Big Economics: Growth and the Wealth of Nations**
 
 This is a short list of books that tries to tackle the big questions of economics: why are some countries rich and other countries poor? Is there anything that poor countries can do to make themselves rich?  I'm not going to try to summarize each of these books in one paragraph, but will give a one-word hint as to the answers each provides. None is perfect; none has found the One True Key to economic prosperity. However, taken together, they provide a balanced view of many factors that affect economic growth.
 
@@ -72,7 +78,7 @@ This is a short list of books that tries to tackle the big questions of economic
 
 6. Acemoglu and Robinson, *Why Nations Fail,* 2012. (Political institutions)
 
-### **Economic Development**
+## **Economic Development**
 
 These books look specifically at the question, "what can poor countries today do to become rich?" Again, I'm not going to summarize all of them. Many have a special focus on the (in)effectiveness of foreign aid. These books, or part of them, could easily form the core of a syllabus for a course in economic development, pitched at the undergrad level. All of these are geared towards a popular audience.
 
@@ -89,14 +95,14 @@ These books look specifically at the question, "what can poor countries today do
 11. Banerjee  and Duflo, *Poor Economics,* 2012. Interesting report from the trenches of micro-development, with a good empirical bent.
 12. Karlan and Appel, *More than Good Intentions,* 2012. The pitfalls of aid.
 
-### **Odds and Ends**
+## **Odds and Ends**
 
 1. Warsh, *Knowledge and the Wealth of Nations,* 2007. Notable for its piercing look into the inner workings of the economics profession.
 2. Colander, *The Making of an Economist,* 2008. Required reading for anyone thinking about going to graduate school, this book is a critical examination of graduate training in economics. Worth the buy for the interviews alone.
 3. Snowdon and Vane, *Modern Macroeconomics: Its Origins, Development, and Current State,* 2005. An exposition of the various schools of macroeconomic thought. Requires a year or two of economics training to appreciate, but could easily be a companion book to an intermediate course in macro. 
 4. Moretti, *The New Geography of Jobs,* 2013. A good followup to Richard Florida, if you're into the econ-sociology nexus.
 
-### **Biographies and Retrospectives**
+## **Biographies and Retrospectives**
 
 These are a "view from the trenches," written by economists and practitioners on their time in public service.
 
