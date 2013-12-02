@@ -1,6 +1,8 @@
 
 ##Recommended Reading
 
+At some point it would really be worthwhile to pick up an intro textbook. Mankiw is good. Cowen/Tabarrok is also good.
+
 ###Microeconomics
 
 1. The single best pop-microeconomics book is undoubtedly Landsburg's *The Armchair Economist.* I would suggest putting off reading any of the "new pop econ" (Freakonomics, Undercover Economist, whatever) until after reading *Armchair.*
@@ -16,7 +18,9 @@ There are no good primers in macroeconomics. That said, you can read
 2. Milton Friedman's *Free to Choose*
 3. Galbraith's *The New Industrial State*, and
 4. Galbraith's *The Affluent Society.*
-5. Perhaps something like Krugman's *Return to Depression Economics.* I'm waiting eagerly for someone to write a pop-macro book for this century that doesn't suck. (Recommendations welcome.)
+5. Perhaps something like Krugman's *Return to Depression Economics.* 
+
+I'm waiting eagerly for someone to write a pop-macro book for this century that doesn't suck. (Recommendations welcome.)
 
 ##Other
 A steady diet of economics dulls the palate. A great book that explores some of the sociological sides of the American economy over the past sixty years, while still being mostly right on the economics, is
