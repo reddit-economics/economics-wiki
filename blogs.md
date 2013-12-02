@@ -1,4 +1,4 @@
-Integral's Blog List
+**Integral's Blog List**
 
 # **Economics blogs**
 
