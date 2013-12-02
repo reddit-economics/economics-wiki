@@ -8,7 +8,6 @@ At some point it would really be worthwhile to pick up an intro textbook. Mankiw
 1. The single best pop-microeconomics book is undoubtedly Landsburg's *The Armchair Economist.* I would suggest putting off reading any of the "new pop econ" (Freakonomics, Undercover Economist, whatever) until after reading *Armchair.*
 2. A great second book in micro is Dixit's *Thinking Strategically.* It will teach you how to think like a game theorist without a lick of math.
 3. A lovely book that bridges the gap between microeconomics and macroeconomics is Schelling's *Micromotives and Macrobehavior.*  He goes through all kinds of counterintuitive results that happen when you start moving away from individuals and start talking about aggregates.
-4. *The Worldy Philosophers* is great on history of thought. So is *Knowledge and the Wealth of Nations*; the latter is particularly readable and a good writeup on the macro schools of thought and how they affected the economics profession through the 60s to 90s.
 
 ##Macroeconomics
 
@@ -23,9 +22,9 @@ There are no good primers in macroeconomics. That said, you can read
 I'm waiting eagerly for someone to write a pop-macro book for this century that doesn't suck. (Recommendations welcome.)
 
 ##Other
-A steady diet of economics dulls the palate. A great book that explores some of the sociological sides of the American economy over the past sixty years, while still being mostly right on the economics, is
 
-1. Richard Florida, *The Rise of the Creative Class.* Really, read Florida, he's lucid in most places and more right than he is wrong.
+1. *The Worldy Philosophers* is great on history of thought. So is *Knowledge and the Wealth of Nations*; the latter is particularly readable and a good writeup on the macro schools of thought and how they affected the economics profession through the 60s to 90s.
+2. A steady diet of economics dulls the palate. A great book that explores some of the sociological sides of the American economy over the past sixty years, while still being mostly right on the economics, is Richard Florida, *The Rise of the Creative Class.* Really, read Florida, he's lucid in most places and more right than he is wrong.
 
 ##Classics
 
