@@ -1,37 +1,108 @@
+**Integral's Reading List**
 
-##Recommended Reading
+#Recommended Reading
 
-At some point it would really be worthwhile to pick up an intro textbook. Mankiw is good. Cowen/Tabarrok is also good.
+The best introduction to economics is to pick up an introductory textbook. Mankiw, Cowen/Tabbarok, and Krugman/Wells are all fine choices; the differences between them are minor. However, there are also many books on economics directed at a popular audience. These are no substitute for an intro textbook, but make for fine, enjoyable, and stimulating reading.
 
-###Microeconomics
+## **General Intro to Economics**
 
-1. The single best pop-microeconomics book is undoubtedly Landsburg's *The Armchair Economist.* I would suggest putting off reading any of the "new pop econ" (Freakonomics, Undercover Economist, whatever) until after reading *Armchair.*
-2. A great second book in micro is Dixit's *Thinking Strategically.* It will teach you how to think like a game theorist without a lick of math.
-3. A lovely book that bridges the gap between microeconomics and macroeconomics is Schelling's *Micromotives and Macrobehavior.*  He goes through all kinds of counterintuitive results that happen when you start moving away from individuals and start talking about aggregates.
+1. Landsburg, *The Armchair Economist,* 1995. This book basically teaches you the first quarter of Micro 101 at a popular, easily-accesible level. He skimps out on market failures but will teach you classic "applied price theory."  This should be read first, because it helps to get a good handle on what economists usually do before branching out into the specifics of different subfields.
 
-##Macroeconomics
+2. Dixit and Nalebuff, *Thinking Strategically,* 1993. This book is a great follow-on to Landsburg and teaches you the economics of game theory: how individuals act and react when in competition with each other. 
 
-There are no good primers in macroeconomics. That said, you can read
+3. Schelling, *Micromotives and Macrobehavior,* 1978, reprint 2006. This is a lovely book that analyzes the various non-intuitive things that happen when we try to aggregate up from individual behavior to societal aggregates. 
 
-1. Milton Friedman's *Capitalism and Freedom* 
-2. Milton Friedman's *Free to Choose*
-3. Galbraith's *The New Industrial State*, and
-4. Galbraith's *The Affluent Society.*
-5. Perhaps something like Krugman's *Return to Depression Economics.* 
+4. Heilbroner, *The Worldly Philosophers,* 1999. This is an excellent introduction to the "history of economic thought" (which is separate from "economic history," mind). It covers major thinkers from Adam Smith through Keynes and Schumpeter.
 
-I'm waiting eagerly for someone to write a pop-macro book for this century that doesn't suck. (Recommendations welcome.)
+5. Kahneman, *Thinking, Fast and Slow,* 2013.  It's often useful to read economics in the context of psychology. This is a solid introduction to behavioral economics, the field of microeconomics that explores the boundaries between economics and psychology. 
 
-##Other
+6. Florida, *The Rise of the Creative Class,* 2002, revised 2012. It's often useful to read economics in the context of sociology. This is a book that does just that, exploring how trends in economics (jobs, technology, and urbanization) have affected American society. He nicely touches on issues of inequality and class stratification. 
 
-1. *The Worldy Philosophers* is great on history of thought. So is *Knowledge and the Wealth of Nations*; the latter is particularly readable and a good writeup on the macro schools of thought and how they affected the economics profession through the 60s to 90s.
-2. A steady diet of economics dulls the palate. A great book that explores some of the sociological sides of the American economy over the past sixty years, while still being mostly right on the economics, is Richard Florida, *The Rise of the Creative Class.* Really, read Florida, he's lucid in most places and more right than he is wrong.
 
-##Classics
+## **More Microeconomics**
 
-I don't recommend reading the long tomes we call "classics" - their value-added is low relative to modern treatments. Nevertheless, if you want to look smart at parties, you can (claim to have) read:
+1. Thaler and Sunstein, *Nudge,* 2009. This is the second book in the behavioral economics triad. It's useful for its broad swath of interesting and sensible policy recommendations.
 
-1. Smith, *Wealth of Nations*
-2. Keynes, *General Theory*
-3. Schumpeter, *Capitalism, Socialism, and Democracy*
+2. Ariely, *Predictably Irrational,* 2010. Third book in the behavioral economics triad.
 
-Source: [reading list](http://www.reddit.com/r/AskSocialScience/comments/1gbsaj/which_books_on_economics_should_i_read/caizyz9) put together by /u/integralds 
+3. Malkiel, *A Random Walk Down Wall Street,* 1973, revised 2012.  This is a classic book on finance and investing, and comparable to Landsburg in that Malkiel lays out the "basic standard" for investing advice from research in economics and finance. It's the only finance book the layman will ever need, and the first one that an person interested in finance should pick up.
+
+4. Levitt and Dubner, *Freakonomics,* 2010. This book jump-started the pop-economics trend of the past few years. Readable and enjoyable.
+
+## **Macroeconomics**
+
+It's often useful to start with some classic popular books. To that end, I like:
+
+1. Friedman, *Capitalism and Freedom,* 1962, revised 2002. The classic statement of "market economics." This book was much more radical and necessary in the 1960s, when it was first published; many of its recommendations were taken to heart in the 1980s and 1990s. It remains excellent reading.
+
+2. Friedman, *Free to Choose,* 1980, revised 1990. This is a bit of a companion volume to C&F: longer, more practical, less theoretical, and applied to many institutional arraignments in the economy. 
+
+3. Galbraith, *The New Industrial State,* 1967. If you read Friedman, you owe it to yourself to read Galbraith. Galbraith and Friedman were standard-bearers for their respective economic philosophies and clashed for nearly twenty years. Many of Galbraith's observations on the concentration of industry and importance of union bargaining are outdated, but his message remains important.
+
+4. Galbraith, *The Affluent Society,* 1958, revised 1998. This work is the intellectual foundation of 1990s-era moderate liberalism, and is an important read for that reason alone. This book tackles the hard questions of economic affluence, security, and income inequality.
+
+### Modern Macro
+
+There are also modern books worth reading. I recommend:
+
+1. Krugman, *Pop Internationalism,* 1997. Krugman's writings in the 1990s are a worthy successor to Galbraith and exemplify moderate-to-left economic thought. This selection of essays is a powerful exposition on trade and protectionism.
+
+2. Krugman, *The Accidental Theorist,* 1999. This is another excellent collection of essays that attacks both the supply-side pop-economics of the political Right and the protectionism of the political Left. He does a good job of carrying the banner of clear, precise economic thinking, applied to the problems of the day. 
+
+3. Leamer, *Macroeconomic Patterns and Stories,* 2008. This is the single best macroeconomics textbook available at the intermediate level. It's pitched at those who want a broad introduction to macroeconomic data and data analysis. He does not clutter the book with theories, instead preferring to analyze the data with a fairly atheoretical approach. There's basically nothing wrong with this book as long as you're willing to learn a little math. Pitched at the MBA level, any undergraduate with a semester of statistics and year of intro economics should find this book readable. Warning: this book is a bit higher-priced than others on the list, and is more academic. 
+
+4. Deaton, *The Great Escape,* 2013. This is a popular book on two important long-run trends: growth in average income per person and the trends in inequality of income across individuals. Deaton describes both the "trend" and the "spread" of income and health outcomes with clarity and precision. I use this as a complement to intro-level macroeconomics courses.
+
+5. Hartford, *The Undercover Economist Strikes Back,* 2014. If Leamer's the popular-academic book on macro and Deaton's the popular book on growth and inequality, then Hartford is the popular book on recessions and short-run economic fluctuations. He has an easygoing, informal style but explains recessions with some lucidity.
+
+### **Big Economics: Growth and the Wealth of Nations**
+
+This is a short list of books that tries to tackle the big questions of economics: why are some countries rich and other countries poor? Is there anything that poor countries can do to make themselves rich?  I'm not going to try to summarize each of these books in one paragraph, but will give a one-word hint as to the answers each provides. None is perfect; none has found the One True Key to economic prosperity. However, taken together, they provide a balanced view of many factors that affect economic growth.
+
+
+1. Diamond, *Guns, Germs and Steel,* 1999. Despite its flaws, this is required background. (Geography/natural endowments)
+
+2. Landes, *The Wealth and Poverty of Nations,* 1999. (Culture)
+
+3. De Soto, *The Mystery of Capital,* 2003. (Economic institutions)
+
+4. Mokyr, *Gifts of Athena,* 2004. (More technical, with a specific focus on ideas/innovation and the Industrial Revolution)
+
+5. Clark, *A Farewell to Alms,* 2008. (More technical. Focuses on productivity, with an emphasis on the Industrial revolution)
+
+6. Acemoglu and Robinson, *Why Nations Fail,* 2012. (Political institutions)
+
+### **Economic Development**
+
+These books look specifically at the question, "what can poor countries today do to become rich?" Again, I'm not going to summarize all of them. Many have a special focus on the (in)effectiveness of foreign aid. These books, or part of them, could easily form the core of a syllabus for a course in economic development, pitched at the undergrad level. All of these are geared towards a popular audience.
+
+1. Sen, *Development as Freedom,* 2000.
+2. Easterly, *The Elusive Quest for Growth,* 2002.
+3. Easterly, *The White Man's Burden,* 2007.
+4. Sachs, *The End of Poverty,* 2006.
+5. Sachs, *Common Wealth,* 2009.
+6. Collier, *The Bottom Billion,* 2008. Contains an interesting overview of the Easterly-Sachs debate.
+7. Collier, *Wars, Guns and Votes,* 2010. Focus on political development in Africa.
+8. Yunus, *Banker to the Poor,* 2003. Perspectives on microcredit from the man who started it all.
+9. Yunus, *Creating a World Without Poverty,* 2009. Further thoughts on microcredit, and where we go from here in micro-finance.
+10. Cooter and Schafer, *Solomon's Knot,* 2013. Focuses on law and economics.
+11. Banerjee  and Duflo, *Poor Economics,* 2012. Interesting report from the trenches of micro-development, with a good empirical bent.
+12. Karlan and Appel, *More than Good Intentions,* 2012. The pitfalls of aid.
+
+### **Odds and Ends**
+
+1. Warsh, *Knowledge and the Wealth of Nations,* 2007. Notable for its piercing look into the inner workings of the economics profession.
+2. Colander, *The Making of an Economist,* 2008. Required reading for anyone thinking about going to graduate school, this book is a critical examination of graduate training in economics. Worth the buy for the interviews alone.
+3. Snowdon and Vane, *Modern Macroeconomics: Its Origins, Development, and Current State,* 2005. An exposition of the various schools of macroeconomic thought. Requires a year or two of economics training to appreciate, but could easily be a companion book to an intermediate course in macro. 
+4. Moretti, *The New Geography of Jobs,* 2013. A good followup to Richard Florida, if you're into the econ-sociology nexus.
+
+### **Biographies and Retrospectives**
+
+These are a "view from the trenches," written by economists and practitioners on their time in public service.
+
+1. Rubin, *In an Uncertain World,* 2004. The Clinton economic team.
+2. Taylor, *Global Financial Warriors,* 2007. The Bush economic team.
+3. Greenspan, *The Age of Turbulence,* 2007. Great for a perspective on advances in economic policymaking just before the financial crisis.
+4. Wessel, *In Fed We Trust,* 2009. The Bernanke Fed during the crisis.
+5. Meyer, *A Term at the Fed,* 2009. The Greenspan Fed during its Clinton-era heyday.
+6. Paulson, *On the Brink,* 2011. Inside the "panic days" of the financial crisis.
