@@ -67,7 +67,7 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [David Beckworth's Macro Market Musings](http://macromarketmusings.blogspot.com/)
 * [Atlanta Fed Macroblog](http://macroblog.typepad.com/)
 * [St. Louis Fed Economic Synopses](http://research.stlouisfed.org/publications/es/)
-* [New York Fed's Liberty Street Economics](http://libertystreeteconomics.newyorkfed.org/)
+* [New York Fed Liberty Street Economics](http://libertystreeteconomics.newyorkfed.org/)
 
 ## **F. Economics News**
 
