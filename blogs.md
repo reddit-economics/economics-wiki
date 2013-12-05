@@ -60,12 +60,18 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [John Cochrane's Grumpy Economist](http://johnhcochrane.blogspot.com/)
 * [John Taylor's Economics One](http://economicsone.com/)
 * [Casey Mulligan's Supply and Demand](http://caseymulligan.blogspot.com/)
+* [Antonio Fatas's Blog](http://fatasmihov.blogspot.sg/)
+* [The Economist's Free Exchange](http://www.economist.com/blogs/freeexchange)
+* [David Beckworth's Uneasy Money](http://uneasymoney.com/)
+* [JP Koning's Moneyness](http://jpkoning.blogspot.ca/)
+* [David Beckworth's Macro Market Musings](http://macromarketmusings.blogspot.com/)
 * [Atlanta Fed Macroblog](http://macroblog.typepad.com/)
 * [St. Louis Fed Economic Synopses](http://research.stlouisfed.org/publications/es/)
+* [New York Fed's Liberty Street Economics](http://libertystreeteconomics.newyorkfed.org/)
 
 ## **F. Economics News**
 
 * [Central Bank News](http://www.centralbanknews.info/) (surprisingly comprehensive)
 * [Calculated Risk](http://www.calculatedriskblog.com/)
-* [The Sober Look](http://soberlook.com/)
+* [Sober Look](http://soberlook.com/)
 * [FT Alphaville](http://ftalphaville.ft.com/) (news and commentary)
