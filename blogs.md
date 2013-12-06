@@ -62,7 +62,7 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [Casey Mulligan's Supply and Demand](http://caseymulligan.blogspot.com/)
 * [Antonio Fatas's Blog](http://fatasmihov.blogspot.sg/)
 * [The Economist's Free Exchange](http://www.economist.com/blogs/freeexchange)
-* [David Beckworth's Uneasy Money](http://uneasymoney.com/)
+* [David Glasner's Uneasy Money](http://uneasymoney.com/)
 * [JP Koning's Moneyness](http://jpkoning.blogspot.ca/)
 * [David Beckworth's Macro Market Musings](http://macromarketmusings.blogspot.com/)
 * [Atlanta Fed Macroblog](http://macroblog.typepad.com/)
