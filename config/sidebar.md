@@ -4,7 +4,7 @@ This subreddit is for research and news regarding the science of economics, and 
 
 **Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading) and [blogs](http://www.reddit.com/r/Economics/wiki/blogs)
 
-**Featured Subreddit**:  /r/EconomicHistory/ is dedicated to study of economic phenomena in the past. It is a forum for journal articles, news, discussions, or questions, on Economic History and Cliometrics
+**Featured Subreddit**:  /r/EconomicHistory/ is dedicated to study of economic phenomena in the past. It is a forum for journal articles, news, discussions, or questions on Economic History and Cliometrics.
 
 * For broader submissions regarding the economy, check out [r/economy](http://www.reddit.com/r/economy)
 * For submissions regarding corporate marketing and fiscal performance, check out [r/business](http://www.reddit.com/r/business)
