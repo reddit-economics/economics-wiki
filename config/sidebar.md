@@ -8,7 +8,7 @@ This subreddit is for research and news regarding the science of economics, and 
 
 ***
 
-[**Featured Subreddit Nominations Thread**](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)
+[**Featured Subreddit Thread**](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)
 
 ***
 
