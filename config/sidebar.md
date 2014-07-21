@@ -2,7 +2,7 @@ This subreddit is for research and news regarding the science of economics, and 
 
 ***
 
-**Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading) and [blogs](http://www.reddit.com/r/Economics/wiki/blogs)
+**Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading), [blogs](http://www.reddit.com/r/Economics/wiki/blogs), and [macroeconomics reading list](https://integdomain.files.wordpress.com/2014/07/monetary_list_v1-11.pdf) (all courtesy of /u/Integralds)
 
 **Featured Subreddit**:  **/r/EconomicHistory/** is dedicated to study of economic phenomena in the past. It is a forum for journal articles, news, discussions, or questions on Economic History and Cliometrics.
 
