@@ -1,4 +1,4 @@
-### Subreddit Rules
+## Subreddit Rules
 
 1. This subreddit should enable sharing and discussing economic **research and news from the perspective of economists**. Academic work and summaries are welcome. 
 
