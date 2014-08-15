@@ -12,7 +12,7 @@
 
 **[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)**:  
 
-**/r/EconomicHistory/** is dedicated to study of economic phenomena in the past. It is a forum for journal articles, news, discussions, or questions on Economic History and Cliometrics.
+**/r/PublicFinance/**  is dedicated to the sharing and discussion of all content related to public finance.
 
 ***
 
