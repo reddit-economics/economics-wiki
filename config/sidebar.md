@@ -1,3 +1,9 @@
+**[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)**:  
+
+**/r/PublicFinance**  is dedicated to material on government revenue and expenditure. This broad topic covers many important subjects such as taxes, fiscal policy, market failure, government failure, debt, public goods, preference revelation and many others. 
+
+***
+
 ## Subreddit Rules
 
 1. This subreddit should enable sharing and discussing economic **research and news from the perspective of economists**. Academic work and summaries are welcome. 
@@ -10,15 +16,9 @@
 
 ---
 
-**[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)**:  
-
-**/r/PublicFinance**  is dedicated to material on government revenue and expenditure. This broad topic covers many important subjects such as taxes, fiscal policy, market failure, government failure, debt, public goods, preference revelation and many others. 
-
-***
-
 **Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading), [blogs](http://www.reddit.com/r/Economics/wiki/blogs), and [macroeconomics reading list](http://integdomain.wordpress.com/reading-list/) (courtesy of /u/Integralds)
 
-***
+---
 
 [**Message the moderators**](http://www.reddit.com/message/compose?to=%23Economics) if you have questions about or difficulty using the subreddit.  
 
