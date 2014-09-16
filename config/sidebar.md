@@ -1,6 +1,6 @@
 **[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)**:  
 
-**/r/PublicFinance**  is dedicated to material on government revenue and expenditure. This broad topic covers many important subjects such as taxes, fiscal policy, market failure, government failure, debt, public goods, preference revelation and many others. 
+**/r/PoliticalEconomics**  Before it was Economics, it was Political Economy. Today, Political Economics is the study of how political forces affect economic policy. /r/politicaleconomics is a sub for content, questions, and discussions related to Political Economics as practiced in the past or present.
 
 ***
 
