@@ -470,7 +470,7 @@ div.link {
 .side {
 
   width: 300px;
-  margin: 24px 24px 0px auto;
+  margin: 27px 24px 0px auto;
   padding: 10px !important;
   z-index: 0;
   border-radius:1px;
