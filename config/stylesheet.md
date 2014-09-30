@@ -791,6 +791,7 @@ box-shadow: 0px 1px 1px rgba(88,88,88,.84);
   content: 'CSS by Phinaeus';
   position: absolute;
   left: 0;
+  margin-left: -7px;
 }
 
 
