@@ -656,7 +656,7 @@ input[placeholder] {
     text-align: center;
     padding: .3em 0;
     border: 0;
-    border-radius: 0;
+  
 }
 .res .side .subscribe-button {
     padding: 0;
@@ -668,6 +668,7 @@ input[placeholder] {
     vertical-align: top;
     border: 0 !important;
     height:19px;
+    border-radius: 0;
 }
 .side .subscribe-button .add:before {
     content: '+'
