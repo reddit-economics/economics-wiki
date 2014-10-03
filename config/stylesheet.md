@@ -656,10 +656,11 @@ input[placeholder] {
     text-align: center;
     padding: .3em 0;
     border: 0;
+    border-radius: 0;
 }
 .res .side .subscribe-button {
     padding: 0;
-  border-radius: 0;
+
 }
 .res .side .subscribe-button .option {
     width: 100% !important;
