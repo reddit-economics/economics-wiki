@@ -659,6 +659,7 @@ input[placeholder] {
 }
 .res .side .subscribe-button {
     padding: 0;
+  border-radius: 0;
 }
 .res .side .subscribe-button .option {
     width: 100% !important;
@@ -912,7 +913,6 @@ body.wiki-page:lang(np):not(.subscriber) div.wiki-page-content form#editform inp
 
 /* END COPY */
 /* ------------------------- */
-
 
 
 
