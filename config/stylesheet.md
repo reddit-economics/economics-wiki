@@ -418,7 +418,7 @@ div.link {
   opacity: 0;
   transition: all .2s ease-out;
 }
-.comments-page div.thing ul.flat-list li a {
+.body .comments-page div.thing ul.flat-list li a {
   opacity: 1;
 }
 #siteTable div.thing:hover ul.flat-list li a:not(.comments):not(.flairselectbtn):not(.title)
