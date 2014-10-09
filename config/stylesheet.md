@@ -413,7 +413,7 @@ div.link {
   overflow: hidden;
 }
 /*show comments button but hide the save, hide, delete, spam, remove, nsfw, [l+c] buttons  */
-#siteTable div.thing ul.flat-list li a:not(.comments):not(.flairselectbtn):not(.title)
+body:not(.comments-page) #siteTable div.thing ul.flat-list li a:not(.comments):not(.flairselectbtn):not(.title)
 {
   opacity: 0;
   transition: all .2s ease-out;
