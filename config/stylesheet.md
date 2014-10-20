@@ -682,6 +682,8 @@ input[placeholder] {
 }
 .side .subscribe-button .add {
     background: red;
+  border-style: none;
+  border-radius: 0;
 }
 
 .side .subscribe-button .remove {
