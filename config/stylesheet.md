@@ -413,13 +413,16 @@ div.link {
   overflow: hidden;
 }
 /*show comments button but hide the save, hide, delete, spam, remove, nsfw, [l+c] buttons  */
-#siteTable div.thing ul.flat-list li a:not(.comments):not(.flairselectbtn):not(.title)
+#siteTable div.thing ul.flat-list li a:not(.comments):not(.title)
 {
   opacity: 0;
   transition: all .2s ease-out;
 }
-
-#siteTable div.thing:hover ul.flat-list li a:not(.comments):not(.flairselectbtn):not(.title)
+.comments-page #siteTable div.thing ul.flat-list li a:not(.comments)
+{
+  opacity: 1;
+}
+#siteTable div.thing:hover ul.flat-list li a:not(.comments):not(.title)
 {
   opacity: 1;
 }
