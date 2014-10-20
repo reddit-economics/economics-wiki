@@ -686,6 +686,8 @@ input[placeholder] {
 
 .side .subscribe-button .remove {
     background: #CCC6DD;
+  border-style: none;
+  border-radius: 0;
 }
 
 .res .side .RESshortcutside {
