@@ -40,7 +40,7 @@ Want bureau member flair? [**Apply here!**](http://www.reddit.com/r/Economics/co
 
 ***
 
-[**Nomination Thread for Article of the Week**](http://www.reddit.com/r/Economics/comments/2kdvh1/article_of_the_week_nominations_thread_november/) 
+[**Nomination Thread for Article of the Week**](http://www.reddit.com/r/Economics/comments/2xlknu/article_of_the_week_topic_of_the_month_nomination/) 
 
 ***
 
