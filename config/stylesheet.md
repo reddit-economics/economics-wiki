@@ -953,5 +953,31 @@ body.wiki-page:lang(np):not(.subscriber) div.wiki-page-content form#editform inp
 /* END COPY */
 /* ------------------------- */
 
+/* 7.1) mberre edit march 2015
 
+
+.listing-page .side > .spacer:first-child,
+.comments-page .side > .spacer:first-child,
+.search-page .side > .spacer:first-child {
+    padding-top: 110px;
+}
+.sidebox.submit {
+    position: absolute;
+    top: 220px;
+    right: 35px;
+    width: 300px;
+}
+.side .md [href$="/r/Economics/wiki/reading"] {
+    position: absolute;
+    height: 45px;
+    width: 300px;
+    right: 35px;
+    background: url(%%reading-list-button%%);
+    top: -9999em;
+}
+.listing-page .side .md [href$="/r/Economics/wiki/reading"],
+.comments-page .side .md [href$="/r/Economics/wiki/reading"],
+.search-page .side .md [href$="/r/Economics/wiki/reading"] {
+    top: 280px;
+}
 
