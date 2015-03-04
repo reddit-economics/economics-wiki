@@ -16,7 +16,7 @@
 
 ---
 
-**Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading), [blogs](http://www.reddit.com/r/Economics/wiki/blogs), and [macroeconomics reading list](http://integdomain.wordpress.com/reading-list/) (courtesy of /u/Integralds)
+**Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading/), [blogs](http://www.reddit.com/r/Economics/wiki/blogs), and [macroeconomics reading list](http://integdomain.wordpress.com/reading-list/) (courtesy of /u/Integralds)
 
 ---
 
