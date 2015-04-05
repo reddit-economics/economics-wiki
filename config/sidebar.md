@@ -24,7 +24,7 @@
 
 ***
 
-Informal polling on May 11, 2014 indicates readers of the subreddit fall into these [**Schools of Thought**](http://i.imgur.com/WJD7Tfk.png)
+Informal polling in January, 2015 indicates readers of the subreddit fall into these [**Schools of Thought**](http://i.imgur.com/oOsDPdD.png)
 
 ***
 
