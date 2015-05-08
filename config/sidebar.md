@@ -10,9 +10,11 @@
 
 2. Posts which are **tenuously related to economics or light on economic analysis** or from perspectives other than those of economists should be shared with more appropriate subreddits and **will be removed**. This will keep /r/economics distinct from the many related subreddits.  
 
-3. Please post links to the **original source**, **no blogspam**, and **do not submit editorialized** headlines.  No pictures or memes, please.
+3. Please post links to the **original source**, **no blogspam**, and **do not submit editorialized headlines**. No memes.
 
 4. **Personal attacks and harassment will not be tolerated.** Please report personal attacks, racism, misogyny, or harassment you see or experience. We will remove these comments and take other appropriate measures.
+
+5. All **images**, **charts**, and/or **videos**, **including original content**, must be submitted with a source and summary (tl;dr).
 
 ---
 
