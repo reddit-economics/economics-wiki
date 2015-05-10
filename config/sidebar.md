@@ -1,6 +1,6 @@
 ##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/29t00d/nomination_thread_for_featured_subreddit/)  
 
->**/r/EconPapers** : Miss Journal Day? This is a subreddit for economics discussions grounded in careful research, or for simply sharing economics papers that we enjoy.
+>**/r/mmt_economics** : An economics subreddit discussing Modern Monetary Theory (a.k.a. neochartalism): a descriptive theory about the procedures and consequences when the economic unit of account and exchange is centrally issued.
 
 ***
 
