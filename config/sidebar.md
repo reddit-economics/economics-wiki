@@ -1,6 +1,6 @@
 ##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/35hfeo/nomination_thread_for_featured_subreddit_may_2015/)  
 
-> **/r/DSGE**: A subreddit meant as a forum for the discussion of macroeconomic news and policy, with a focus on academic content. While the title "DSGE" reflects the intended focus on dynamic stochastic general equilibrium models, all articles on macroeconomics and monetary economics are fair game. 
+> **/r/DSGE**: A forum for the discussion of macroeconomic news and policy, with a focus on academic content. While the title "DSGE" reflects the intended focus on dynamic stochastic general equilibrium models, all articles on macroeconomics and monetary economics are fair game. 
 
 ***
 
