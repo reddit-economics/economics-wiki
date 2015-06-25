@@ -1,8 +1,6 @@
 ##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/35hfeo/nomination_thread_for_featured_subreddit_may_2015/)  
 
-> **/r/DSGE**: A subreddit meant as a forum for the discussion of macroeconomic news and policy, with a focus on academic content.
-
-While the title "DSGE" reflects the intended focus on dynamic stochastic general equilibrium models, all articles on macroeconomics and monetary economics are fair game. Allied fields such as history of thought, econometrics, international economics, financial economics, and asset pricing are welcome. Specifically, the following JEL codes are within the aims and scope: B, C, E, F, G, N, O.
+> **/r/DSGE**: A subreddit meant as a forum for the discussion of macroeconomic news and policy, with a focus on academic content. While the title "DSGE" reflects the intended focus on dynamic stochastic general equilibrium models, all articles on macroeconomics and monetary economics are fair game. Allied fields such as history of thought, econometrics, international economics, financial economics, and asset pricing are welcome. Specifically, the following JEL codes are within the aims and scope: B, C, E, F, G, N, O.
 
 ***
 
