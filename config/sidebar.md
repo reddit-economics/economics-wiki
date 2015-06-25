@@ -1,6 +1,8 @@
 ##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/35hfeo/nomination_thread_for_featured_subreddit_may_2015/)  
 
->**/r/MMT_Economics** : An economics subreddit discussing Modern Monetary Theory (a.k.a. neochartalism): a descriptive theory about the procedures and consequences when the economic unit of account and exchange is centrally issued.
+> **/r/DSGE**: A subreddit meant as a forum for the discussion of macroeconomic news and policy, with a focus on academic content.
+
+While the title "DSGE" reflects the intended focus on dynamic stochastic general equilibrium models, all articles on macroeconomics and monetary economics are fair game. Allied fields such as history of thought, econometrics, international economics, financial economics, and asset pricing are welcome. Specifically, the following JEL codes are within the aims and scope: B, C, E, F, G, N, O.
 
 ***
 
