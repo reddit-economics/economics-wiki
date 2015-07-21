@@ -1,7 +1,7 @@
     first: "July 21, 2015 12:00 AM -06"
     repeat: 1 week
     sticky: true
-    title: "/r/economics Open Thread"
+    title: "/r/economics Open Thread ({{date %B %d, %Y}})"
     text: |
         We continue to experiment with 2 stickies. Talk about economics! 
 
