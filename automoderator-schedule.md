@@ -6,5 +6,5 @@
     title: "/r/economics Open Thread ({{date %B %d, %Y}})"
     text: |
         We continue to experiment with 2 stickies. Talk about economics! 
-
-		Feel free to ask any questions, or make comments which would not justify a full post here.
+        
+        Feel free to ask any questions, or make comments which would not justify a full post here.
