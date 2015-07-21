@@ -1,3 +1,5 @@
+    ###### If you edit this page, you must [click this link, then click "send"](http://www.reddit.com/message/compose/?to=AutoModerator&subject=economics&message=schedule) to have AutoModerator re-load the schedule from here
+    
     first: "July 21, 2015 12:00 AM -06"
     repeat: 1 week
     sticky: true
