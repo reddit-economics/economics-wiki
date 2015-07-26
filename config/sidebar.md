@@ -38,7 +38,7 @@ We have two active bots in this sub, which seek to provide relevant content from
 
 ***
 
-Want bureau member flair? [**Apply here!**](http://www.reddit.com/r/Economics/comments/2h6uiu/call_for_flair_round_2/)
+Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/comments/3ee3xd/call_for_bureau_member_flair_3/)
 
 ***
 
