@@ -1,6 +1,6 @@
 ##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/35hfeo/nomination_thread_for_featured_subreddit_may_2015/)  
 
-> **/r/DSGE**: A forum for the discussion of macroeconomic news and policy, with a focus on academic content. While the title "DSGE" reflects the intended focus on dynamic stochastic general equilibrium models, all articles on macroeconomics and monetary economics are fair game. 
+> **/r/GoodEconomics**: The mission of GE is to serve as a repository for good economics comments from Reddit. Comments providing an in depth economic analysis, extensive sources from the literature, or even just detailed, intuitive and logically consistent answers to economic questions. The goal of GE is to provide good responses to common economic questions from Reddit users.
 
 ***
 
