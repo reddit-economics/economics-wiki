@@ -1,3 +1,5 @@
+[This subreddit is joining a minute of silence in memory of the victims of the Paris Attacks](http://www.consilium.europa.eu/en/press/press-releases/2015/11/14-joint-eu-statement-terrorist-attacks-paris/)
+
 ##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/35hfeo/nomination_thread_for_featured_subreddit_may_2015/)  
 
 > **/r/GoodEconomics**: The mission of GE is to serve as a repository for good economics comments from Reddit. Comments providing an in depth economic analysis, extensive sources from the literature, or even just detailed, intuitive and logically consistent answers to economic questions. 
