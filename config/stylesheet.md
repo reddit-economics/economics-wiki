@@ -1,25 +1,3 @@
-.side a[href*="http://www.consilium.europa.eu/en/press/press-releases/2015/11/14-joint-eu-statement-terrorist-attacks-paris/"] {
-    position:fixed;
-    top:0; left:0;
-    height:100%;
-    width:100%;
-    z-index:9999;
-    background:#000;
-    color:#FFF;
-    font-size:50px;
-    line-height:500%;
-    text-align:center;
-    }
-body {
-    overflow: hidden;
-    }
-.moderator .styleToggle {
-    z-index: 99999;
-    background-color: white;
-    text-align: center;
-    }
-
-
 /* 
 1) Quick General Effects
 2) Subreddit Shortcuts Bar at the top of the page
