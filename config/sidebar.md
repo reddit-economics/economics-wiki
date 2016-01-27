@@ -1,4 +1,4 @@
-##[Featured Related Subreddit](http://www.reddit.com/r/Economics/comments/35hfeo/nomination_thread_for_featured_subreddit_may_2015/)  
+##[Featured Related Subreddit](https://www.reddit.com/r/Economics/comments/42qypz/nomination_thread_for_featured_subreddit_jan_2016/)  
 
 > **/r/GoodEconomics**: The mission of GE is to serve as a repository for good economics comments from Reddit. Comments providing an in depth economic analysis, extensive sources from the literature, or even just detailed, intuitive and logically consistent answers to economic questions. 
 
