@@ -16,7 +16,9 @@
 
 5. All **images**, **charts**, and/or **videos**, **including original content**, must be submitted with a source and summary (tl;dr).
 
----
+6. Top-level jokes, nakedly political comments, circle-jerk, or otherwise non-substantive comments without reference to the article, economics, or the thread at hand will be removed.
+
+--
 
 **Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading/), [blogs](http://www.reddit.com/r/Economics/wiki/blogs), and [macroeconomics reading list](http://integdomain.wordpress.com/reading-list/) (courtesy of /u/Integralds)
 
