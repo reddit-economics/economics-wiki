@@ -565,7 +565,6 @@ color: #fff;
 
 .side .submit-link .morelink {
     display: block;
-    margin-right: 10px;
     margin-bottom: 15px;
     border: none;
     color: #FFF !important;
@@ -576,7 +575,7 @@ color: #fff;
     letter-spacing: 0px;
     border-radius: 4px;
     border: 1px solid #000000;
-    font-weight: bold;
+    font-weight: normal;
     font-size: 17px;
     line-height: 37px;
     text-decoration: none;
