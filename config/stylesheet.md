@@ -578,7 +578,6 @@ input[placeholder] {
     letter-spacing: 0px;
     border-radius: 4px;
     border: 1px solid #C16200;
-    font-weight: bold;
     font-size: 17px;
 font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
     line-height: 37px;
