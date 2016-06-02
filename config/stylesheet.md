@@ -562,7 +562,7 @@ input[placeholder] {
 /* Updated to conform to CSS standards */
 /* Padding below Submit Link .titlebox { padding-top: 49px; }*/
 
-/*Chatroom button */
+/*Chatroom button: Activate by uncommenting */
 /*
 .side .md a[href="https://carrot.com/r/economics"] {
     text-transform: none;
@@ -579,20 +579,23 @@ input[placeholder] {
     border-radius: 4px;
     border: 1px solid #C16200;
     font-size: 17px;
-font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Open Sans","Helvetica Neue",sans-serif;
     line-height: 37px;
     text-decoration: none;
     height: 38px;
-    magin-bottom:
+    background: -webkit-linear-gradient(top, #F47C00, #FF7600);
     background: linear-gradient(to bottom, #F47C00, #FF7600);
 }
 
 .side .md a[href^="https://carrot.com/r/economics"]:hover {
+    background: -webkit-linear-gradient(top, #EF800D, #FE8D2C);
     background: linear-gradient(to bottom, #EF800D, #FE8D2C);
+    -webkit-transition: all .2s;
     transition: all .2s;
 }
 
 .side .md a[href^="https://carrot.com/r/economics"]:active {
+    background: -webkit-linear-gradient(top,#d3721f,#ff9c36);
     background: linear-gradient(to bottom,#d3721f,#ff9c36);
     box-shadow: inset 0px 0px 0px 0px rgb(0,0,0) !important;
 
