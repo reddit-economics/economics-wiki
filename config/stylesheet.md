@@ -560,11 +560,10 @@ input[placeholder] {
 
 /* Submit :Link */
 /* Updated to conform to CSS standards */
-/* Padding below Submit Link */
-
+/* Padding below Submit Link
 .titlebox {
 padding-top: 49px;
-}
+}*/
 
 /*Chatroom button */
 
