@@ -560,10 +560,7 @@ input[placeholder] {
 
 /* Submit :Link */
 /* Updated to conform to CSS standards */
-/* Padding below Submit Link
-.titlebox {
-padding-top: 49px;
-}*/
+/* Padding below Submit Link .titlebox { padding-top: 49px; }*/
 
 /*Chatroom button */
 
@@ -574,7 +571,7 @@ padding-top: 49px;
     width: 300px;
     border: none;
     color: #FFF!important;
-    position: absolute;
+    position: relative;
     text-align: center;
     text-transform: capitalize;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
