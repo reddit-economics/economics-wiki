@@ -51,3 +51,5 @@ Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/c
 [**Previous Articles of the Week**](http://www.reddit.com/r/Economics/search?q=%22article+of+the+week%22&sort=new&restrict_sr=on&t=all)
 
 [](/r/Economics/wiki/reading)
+
+[💬 Chatroom](https://carrot.com/r/economics)
