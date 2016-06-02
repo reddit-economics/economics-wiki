@@ -571,7 +571,7 @@ input[placeholder] {
     color: #FFF!important;
     position: relative;
     text-align: center;
-    text-transform: capitalize;
+    text-transform: none;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     border: 1px solid #C16200;
     box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.3), 0 1px 2px rgba(19, 49, 69, 0.2);
