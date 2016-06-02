@@ -563,7 +563,7 @@ input[placeholder] {
 /* Padding below Submit Link .titlebox { padding-top: 49px; }*/
 
 /*Chatroom button */
-
+/*
 .side .md a[href="https://carrot.com/r/economics"] {
     text-transform: none;
     display: block;
@@ -583,6 +583,7 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
     line-height: 37px;
     text-decoration: none;
     height: 38px;
+    magin-bottom:
     background: linear-gradient(to bottom, #F47C00, #FF7600);
 }
 
@@ -596,7 +597,7 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
     box-shadow: inset 0px 0px 0px 0px rgb(0,0,0) !important;
 
 }
-
+*/
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
 }
