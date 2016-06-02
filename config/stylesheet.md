@@ -577,9 +577,9 @@ color: #fff;
     border: 1px solid #000000;
     font-weight: normal;
     font-size: 17px;
-    line-height: 37px;
+    line-height: 42px;
     text-decoration: none;
-    height: 36px;
+    height: 41px;
     background: -webkit-linear-gradient(top, #4c4c4c, #000000);
     background: linear-gradient(to bottom, #4c4c4c, #000000);
 }
