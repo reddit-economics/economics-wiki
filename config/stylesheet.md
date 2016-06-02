@@ -580,16 +580,20 @@ color: #fff;
     line-height: 37px;
     text-decoration: none;
     height: 36px;
+    background: -webkit-linear-gradient(top, #4c4c4c, #000000);
     background: linear-gradient(to bottom, #4c4c4c, #000000);
 }
 
 .side .submit-link .morelink:hover {
+    background: -webkit-linear-gradient(top, #686868, #282828);
     background: linear-gradient(to bottom, #686868, #282828);
-    transition: all .4s;
+    -webkit-transition: all .4s;
+            transition: all .4s;
     cursor: pointer;
 }
 
 .side .submit-link .morelink:active {
+    background: -webkit-linear-gradient(top, #2e2e2e, #2e2e2e);
     background: linear-gradient(to bottom, #2e2e2e, #2e2e2e);
     box-shadow: none;
     color: #b4b4b4 !important;
