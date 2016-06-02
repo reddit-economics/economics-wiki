@@ -567,7 +567,6 @@ input[placeholder] {
 .side .md a[href="https://carrot.com/r/economics"] {
     display: block;
     margin-right: 10px;
-    margin-bottom: 50px;
     width: 300px;
     border: none;
     color: #FFF!important;
