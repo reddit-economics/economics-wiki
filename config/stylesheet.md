@@ -559,22 +559,43 @@ input[placeholder] {
 }
 
 /*format submit link*/
-.side .submit-link .morelink
-{
-  background-position: 0;
-  background-image: url(%%button%%);
-  height: 45px !important;
-  /*background: hsl(260,25.3%,62.7%) !important;*/
-  border: none;
-  font-size: 0;
-  padding-top: 2px;
-  /*border-bottom: 3px solid hsl(259.3, 24.8%,55.7%) !important;*/
-  border-radius: 1.5px;
-  box-shadow: 0px 1px 1px rgba(88,88,88,.84);
-
+.morelink a[href="https://www.reddit.com/r/Economics/submit"] {
+color: #fff;
 }
 
+.side .submit-link .morelink {
+    display: block;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    border: none;
+    color: #FFF !important;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.3), 0 1px 2px rgba(19, 49, 69, 0.2);
+    letter-spacing: 0px;
+    border-radius: 4px;
+    border: 1px solid #000000;
+    font-weight: bold;
+    font-size: 17px;
+    line-height: 37px;
+    text-decoration: none;
+    height: 36px;
+    background: linear-gradient(to bottom, #4c4c4c, #000000);
+}
 
+.side .submit-link .morelink:hover {
+    background: linear-gradient(to bottom, #686868, #282828);
+    transition: all .4s;
+    cursor: pointer;
+}
+
+.side .submit-link .morelink:active {
+    background: linear-gradient(to bottom, #2e2e2e, #2e2e2e);
+    box-shadow: none;
+    color: #b4b4b4 !important;
+    cursor: pointer;
+}
 
 
 /*format submit text*/
