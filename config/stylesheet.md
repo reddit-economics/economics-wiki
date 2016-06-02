@@ -586,11 +586,15 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
     background: linear-gradient(to bottom, #F47C00, #FF7600);
 }
 
-.side .md a:hover[href="https://carrot.com/r/Economics"] {
+.side .md a[href="https://carrot.com/r/Economics"]:hover {
     background: linear-gradient(to bottom, #EF800D, #FE8D2C);
     transition: all .2s;
 }
 
+.side .md a[href="https://carrot.com/r/Economics"]:active {
+    background: linear-gradient(to bottom, #EF800D, #FE8D2C);
+    transition: all .2s;
+}
 
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
