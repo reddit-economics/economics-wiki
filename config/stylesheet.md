@@ -565,6 +565,7 @@ input[placeholder] {
 /*Chatroom button */
 
 .side .md a[href="https://carrot.com/r/economics"] {
+    text-transform: none;
     display: block;
     border: none;
     color: #FFF!important;
