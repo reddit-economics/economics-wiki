@@ -592,7 +592,7 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
     transition: all .2s;
 }
 
-.side .md a[href="https://carrot.com/r/Economics"]:active {
+.side .md a[href="https://carrot.com/r/economics"]:active {
     background: linear-gradient(to bottom, #EF800D, #FE8D2C);
     transition: all .2s;
 }
