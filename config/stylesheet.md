@@ -587,12 +587,12 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
     background: linear-gradient(to bottom, #F47C00, #FF7600);
 }
 
-.side .md a[href="https://carrot.com/r/economics"]:hover {
+.side .md a[href^="https://carrot.com/r/economics"]:hover {
     background: linear-gradient(to bottom, #EF800D, #FE8D2C);
     transition: all .2s;
 }
 
-.side .md a[href="https://carrot.com/r/economics"]:active {
+.side .md a[href^="https://carrot.com/r/economics"]:active {
     background: linear-gradient(to bottom,#FE8D2C,#EF800D);
     transition: all .2s;
 }
