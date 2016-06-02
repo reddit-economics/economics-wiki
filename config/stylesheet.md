@@ -563,7 +563,6 @@ input[placeholder] {
 /* Padding below Submit Link .titlebox { padding-top: 49px; }*/
 
 /*Chatroom button: Activate by uncommenting */
-/*
 .side .md a[href="https://carrot.com/r/economics"] {
     text-transform: none;
     display: block;
@@ -600,7 +599,6 @@ input[placeholder] {
     box-shadow: inset 0px 0px 0px 0px rgb(0,0,0) !important;
 
 }
-*/
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
 }
