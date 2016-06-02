@@ -593,7 +593,7 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
 }
 
 .side .md a[href="https://carrot.com/r/economics"]:active {
-    background: linear-gradient(to bottom, #EF800D, #FE8D2C);
+    background: linear-gradient(to bottom,#FE8D2C,#EF800D);
     transition: all .2s;
 }
 
