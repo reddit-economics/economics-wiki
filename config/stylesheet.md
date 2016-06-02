@@ -580,7 +580,6 @@ input[placeholder] {
     letter-spacing: 0px;
     border-radius: 4px;
     border: 1px solid #C16200;
-    bottom: 0px;
     font-weight: bold;
     font-size: 17px;
     font-family: Arial, sans-serif;
