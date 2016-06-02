@@ -1,4 +1,4 @@
-[💬 /r/Economics Chatroom](https://carrot.com/r/economics)
+[ Chat with /r/Economics](https://carrot.com/r/economics)
 
 ##[Featured Related Subreddit](https://www.reddit.com/r/Economics/comments/42qypz/nomination_thread_for_featured_subreddit_jan_2016/)  
 
