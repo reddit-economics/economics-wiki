@@ -52,4 +52,4 @@ Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/c
 
 [](/r/Economics/wiki/reading)
 
-[💬 Chatroom](https://carrot.com/r/economics)
+[💬 Chatroom](https://carrot.com/r/Economics)
