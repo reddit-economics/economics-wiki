@@ -558,15 +558,47 @@ input[placeholder] {
   display: none;
 }
 
-/*format submit link*/
-
+/* Submit :Link */
 /* Updated to conform to CSS standards */
-
-/*Padding below Submit Link */
+/* Padding below Submit Link */
 
 .titlebox {
 padding-top: 49px;
 }
+
+/*Chatroom button */
+
+.side .md a[href="https://carrot.com/r/Economics"] {
+    display: block;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    width: 300px;
+    border: none;
+    color: #FFF!important;
+    position: fixed;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #C16200;
+    box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.3), 0 1px 2px rgba(19, 49, 69, 0.2);
+    letter-spacing: 0px;
+    border-radius: 4px;
+    border: 1px solid #C16200;
+    bottom: 300px;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: Arial, sans-serif;
+    line-height: 37px;
+    text-decoration: none;
+    height: 36px;
+    background: linear-gradient(to bottom, #F47C00, #FF7600);
+}
+
+.side .md a:hover[href="https://carrot.com/r/Economics"] {
+    background: linear-gradient(to bottom, #EF800D, #FE8D2C);
+    transition: all .2s;
+}
+
 
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
