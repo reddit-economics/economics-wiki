@@ -1,3 +1,5 @@
+[💬 **Chat with** r/**Economics**](https://carrot.com/r/economics)
+
 ##[Featured Related Subreddit](https://www.reddit.com/r/Economics/comments/42qypz/nomination_thread_for_featured_subreddit_jan_2016/)  
 
 > **/r/GoodEconomics**: The mission of GE is to serve as a repository for good economics comments from Reddit. Comments providing an in depth economic analysis, extensive sources from the literature, or even just detailed, intuitive and logically consistent answers to economic questions. 
