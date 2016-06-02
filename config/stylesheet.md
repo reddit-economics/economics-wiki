@@ -564,7 +564,7 @@ input[placeholder] {
 
 /*Chatroom button */
 
-.side .md a[href="https://carrot.com/r/Economics"] {
+.side .md a[href="https://carrot.com/r/economics"] {
     display: block;
     margin-right: 10px;
     margin-bottom: 50px;
