@@ -564,7 +564,7 @@ input[placeholder] {
 
 /*Padding below Submit Link */
 
-.titlebox{
+.titlebox {
 padding-top: 49px;
 }
 
