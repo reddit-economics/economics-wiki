@@ -575,7 +575,7 @@ padding-top: 49px;
     width: 300px;
     border: none;
     color: #FFF!important;
-    position: fixed;
+    position: absolute;
     text-align: center;
     text-transform: capitalize;
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
