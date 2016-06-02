@@ -593,8 +593,8 @@ font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Ca
 }
 
 .side .md a[href^="https://carrot.com/r/economics"]:active {
-    background: linear-gradient(to bottom,#FE8D2C,#EF800D);
-    transition: all .2s;
+    background: linear-gradient(to bottom,#d3721f,#ff9c36);
+    box-shadow: inset 0px 0px 0px 0px rgb(0,0,0) !important;
 }
 
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
