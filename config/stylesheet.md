@@ -559,6 +559,15 @@ input[placeholder] {
 }
 
 /*format submit link*/
+
+/* Updated to conform to CSS standards */
+
+/*Padding below Submit Link */
+
+.titlebox{
+padding-top: 49px;
+}
+
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
 }
