@@ -599,6 +599,25 @@ input[placeholder] {
     box-shadow: inset 0px 0px 0px 0px rgb(0,0,0) !important;
 
 }
+
+/* button icon */
+
+.side .md a[href^="http://carrot.com/r/economics"] {
+    background-image: url(%%buttonicon%%);
+    width: 100px;
+    height: 100px;
+    border-radius: 3px;
+    top: 29px;
+    left: 41px;
+    position: relative;
+    border: 1px solid rgba(0, 0, 0, 0.55);
+    z-index: 30;
+    background-position: center center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
 }
