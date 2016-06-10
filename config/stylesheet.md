@@ -562,8 +562,7 @@ input[placeholder] {
 /* Updated to conform to CSS standards */
 /* Padding below Submit Link .titlebox { padding-top: 49px; }*/
 
-/*Chatroom button: Activate by uncommenting */
-.side .md a[href="https://carrot.com/r/economics"] {
+/*Chatroom button: Activate by uncommenting */.side .md a[href="https://carrot.com/r/economics"] {
     text-transform: none;
     display: block;
     border: none;
@@ -582,8 +581,8 @@ input[placeholder] {
     line-height: 39px;
     text-decoration: none;
     height: 38px;
-    background: -webkit-linear-gradient(top, #72b94c, #1ba41b);
-    background: linear-gradient(to bottom,#72b94c, #1ba41b);
+    background: -webkit-linear-gradient(top, #F47C00, #FF7600);
+    background: linear-gradient(to bottom, #F47C00, #FF7600);
 }
 
 .side .md a[href^="https://carrot.com/r/economics"]:hover {
