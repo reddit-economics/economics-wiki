@@ -562,7 +562,10 @@ input[placeholder] {
 /* Updated to conform to CSS standards */
 /* Padding below Submit Link .titlebox { padding-top: 49px; }*/
 
-/*Chatroom button: Activate by uncommenting */.side .md a[href="https://carrot.com/r/economics"] {
+/*Chatroom button: Activate by uncommenting */
+
+/*
+.side .md a[href="https://carrot.com/r/economics"] {
     text-transform: none;
     display: block;
     border: none;
@@ -599,7 +602,11 @@ input[placeholder] {
 
 }
 
+*/
+
 /* button icon */
+
+/*
 
 .side .md a[href^="http://carrot.com/r/economics"] {
     background-image: url(%%buttonicon%%);
@@ -616,6 +623,7 @@ input[placeholder] {
     background-repeat: no-repeat;
 }
 
+*/
 
 .morelink a[href="https://www.reddit.com/r/Economics/submit"] {
 color: #fff;
