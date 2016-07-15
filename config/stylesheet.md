@@ -1907,6 +1907,10 @@ div#title-field {
     padding-right: 10px;
 }
 
+#suggest-title > button {
+    font-size: 0;
+}
+
 .submit_text.enabled {
     margin-bottom: -2px;
 }
