@@ -1901,14 +1901,10 @@ div#title-field {
     color: #919191;
     max-width: 30px;
     height: 30px;
-    transition: 800ms;
+    transition: none;
     line-height: 20px;
     text-indent: 20px;
     padding-right: 10px;
-}
-
-#url-field button:hover {
-    max-width: 200px;
 }
 
 .submit_text.enabled {
