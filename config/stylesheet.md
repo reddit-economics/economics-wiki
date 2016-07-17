@@ -3060,7 +3060,7 @@ html[lang^="nm"] .res #RESStyleSheetTipPane-header {
 
 .md .-text, .md p, .md pre>code, .md th, .md td, .md li {
     line-height: 1.5em;
-    font-size: 14px;
+    /*font-size: 14px;*/
     color: #444;
 }
 
@@ -3161,4 +3161,5 @@ html[lang^="nm"] .res #RESStyleSheetTipPane-header {
     box-shadow: 0 0 8px #F5F5F5;
     border-radius: 2px;
 }
+
 
