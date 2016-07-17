@@ -1259,6 +1259,7 @@ a.thumbnail.self {
     margin: 5px 5px 5px 5px;
     width: 295px;
     background-color: #f9f9f9;
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 .side .usertext-body {
@@ -3161,7 +3162,3 @@ html[lang^="nm"] .res #RESStyleSheetTipPane-header {
     border-radius: 2px;
 }
 
-
-
-/* [ STCKY v1.07 by doingstuffcarl ]
-   [ /r/STCKY ] */
