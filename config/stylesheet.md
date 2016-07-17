@@ -245,7 +245,6 @@
 
 body {
     background: #f0f0f0;
-    font-family: Helvetica, Arial, sans-serif;
 }
 
 /* BUREAU FLAIR */
