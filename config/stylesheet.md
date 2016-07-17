@@ -248,6 +248,40 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+/* BUREAU FLAIR */
+
+.flair-settings {
+    margin-bottom: 5px;
+}
+
+.tabpane-content {
+    background: #fff;
+    border: 0;
+    padding: 5px;
+    margin-top: 4px;
+}
+
+#tab-grant, #tab-templates, #tab-link_templates {
+    font-size: 14px;
+    font-weight: normal;
+    margin-left: 0;
+}
+
+#tab-grant a, #tab-templates a, #tab-link_templates a {
+    padding: 4px 8px;
+    text-decoration: none;
+}
+
+#tab-grant.selected a, #tab-templates.selected a, #tab-link_templates.selected a {
+    background: #c45b52;
+    color: #fff;
+    border: 0;
+}
+
+.flairlist .flair-jump input[type="text"] {
+    padding: 4px;
+}
+
 
 
 /*** BROWSER ***/
