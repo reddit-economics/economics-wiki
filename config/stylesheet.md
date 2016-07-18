@@ -2431,7 +2431,7 @@ ul#image-preview-list .preview img {
 
 .res #RESShortcutsEditContainer {
     height: 20px;
-    background: rgba(44,44,44,1);
+    background: rgba(63, 63, 63, 1);
 }
 
 .res #progressIndicator, .res .NERPageMarker, .res #NERFail {
