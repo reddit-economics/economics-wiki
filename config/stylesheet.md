@@ -249,6 +249,10 @@ body {
 
 /* BUREAU FLAIR */
 
+.flair-QC {
+    background: #8676ae;
+}
+/*
 .flair-settings {
     margin-bottom: 5px;
 }
@@ -280,6 +284,7 @@ body {
 .flairlist .flair-jump input[type="text"] {
     padding: 4px;
 }
+*/
 
 
 
