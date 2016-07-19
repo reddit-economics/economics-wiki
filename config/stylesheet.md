@@ -250,7 +250,7 @@ body {
 /* BUREAU FLAIR */
 
 .flair-QC {
-    background: #8676ae;
+    background-color: #8676ae !important;
 }
 /*
 .flair-settings {
