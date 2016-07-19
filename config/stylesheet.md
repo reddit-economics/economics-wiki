@@ -251,7 +251,7 @@ body {
 
 .flair-QC {
     background-color: #8676ae !important;
-    color: #fff;
+    color: #fff !important;
 }
 /*
 .flair-settings {
