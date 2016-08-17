@@ -12,9 +12,9 @@
 
 0. Please post links to the **original source**, **no blogspam**, and **do not submit editorialized headlines**. No memes.
 
-0. All **images**, **charts**, and/or **videos**, **including original content**, must be submitted with a source and summary (tl;dr).
-
 0. **Personal attacks and harassment will not be tolerated.** Please report personal attacks, racism, misogyny, or harassment you see or experience. We will remove these comments and take other appropriate measures.
+
+0. All **images**, **charts**, and/or **videos**, **including original content**, must be submitted with a source and summary (tl;dr).
 
 0. **Top-level comments** consisting of **mere jokes, nakedly political comments, circlejerking,** or otherwise non-substantive contributions without reference to the article, economics, or the thread at hand will be removed.
 
