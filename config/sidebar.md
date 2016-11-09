@@ -1,9 +1,3 @@
-### [Featured Related Subreddit](https://www.reddit.com/r/Economics/comments/42qypz/nomination_thread_for_featured_subreddit_jan_2016/)  
-
-**/r/GoodEconomics**: The mission of GE is to serve as a repository for good economics comments from Reddit. Comments providing an in depth economic analysis, extensive sources from the literature, or even just detailed, intuitive and logically consistent answers to economic questions. 
-
----
-
 ### Subreddit Rules
 
 0. This subreddit should enable sharing and discussing economic **research and news from the perspective of economists**. Academic work and summaries are welcome. 
@@ -25,10 +19,6 @@
 ---
 
 Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/comments/4cqj77/call_for_bureau_member_flair_4/)
-
----
-
-Informal polling in January, 2015 indicates readers of the subreddit fall into these [**Schools of Thought**](http://i.imgur.com/oOsDPdD.png).
 
 ---
 
