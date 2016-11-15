@@ -18,7 +18,7 @@
 
 ---
 
-Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/comments/4cqj77/call_for_bureau_member_flair_4/)
+Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/comments/5cbu93/call_for_bureau_member_flair_5/)
 
 ---
 
