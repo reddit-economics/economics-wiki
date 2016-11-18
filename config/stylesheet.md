@@ -1729,11 +1729,17 @@ label[for=flair_enabled] {
 }
 
 #new_modmail.nohavemail  {
-    background: url(%%NewModMailN%%) 2px 9px no-repeat;
+    background: url(%%NewModMailN%%) no-repeat center !important;
+    width: 15px !important;
+    height: 14px !important;
+    top: 5px;
 }
 
 #new_modmail.havemail {
-    background: url(%%NewModMailY%%) 2px 9px no-repeat;
+    background: url(%%NewModMailY%%) no-repeat center !important;
+    width: 15px !important;
+    height: 14px !important;
+    top: 5px;
 }
 
 .pref-lang {
