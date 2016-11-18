@@ -4,9 +4,6 @@
 
 /*** COLOR SCHEME ***/
 
-/* Color of the header and the footer.
-   For a solid color, remove first 4 lines and add 'background: #444;' */
-
 #header, .footer-parent  {
     background: #8676ae; /* Old browsers */
     background: -moz-linear-gradient(top,  #8676ae 0%, #555 100%); /* FF3.6-15 */
@@ -14,17 +11,12 @@
     background: linear-gradient(to bottom,  #8676ae 0%,#555 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
-/* Color of the submit buttons.
-   For a solid color, remove first 4 lines and add 'background: #444;' */
-
 .morelink {
     background: -webkit-radial-gradient(50% 190%, circle cover, #5f5f5f 0%, #545454 50%, #3f3f3f 100%) #444;
     background: -o-radial-gradient(50% 190%, circle cover, #5f5f5f 0%, #545454 50%, #3f3f3f 100%) #444;
     background: -moz-radial-gradient(50% 190%, circle cover, #5f5f5f 0%, #545454 50%, #3f3f3f 100%) #444;
     background: -ms-radial-gradient(50% 190%, circle cover, #5f5f5f 0%, #545454 50%, #3f3f3f 100%) #444;
 }
-
-/* Color of the submit buttons on hover. */
 
 .morelink:hover {
     background: #333;
@@ -1732,8 +1724,16 @@ label[for=flair_enabled] {
     opacity: .8;
 }
 
-#mail.havemail:hover, #modmail.havemail:hover {
+#mail.havemail:hover, #modmail.havemail:hover, #new_modmail.havemail:hover {
     opacity: 1;
+}
+
+#new_modmail.nohavemail  {
+    background: url(%%NewModMailN%%) 2px 9px no-repeat;
+}
+
+#new_modmail.havemail {
+    background: url(%%NewModMailY%%) 2px 9px no-repeat;
 }
 
 .pref-lang {
