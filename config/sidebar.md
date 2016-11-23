@@ -14,11 +14,15 @@
 
 ---
 
-**Want to learn more?** Suggested readings - [books](http://www.reddit.com/r/Economics/wiki/reading/), [blogs](http://www.reddit.com/r/Economics/wiki/blogs), and [macroeconomics reading list](http://integdomain.wordpress.com/reading-list/) (courtesy of /u/Integralds)
+**Want to learn more?** 
+
+* [Books](http://www.reddit.com/r/Economics/wiki/reading/)
+* [Blogs](http://www.reddit.com/r/Economics/wiki/blogs)
+* [Career Advice](https://www.reddit.com/r/Economics/wiki/career)
 
 ---
 
-Want bureau member flair? [**Apply here!**](https://www.reddit.com/r/Economics/comments/5cbu93/call_for_bureau_member_flair_5/)
+**Want Bureau Member flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/5cbu93/call_for_bureau_member_flair_5/)
 
 ---
 
@@ -27,10 +31,3 @@ We have two active bots in this sub, which seek to provide relevant content from
 - **/u/Shares_RSS**  shares economic news from Reuters and Fivethirtyeight feeds. 
 
 - **/u/Central_bank_bot** shares working papers and academic research from NBER, German Bundesbank, Bank of Canada, Banque Nationale Suisse, CEPS, and the National Bank of Belgium feeds. 
-
----
-
-[**Nomination Thread for Article of the Week**](http://www.reddit.com/r/Economics/comments/2xlknu/article_of_the_week_topic_of_the_month_nomination/) 
-
-[**Previous Articles of the Week**](http://www.reddit.com/r/Economics/search?q=%22article+of+the+week%22&sort=new&restrict_sr=on&t=all)
-
