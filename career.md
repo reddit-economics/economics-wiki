@@ -4,7 +4,7 @@
 
 * [/u/Integralds's advice for undergrads thinking about grad school](https://www.reddit.com/r/Economics/wiki/career_undergrad)
 * [/u/Integralds's advice for grad students](https://www.reddit.com/r/Economics/wiki/career_grad)
-* [/u/Integralds's coursework checklist](https://www.reddit.com/r/Economics/wiki/career_courses)
+* [/u/Integralds's "I want to go to grad school" checklist](https://www.reddit.com/r/Economics/wiki/career_courses)
 
 ----
 
