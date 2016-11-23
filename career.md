@@ -12,7 +12,7 @@
 
 * [The AEA's advice  page on applying to PhD programs.](https://www.aeaweb.org/resources/students/grad-prep)
 
-* [EconPhD's application guide](http://econphd.econwiki.com/guide.htm)  (2004) -- You should link to this. It is required reading, despite being a decade old.
+* [EconPhD's application guide](http://econphd.econwiki.com/guide.htm)  (2004) -- this is required reading, despite being about a decade old.
 
 * Simon Board, [Applying to Graduate Programs in Economics](http://www.econ.ucla.edu/sboard/teaching/grad_application.pdf) (2006). Board completed undergraduate study at Cambridge (UK), graduate study at Stanford GSB, and has worked as a professor at Toronto and UCLA.
 
@@ -50,7 +50,7 @@
 
 * Grove et al, [Survive, then thrive: determinants of success in the economics PhD program](http://onlinelibrary.wiley.com/doi/10.1111/j.1465-7295.2007.00041.x/abstract)
 
-* Hisham Ford, [Memoirs of a Job Market Candidate](http://foad.sdsu.edu/~hfoad/memoirs.pdf) (2006). Hisham went from Kenyon College (BA) to Emory (PhD) and now works as a professor at San Diego State University.
+* Hisham Foad, [Memoirs of a Job Market Candidate](http://foad.sdsu.edu/~hfoad/memoirs.pdf) (2006). Hisham went from Kenyon College (BA) to Emory (PhD) and now works as a professor at San Diego State University.
 
 * Some [advice](http://web.stanford.edu/~niederle/Advice_Chicago.pdf) for the job market by Chicago PhDs.
 
