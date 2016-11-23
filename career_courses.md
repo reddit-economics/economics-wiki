@@ -1,5 +1,7 @@
 /u/Integralds's "I want to go to grad school" Checklist
 
+-----
+
 ## Coursework 
 
 ### Mathematics
