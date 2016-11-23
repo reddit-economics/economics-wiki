@@ -2,15 +2,13 @@
 
 -----
 
-I have two resources already written, one for [undergrads thinking about grad school](https://www.reddit.com/r/badeconomics/comments/3pqxke/badeconomics_discussion_thread_22_october_2015/cw8ux1o/) and one for [grad students.](https://www.reddit.com/r/badeconomics/comments/3pwb2n/badeconomics_discussion_thread_23_october_2015/cwa2w98/) Also I have a 90% serious [coursework checklist](https://www.reddit.com/r/badeconomics/comments/523edg/the_gold_discussion_sticky_come_ask_questions_and/d7j15ys/) for ambitious students.
-
-/u/besttrousers has mentioned in the past that while they're nice guides on the mechanics, they don't really tell you *whether* you should go to grad school or what grad school actually *entails,* so I'm writing up notes on that as well.
-
-Other resources you might want to point to are below. (If any of the links are broken, PM me and I will fix them.)
+* [/u/Integralds's advice for undergrads thinking about grad school](https://www.reddit.com/r/Economics/wiki/career_undergrad)
+* [/u/Integralds's advice for grad students](https://www.reddit.com/r/Economics/wiki/career_grad)
+* [/u/Integralds's coursework checklist](https://www.reddit.com/r/Economics/wiki/career_courses)
 
 ----
 
-For undergrads thinking about applying to grad school:
+## For Undergrads Thinking About Applying to Grad School
 
 * [The AEA's advice  page on applying to PhD programs.](https://www.aeaweb.org/resources/students/grad-prep)
 
@@ -42,7 +40,7 @@ For undergrads thinking about applying to grad school:
 
 ---
 
-Advice for grad students:
+## For Grad Students
 
 * Coles et al, "The Job Market for New Economists: A Market Design Perspective." JEP 2010 (Fall).
 
