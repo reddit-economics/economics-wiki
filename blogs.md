@@ -31,7 +31,7 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [Normal Deviate](http://normaldeviate.wordpress.com/)
 * [Diebold's No Hesitation](http://fxdiebold.blogspot.com) (new!)
 
-## **D. Microeconomics and Applied Microeconomics**  
+## **D. Microeconomics**  
 
 * [Jeff Ely's Cheap Talk](http://cheaptalk.org/)
 * [Acemoglu's Why Nations Fail blog](http://whynationsfail.com/)
@@ -41,8 +41,11 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [The World Bank's Development Impact](http://blogs.worldbank.org/impactevaluations/)
 * [John Whitehead's Environmental Economics](http://www.env-econ.net/) (fun!)
 * [Matthew Kahn's Environmental and Urban Economics](http://greeneconomics.blogspot.com/)
+* [Al Roth's Market Design](http://marketdesigner.blogspot.com/)
+* [Rakesh Vohra et al's Leisure of the Theory Class](https://theoryclass.wordpress.com/)
+* [Dani Rodrik's weblog](http://rodrik.typepad.com/dani_rodriks_weblog/)
 
-## **E. Macroeconomics**
+## **E. Macroeconomics and Finance**
 
 * [Scott Sumner's The Money Illusion](http://www.themoneyillusion.com/)
 * [Nick Rowe et al's Worthwhile Canadian Initiative](http://worthwhile.typepad.com/)
@@ -57,7 +60,6 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [Steve Williamson's New Monetarism](http://newmonetarism.blogspot.com/)
 * [David Andolfatto's MacroMania](http://andolfatto.blogspot.com/)
 * [Noah Smith's Noahpinion](http://noahpinionblog.blogspot.com/)
-* [John Cochrane's Grumpy Economist](http://johnhcochrane.blogspot.com/)
 * [John Taylor's Economics One](http://economicsone.com/)
 * [Casey Mulligan's Supply and Demand](http://caseymulligan.blogspot.com/)
 * [Antonio Fatas's Blog](http://fatasmihov.blogspot.sg/)
@@ -67,7 +69,9 @@ I do not personally follow all of these, but here's a wide sampling. I can't gua
 * [David Beckworth's Macro Market Musings](http://macromarketmusings.blogspot.com/)
 * [Atlanta Fed Macroblog](http://macroblog.typepad.com/)
 * [St. Louis Fed Economic Synopses](http://research.stlouisfed.org/publications/es/)
-* [New York Fed Liberty Street Economics](http://libertystreeteconomics.newyorkfed.org/)
+* [The NY Fed's Liberty Street Economics](http://libertystreeteconomics.newyorkfed.org/)
+* [John Cochrane's Grumpy Economist](http://johnhcochrane.blogspot.com/)
+* [Craig Pirrong's Streetwise Professor](http://streetwiseprofessor.com/)
 
 ## **F. Economics News**
 
