@@ -245,6 +245,12 @@ body {
     background-color: #8676ae !important;
     color: #fff !important;
 }
+
+.flair-DS {
+    background-color: #B40404;
+    color: #fff;
+}
+
 /*
 .flair-settings {
     margin-bottom: 5px;
