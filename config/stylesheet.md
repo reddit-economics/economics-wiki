@@ -3156,7 +3156,7 @@ html[lang^="nm"] .res #RESStyleSheetTipPane-header {
     font-size: 24px;
 }
 
-.wiki-page .wiki p {
+.wiki-page .wiki p, .wiki-page .wiki ul {
     font-size: 16px;
 }
 
