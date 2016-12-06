@@ -31,3 +31,16 @@ We have two active bots in this sub, which seek to provide relevant content from
 - **/u/Shares_RSS**  shares economic news from Reuters and Fivethirtyeight feeds. 
 
 - **/u/Central_bank_bot** shares working papers and academic research from NBER, German Bundesbank, Bank of Canada, Banque Nationale Suisse, CEPS, and the National Bank of Belgium feeds. 
+
+---
+
+#Reddit Economics Network
+
+|Subreddit|Subject|
+|---|---|
+|/r/Economics|General economics discussion and news|
+|/r/AskEconomics|Got a question about economics? We'll try to answer it!|
+|/r/BadEconomics|Share examples of bad, ill-informed, or just silly economics|
+
+
+---
