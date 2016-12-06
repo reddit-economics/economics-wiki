@@ -1,16 +1,31 @@
 ### Subreddit Rules
 
-0. This subreddit should enable sharing and discussing economic **research and news from the perspective of economists**. Academic work and summaries are welcome. 
+--
 
-0. Posts which are **tenuously related to economics or light on economic analysis** or from perspectives other than those of economists should be shared with more appropriate subreddits and **will be removed**. This will keep /r/economics distinct from the many related subreddits.  
+1. **Discipline-Specific News, Research, & Work**
 
-0. Please post links to the **original source**, **no blogspam**, and **do not submit editorialized headlines**. No memes.
+  1. /r/Economics concerns proliferation and discourse pertaining to *research, news, academic work, and academic summaries from the perspective of economists*.
 
-0. **Personal attacks and harassment will not be tolerated.** Please report personal attacks, racism, misogyny, or harassment you see or experience. We will remove these comments and take other appropriate measures.
+2. **Economic-Specific Quality Standards**
 
-0. All **images**, **charts**, and/or **videos**, **including original content**, must be submitted with a source and summary (tl;dr).
+  1. Submissions and/or comments *tenuously related to economics, light on economic analysis*, or from perspectives other than those of economists *will be removed*.
 
-0. **Top-level comments** consisting of **mere jokes, nakedly political comments, circlejerking,** or otherwise non-substantive contributions without reference to the article, economics, or the thread at hand will be removed.
+3. **Source Standards**
+
+  1. Submissions must be from *original sources*. Editorialization, memes, and/or blogspam are not acceptable.  
+
+4. **User Behavior Standards**
+
+  1. *Personal attacks and harassment will result in removal of comments; multiple infractions will result in a permanent ban.* Please report personal attacks, racism, misogyny, or harassment you see or experience. 
+
+
+5. **Multimedia Guidelines**
+
+  1. *Images*, *charts*, and/or *videos* -- *including original content* -- must be submitted with a source and summary.
+
+6. **Off-Topic Discourse Guidelines**
+
+  1. *Comments* consisting of *mere jokes, nakedly political comments, circlejerking,* or otherwise non-substantive contributions without reference to the article, economics, or the thread at hand will be removed.
 
 ---
 
