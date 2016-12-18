@@ -4,28 +4,28 @@
 
 1. **Discipline-Specific News, Research, & Work**
 
-  1. /r/Economics concerns proliferation and discourse pertaining to *research, news, academic work, and academic summaries from the perspective of economists*.
+  /r/Economics concerns proliferation and discourse pertaining to *research, news, academic work, and academic summaries from the perspective of economists*.
 
 2. **Economic-Specific Quality Standards**
 
-  1. Submissions and/or comments *tenuously related to economics, light on economic analysis*, or from perspectives other than those of economists *will be removed*.
+  Submissions and/or comments *tenuously related to economics, light on economic analysis*, or from perspectives other than those of economists *will be removed*.
 
 3. **Source Standards**
 
-  1. Submissions must be from *original sources*. Editorialization, memes, and/or blogspam are not acceptable.  
+  Submissions must be from *original sources*. Editorialization, memes, and/or blogspam are not acceptable.  
 
 4. **User Behavior Standards**
 
-  1. *Personal attacks and harassment will result in removal of comments; multiple infractions will result in a permanent ban.* Please report personal attacks, racism, misogyny, or harassment you see or experience. 
+  *Personal attacks and harassment will result in removal of comments; multiple infractions will result in a permanent ban.* Please report personal attacks, racism, misogyny, or harassment you see or experience. 
 
 
 5. **Multimedia Guidelines**
 
-  1. *Images*, *charts*, and/or *videos* -- *including original content* -- must be submitted with a source and summary.
+  *Images*, *charts*, and/or *videos* -- *including original content* -- must be submitted with a source and summary.
 
 6. **Off-Topic Discourse Guidelines**
 
-  1. *Comments* consisting of *mere jokes, nakedly political comments, circlejerking,* or otherwise non-substantive contributions without reference to the article, economics, or the thread at hand will be removed.
+  *Comments* consisting of *mere jokes, nakedly political comments, circlejerking,* or otherwise non-substantive contributions without reference to the article, economics, or the thread at hand will be removed.
 
 ---
 
