@@ -1,14 +1,13 @@
 **Career Resources** (by /u/Integralds)
 
------
-
-* [/u/Integralds's advice for undergrads thinking about grad school](https://www.reddit.com/r/Economics/wiki/career_undergrad)
-* [/u/Integralds's advice for grad students](https://www.reddit.com/r/Economics/wiki/career_grad)
-* [/u/Integralds's "I want to go to grad school" checklist](https://www.reddit.com/r/Economics/wiki/career_courses)
 
 ----
 
 ## For Undergrads Thinking About Applying to Grad School
+
+* **[/u/Integralds's advice for undergrads thinking about grad school](https://www.reddit.com/r/Economics/wiki/career_undergrad)**
+
+* **[/u/Integralds's "I want to go to grad school" checklist](https://www.reddit.com/r/Economics/wiki/career_courses)**
 
 * [The AEA's advice  page on applying to PhD programs.](https://www.aeaweb.org/resources/students/grad-prep)
 
@@ -42,6 +41,8 @@
 
 ## For Grad Students
 
+* **[/u/Integralds's advice for grad students](https://www.reddit.com/r/Economics/wiki/career_grad)**
+
 * Coles et al, "The Job Market for New Economists: A Market Design Perspective." JEP 2010 (Fall).
 
 * Masayuki Kudamatsu's [Tips for Economists](https://sites.google.com/site/mkudamatsu/tips4economists) (2015, updated continuously). Masayuki went from the University of Tokyo (undergraduate) to LSE (PhD) and works at Stockholm University in Sweden.
@@ -64,4 +65,4 @@
 
 * Blattman's [links to advice.](http://chrisblattman.com/2008/11/09/academic-job-market-advice/)
 
-* John Cawley's ***A Guide and Advice for Economists on the US Junior Academic Job Market.*** A new edition is released annually. Google for the most recent version.
+* John Cawley's ***A Guide and Advice for Economists on the US Junior Academic Job Market.*** A new edition is released annually. Google for the most recent version.*
