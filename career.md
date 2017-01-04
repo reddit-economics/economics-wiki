@@ -19,4 +19,4 @@
 
 * **[/u/Integralds's advice for grad students](https://www.reddit.com/r/Economics/wiki/career_grad)**
 
-* [Collection of Online Resources for Econ Grad Students (also many links!)](https://www.reddit.com/r/Economics/wiki/career_undergrad_links)
+* [Collection of Online Resources for Econ Grad Students (also many links!)](https://www.reddit.com/r/Economics/wiki/career_grad_links)
