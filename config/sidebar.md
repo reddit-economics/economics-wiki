@@ -41,9 +41,7 @@
 
 ---
 
-We have two active bots in this sub, which seek to provide relevant content from various RSS feeds.  [Related discussion](http://www.reddit.com/r/Economics/comments/25yjr1/announcing_the_provision_of_rss_feeds_into/).
-
-- **/u/Shares_RSS**  shares economic news from Reuters and Fivethirtyeight feeds. 
+We have an active bot which seeks to provide relevant content from various RSS feeds.  [Related discussion](http://www.reddit.com/r/Economics/comments/25yjr1/announcing_the_provision_of_rss_feeds_into/).
 
 - **/u/Central_bank_bot** shares working papers and academic research from NBER, German Bundesbank, Bank of Canada, Banque Nationale Suisse, CEPS, and the National Bank of Belgium feeds. 
 
