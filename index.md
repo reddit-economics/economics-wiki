@@ -33,7 +33,7 @@
 
 ### Graduate School Panels
 
-* [Panel I: December 17](https://www.reddit.com/r/Economics/comments/5f7p5o/reconomics_graduate_school_question_thread/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
+* [Panel I: December 2017](https://www.reddit.com/r/Economics/comments/5f7p5o/reconomics_graduate_school_question_thread/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 
 
 ----
