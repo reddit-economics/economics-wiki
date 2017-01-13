@@ -1,6 +1,6 @@
     ###### If you edit this page, you must [click this link, then click "send"](http://www.reddit.com/message/compose/?to=AutoModerator&subject=economics&message=schedule) to have AutoModerator re-load the schedule from here
     
-    irst: “Friday January 20, 2017 12:00 am"  
+    first: “Friday January 20, 2017 12:00 am"  
     repeat: 1 week  
     sticky: true  
     title: “Gold Standard Discussion Thread - {{date %d %B %Y}}"  
