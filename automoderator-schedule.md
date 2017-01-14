@@ -3,9 +3,9 @@
     first: “Friday January 20, 2017 12:00 am"  
     repeat: 1 week  
     sticky: true  
-    title: “Gold Standard Discussion Thread - {{date %d %B %Y}}"  
+    title: “r/Economics Discussion Thread - {{date %d %B %Y}}"  
     text: |   
-        Welcome to the Gold Standard Discussion Thread! This is a place for high-quality economics discussion.
+        Welcome to the Economics Discussion Thread! This is a place for high-quality economics discussion.
 
         Please be mindful of the following rules:
 
