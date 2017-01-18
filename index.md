@@ -5,7 +5,8 @@
 
 ## Bureau Member Discussions
 
-* [BMs on the Gender Wage Gap (1/9/17)](https://www.reddit.com/r/Economics/comments/5myux7/bureau_members_discuss_the_gender_wage_gap/)
+* [BMs discuss the Permanent Income Hypothesis (1/16/17)](https://www.reddit.com/r/Economics/comments/5ob3cb/bureau_members_discuss_the_permanent_income/)
+* [BMs discuss the Gender Wage Gap (1/9/17)](https://www.reddit.com/r/Economics/comments/5myux7/bureau_members_discuss_the_gender_wage_gap/)
 
 ----
 
