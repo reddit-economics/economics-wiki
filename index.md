@@ -42,6 +42,11 @@
 ## Frequently Asked Questions
 (forthcoming)
 
+* Immigration
+* Trade
+* Inequality
+* Basic Income
+
 ----
 
 ## Reading Suggestions
