@@ -42,10 +42,12 @@
 ## Frequently Asked Questions
 (forthcoming)
 
-* Immigration
-* Trade
-* Inequality
-* Basic Income
+* [What is Economics?](http://www.reddit.com/r/Economics/wiki/faq_methods)
+* [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
+* [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
+* [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
+* [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
+* [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
 
 ----
 
