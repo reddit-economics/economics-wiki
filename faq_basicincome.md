@@ -15,7 +15,7 @@ A simple UBI can be framed as
 A simple NIT can be framed as
 
 * Define a cutoff income. Call it a "standard deduction" if you wish.
-* If you make more than the cutoff, then you deduct the cutoff from your pretax income and pay taxe rate = t on the remainder. So Income = pretax - t*(pretax-cutoff)
+* If you make more than the cutoff, then you deduct the cutoff from your pretax income and pay tax rate = t on the remainder. So Income = pretax - t*(pretax-cutoff)
 * If you make less than the cutoff, you pay no taxes, and in addition you get some fraction k of the difference back. Income = pretax + k*(cutoff-pretax)
 * If you earn exactly the cutoff, then nothing happens. You keep your pretax income.
 
@@ -39,7 +39,7 @@ This is an enormously complicated question.  Most proposals for a UBI call for r
 * Will healthcare programs be eliminated and lumped into the UBI fund, or dealt with separately?
 * How do we deal with children and education?  In theory, granting a full UBI to each child could be enough to provide a child's living expenses and education.  But there is risk that parents might spend that money imprudently and neglect their children's education.  
 * Should we measure federal money only, or state/local programs as well?  
-* Should we also eliminate of [tax expenditures](https://en.wikipedia.org/wiki/Tax_expenditure) like mortgage-interest and healthcare deductions, which can be argued as middle-class welfare programs?
+* Should we also eliminate [tax expenditures](https://en.wikipedia.org/wiki/Tax_expenditure) like mortgage-interest and healthcare deductions, which can be portrayed as middle-class welfare programs?
 * How to deal with social security, which is a system you pay into and only partially redistributive?
 
 In order to come up with a real estimate of how large a UBI the US could currently afford, choices need to be made about all these programs.  [Ed Dolan](http://www.economonitor.com/dolanecon/2014/01/13/could-we-afford-a-universal-basic-income/) has built a comprehensive estimate based around
