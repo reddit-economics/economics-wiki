@@ -40,9 +40,7 @@
 ----
 
 ## Frequently Asked Questions
-(forthcoming)
 
-* [What is Economics?](http://www.reddit.com/r/Economics/wiki/faq_methods)
 * [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
 * [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
 * [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
