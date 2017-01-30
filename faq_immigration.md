@@ -1,4 +1,4 @@
-## Immigration
+## FAQ: Immigration
 
 (by /u/mrdannyocean)
 
