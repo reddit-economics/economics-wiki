@@ -36,9 +36,11 @@ The important takeaway is that cannot assume economic outcomes from a deductive 
 ### **Bad Controls**
 (or "Being Paid 77 cents on the Dollar and Controlling for Education: The Omitted Variable's Edition")
 
-Many of the gender wage gap arguments on reddit boil down to one side asserting that the 77 cents to the dollar wage gap is pure discrimination and the other asserting that other things like education, hours worked, etc. have to be controlled for as they cause earnings to be higher. They are arguing that the 77 cents on a dollar claim isn’t looking at all relevant variables.
+Many of the gender wage gap arguments on reddit boil down to one side asserting that the 77 cents to the dollar wage gap is pure discrimination and the other asserting that other things like education, hours worked, etc. have to be controlled for as they cause earnings to be higher. They are arguing that the 77 cents on a dollar claim isn’t looking at all relevant variables, and that the gender wage gap mostly disappears when you control for these relevant variables.
 
-However, as [Goldin (2014)](https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf) notes, first that the gender wage gap has shrunk across time
+Both of these two views paint too simplistic a picture.  It's true that the raw gap is roughly 77 cents to the dollar.  It's also true that the gap shrinks significantly when controlling for hours worked, education, etc.  What we don't know is which way the causation goes.  Do women earn less because they choose lower earning majors and shorter work hours, or does the existence of discrimination cause women to alter their choices of majors and alter their working hours?  Education, working hours and other 'controls' are not necessarily appropriate controls, as they could also be outcomes of discrimination.  For further discussion of this point, see the /r/economics [Bureau Member Chat](https://www.reddit.com/r/Economics/comments/5myux7/bureau_members_discuss_the_gender_wage_gap/).
+
+In addition, as [Goldin (2014)](https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf) notes the gender wage gap has shrunk across time.
 
 > The mantra of the women’s movement in the 1970s was “59 cents on the dollar” and a more recent crusade for pay equality has adopted “77 cents on the dollar.” 
 
@@ -46,9 +48,9 @@ Then notes some potential reasons why.
 
 >As women have increased their productivity enhancing characteristics and as they “look” more like men, the human capital part of the wage difference has been squeezed out. 
 
-Something caused women to change their human capital decisions (decision affecting educational attainment etc.), causing the gender wage gap to shrink. These factors motivating these human capital decisions could very much matter too! For instance, increased work ethic would affect on the job performance and increase educational attainment. However, that is almost going to be impossible to control for. There is really no limit to this omitted variable problem. Even if you think of everything you could have missed something. So both sides of this argument suffer the same problems, namely there are omitted variables they didn't control for.
+Something caused women to change their human capital decisions (educational attainment, etc.) shrinking the gender wage gap. These factors motivating these human capital decisions could very much matter too! For instance, increased work ethic would affect on the job performance and increase educational attainment. However, this type of omitted variable problem is very difficult to control for. 
 
-Furthermore, once you do not have every variable controlled for, you do not have a causal interpretation. It is possible that leaving out a control variable puts you closer to the unknown “true” effect. On the other hand, it is possible that leaving out an important variable puts you further away from the “true” effect. Both of these arguments suffer serious methodological problems.
+Once you realize that you do not have every variable controlled for, your analysis does not have a causal interpretation. It is possible that leaving out a control variable puts you closer to the unknown “true” effect. On the other hand, it is possible that the control variable is really an outcome of discrimination, or that leaving out an important variable puts you further away from the “true” effect. Both of these arguments suffer serious methodological problems.
 
 There are two basic strategies to deal with this. One is to find a way to run experiments and try to measure what you can. An advantage of this is that there is no doubt you have gotten cause and effect right. A downside of this is you do not know how sensitive your findings are or if they scale to outside situations. You also might not know exactly how your cause and effect happens. These make it hard to know what policy to use. More on this is discussed in the Audit Studies section.
 
