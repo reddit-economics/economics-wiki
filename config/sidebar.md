@@ -47,7 +47,7 @@ We have an active bot which seeks to provide relevant content from various RSS f
 
 ---
 
-#Reddit Economics Network
+#Reddit Economics Network (R.E.N.)
 
 |Subreddit|Subject|
 |---|---|
@@ -55,5 +55,12 @@ We have an active bot which seeks to provide relevant content from various RSS f
 |/r/AskEconomics|Got a question about economics? We'll try to answer it!|
 |/r/BadEconomics|Share examples of bad, ill-informed, or just silly economics|
 
+--
+
+###R.E.N. FAQ
+
+* [Frequently Asked Questions Resource Page](https://www.reddit.com/r/Economics/wiki/index#wiki_frequently_asked_questions)
+
+--
 
 ---
