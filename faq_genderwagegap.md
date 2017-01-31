@@ -4,40 +4,21 @@
 
 **Gender Wage Gap FAQ**
 
-
 1. Overview of Economic Theory of Labor Market
-
-
 2. Bad Controls
-
-
 3. Audit Studies
-
-
 4. Review of Claudia Goldin’s work
-
-
 
 ###Theoretical Overview
 
-
 Does a free market prevent wage gaps from forming, due to competition?
-
 
 Let's assume perfectly competitive labor markets which have the following important properties.
 
-
-i. Free Entry/Exit – No barriers to entry/exit (including entry/exit costs)
-
-
-ii. Homogeneous work environments (so firms only compete on wages offered)
-
-
-iii. Perfect information- All parties have the same information
-
-
-iv. A large amount of buyers and sellers- no one can have a monopoly or significant market share
-
+* Free Entry/Exit – No barriers to entry/exit (including entry/exit costs)
+* Homogeneous work environments (so firms only compete on wages offered)
+* Perfect information- All parties have the same information
+* A large amount of buyers and sellers- no one can have a monopoly or significant market share
 
 Under these conditions, 'taste based' discrimination cannot cause a wage gap. If marginalized workers work for discriminatory firms, nondiscriminatory firms will hire them away. This will put pressure to equalize wages between these groups, potentially running discriminatory firms out of business, though not necessarily. If discriminatory firms can hire enough of their preferred workers without causing a wage gap, they will stay in business. This is the fleshed out argument that free markets prevent discrimination, first formulated by [Becker (1957)](http://press.uchicago.edu/ucp/books/book/chicago/E/bo22415931.html)
 
