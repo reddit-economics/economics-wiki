@@ -3,6 +3,21 @@
 
 ----
 
+## Frequently Asked Questions
+
+* [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
+* [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
+* [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
+* [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
+* [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
+
+----
+
+## Reading Suggestions
+
+For suggestions on books, [see integral's book list](http://www.reddit.com/r/Economics/wiki/reading).  
+For suggestions on news/blogs, [see integral's blog list](http://www.reddit.com/r/Economics/wiki/blogs).
+
 ## Bureau Member Discussions
 
 * [BMs discuss the Permanent Income Hypothesis (1/16/17)](https://www.reddit.com/r/Economics/comments/5ob3cb/bureau_members_discuss_the_permanent_income/)
@@ -32,20 +47,4 @@
 
 * [Panel I: December 2017](https://www.reddit.com/r/Economics/comments/5f7p5o/reconomics_graduate_school_question_thread/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 
-
 ----
-
-## Frequently Asked Questions
-
-* [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
-* [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
-* [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
-* [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
-* [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
-
-----
-
-## Reading Suggestions
-
-For suggestions on books, [see integral's book list](http://www.reddit.com/r/Economics/wiki/reading).  
-For suggestions on news/blogs, [see integral's blog list](http://www.reddit.com/r/Economics/wiki/blogs).
