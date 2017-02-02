@@ -10,11 +10,7 @@
 
 ----
 
-
----
-
 ## Career Advice
-
 
 ### For Undergrads Thinking About Applying to Grad School
 
