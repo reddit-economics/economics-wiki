@@ -11,6 +11,8 @@
 * [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
 * [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
 
+Looking to contribute?  See a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections)
+
 ----
 
 ## Reading Suggestions
