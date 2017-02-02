@@ -20,11 +20,6 @@ Looking to contribute?  See instructions and a list of topics needing coverage [
 For suggestions on books, [see integral's book list](http://www.reddit.com/r/Economics/wiki/reading).  
 For suggestions on news/blogs, [see integral's blog list](http://www.reddit.com/r/Economics/wiki/blogs).
 
-## Bureau Member Discussions
-
-* [BMs discuss the Permanent Income Hypothesis (1/16/17)](https://www.reddit.com/r/Economics/comments/5ob3cb/bureau_members_discuss_the_permanent_income/)
-* [BMs discuss the Gender Wage Gap (1/9/17)](https://www.reddit.com/r/Economics/comments/5myux7/bureau_members_discuss_the_gender_wage_gap/)
-
 ----
 
 ## Career Advice
@@ -50,3 +45,8 @@ For suggestions on news/blogs, [see integral's blog list](http://www.reddit.com/
 * [Panel I: December 2017](https://www.reddit.com/r/Economics/comments/5f7p5o/reconomics_graduate_school_question_thread/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
 
 ----
+
+## Bureau Member Discussions
+
+* [BMs discuss the Permanent Income Hypothesis (1/16/17)](https://www.reddit.com/r/Economics/comments/5ob3cb/bureau_members_discuss_the_permanent_income/)
+* [BMs discuss the Gender Wage Gap (1/9/17)](https://www.reddit.com/r/Economics/comments/5myux7/bureau_members_discuss_the_gender_wage_gap/)
