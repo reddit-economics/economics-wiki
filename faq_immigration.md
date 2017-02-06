@@ -20,10 +20,12 @@ For the most comprehensive recent study on the impacts of immigration, look to t
 
 * When measured over a period of 10 years or more, the impact of immigration on the wages of native-born workers overall is very small. To the extent that negative impacts occur, they are most likely to be found for prior immigrants or native-born workers who have not completed high school—who are often the closest substitutes for immigrant workers with low skills.
 * There is little evidence that immigration significantly affects the overall employment levels of native-born workers. As with wage impacts, there is some evidence that recent immigrants reduce the employment rate of prior immigrants. 
-* Some evidence on inflow of skilled immigrants suggests that there may be positive wage effects for some subgroups of native-born workers, and other benefits to the economy more broadly.
+* Evidence on the inflow of high-skilled immigrants suggests that there may be positive wage effects for some subgroups of native-born workers, and other, wider benefits to the economy more broadly.
 * Immigration has an overall positive impact on long-run economic growth in the U.S.
 * In terms of fiscal impacts, first-generation immigrants are more costly to governments, mainly at the state and local levels, than are the native-born, in large part due to the costs of educating their children. However, as adults, the children of immigrants (the second generation) are among the strongest economic and fiscal contributors in the U.S. population, contributing more in taxes than either their parents or the rest of the native-born population.
 * Over the long term, the impacts of immigrants on government budgets are generally positive at the federal level but remain negative at the state and local level — but these generalizations are subject to a number of important assumptions. Immigration’s fiscal effects vary tremendously across states.
+
+These conclusions largely match the consensus opinions of economists.  IGM polls find that economists overwhelmingly believe that [high-skilled immigration benefits the economy](http://www.igmchicago.org/surveys/high-skilled-immigrants). They also generally believe that low-skill immigration is [beneficial on net](http://www.igmchicago.org/surveys/low-skilled-immigrants), while acknowledging that some low-skill population sub-groups may be negatively impacted.
 
 Further Reading:
 
