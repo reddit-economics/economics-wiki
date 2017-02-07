@@ -15,7 +15,7 @@ The Minneapolis Federal Reserve working paper [Where Has All the Income Gone](ht
 
 >The remaining difference between the 44 percent to 62 percent increase in median household incomes and the 80 percent increase in BEA personal income per person appears to be largely attributable to an increase in income inequality. The findings in this article are consistent with recent research showing that the largest income increases occurred at the top end of the income distribution. However, the findings here are not consistent with the view that the incomes of middle American households stagnated over the past 30 years. Income for most middle American households increased substantially.
 
-**Skill Biased Technological Change**
+**Skill Based Technological Change**
 
 It is common social knowledge now that an education is more important than ever before, that the path to a good job is getting a college education. Is this true and if so, does it impact income inequality?   In particular, thinking about the increase to return on education is helpful in understanding why the upper middle class has pulled away from the lower classes.  A good start to this discussion is to just look at how the return to education has changed over time in the United States. To quote Autor, 2014 
 
