@@ -1,6 +1,5 @@
 If you're interested in contributing to the FAQ, please consider the list of topics below we're looking to address
 
-* Minimum Wage
 * Central Banking/The Fed
 * What causes recessions?
 * The 2008 financial crisis
