@@ -50,3 +50,11 @@ For suggestions on news/blogs, [see integral's blog list](http://www.reddit.com/
 
 * [BMs discuss the Permanent Income Hypothesis (1/16/17)](https://www.reddit.com/r/Economics/comments/5ob3cb/bureau_members_discuss_the_permanent_income/)
 * [BMs discuss the Gender Wage Gap (1/9/17)](https://www.reddit.com/r/Economics/comments/5myux7/bureau_members_discuss_the_gender_wage_gap/)
+
+
+----
+
+
+We have an active bot which seeks to provide relevant content from various RSS feeds.  [Related discussion](http://www.reddit.com/r/Economics/comments/25yjr1/announcing_the_provision_of_rss_feeds_into/).
+
+- **/u/Central_bank_bot** shares working papers and academic research from NBER, German Bundesbank, Bank of Canada, Banque Nationale Suisse, CEPS, and the National Bank of Belgium feeds. 
