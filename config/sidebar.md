@@ -41,11 +41,6 @@
 
 ---
 
-We have an active bot which seeks to provide relevant content from various RSS feeds.  [Related discussion](http://www.reddit.com/r/Economics/comments/25yjr1/announcing_the_provision_of_rss_feeds_into/).
-
-- **/u/Central_bank_bot** shares working papers and academic research from NBER, German Bundesbank, Bank of Canada, Banque Nationale Suisse, CEPS, and the National Bank of Belgium feeds. 
-
----
 
 #Reddit Economics Network (R.E.N.)
 
@@ -58,6 +53,16 @@ We have an active bot which seeks to provide relevant content from various RSS f
 --
 
 ###R.E.N. FAQ
+
+
+
+* [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
+* [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
+* [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
+* [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
+* [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
+
+Looking to contribute?  See instructions and a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections)
 
 * [Frequently Asked Questions Resource Page](https://www.reddit.com/r/Economics/wiki/index#wiki_frequently_asked_questions)
 
