@@ -1,6 +1,6 @@
 ## FAQ: Economic Methodology
 
-(by /u/commentsrus)
+(by /u/commentsrus and /u/mrdannyocean)
 
 -----
 
