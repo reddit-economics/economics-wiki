@@ -133,14 +133,25 @@ When GDP fails to provide us with accurate info on a given topic, economists are
 
 In sum, economists do not hold up GDP as the immutable measure of living standards.
 
+**Economists can’t run experiments.** 
+
+They can and frequently do (especially microeconomists, behavioral economists, etc), but often macroeconomists can’t. [Experimental economics](https://en.wikipedia.org/wiki/Experimental_economics) can take place in a lab setting or in field, and can study a wide array of fields.  For an overview of modern field experiments, see [Levitt and List 2008](http://www.nber.org/papers/w14356).
+
+**Economists can’t determine causality.  They only report correlations between variables.**
+
+Economists often estimate causal effects. It is a common misconception that most modern empirical economics studies use non-random observational data and vanilla OLS. In fact, if a microeconomist cannot credibly estimate a causal effect, she has no hope of publishing in top journals today.  A perusal of a top economics journal will quickly verify this.
+
+**Empirical economics studies are mostly unreplicable.**
+
+This criticism has become more common since the recent replication crisis in psychology and a few papers trying to replicate economics studies. If most econ results don’t replicate, why should we ever listen to economists?
+
+The replication crisis a serious problem, but should be viewed in context with other fields.  Various [estimates](http://www.sciencemag.org/news/2016/03/about-40-economics-experiments-fail-replication-survey) have been [made](http://www.businessinsider.com.au/federal-reserve-paper-on-the-replicability-of-economic-studies-2015-10) and the successful replication rate of economics studies was 50%, 60% or 76% depending on how you measured.  These results are worrying, but this replication rate is higher than replication rates for social psychology, general psychology, cancer research, medical research in general, environmental science.
+
+Even physics has replication issues from time to time, or prematurely announces non-true findings.  Two of the biggest results in the last decade from physics, the [superliminal neutrinos from OPERA](https://en.wikipedia.org/wiki/Faster-than-light_neutrino_anomaly) and the [2014 finding of gravitational waves](https://en.wikipedia.org/wiki/BICEP_and_Keck_Array#BICEP2) from the dawn of time had to be partially walked back in the face of [new evidence](https://www.washingtonpost.com/news/achenblog/wp/2015/01/30/planck-flings-dust-at-bicep2-no-discovery-of-gravitational-waves-from-the-big-bang/).  Ideas like cold fusion and the EM Drive are further examples.  While the replication crisis has broad impacts across many fields, economics is not disproportionally impacted and those issues do not stop economics from being a scientific field.
 
 *****
 
 **Additional Sections (Coming Soon!)**
-
-1. Can economists determine causality?
-
-2. Are empirical economics studies mostly unreplicable?
 
 3. Is the economic world too complex to accurately model?
 
