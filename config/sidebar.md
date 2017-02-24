@@ -39,6 +39,8 @@
 
 **Want Bureau Member flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/5cbu93/call_for_bureau_member_flair_5/)
 
+* Bureau Members are capable of submitting 'self-posts'. Moreover, Bureau Member's are encouraged to utilize self-posting permissions to spark discussions on detailed issues.   
+
 ---
 
 
