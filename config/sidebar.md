@@ -56,13 +56,13 @@
 
 ###R.E.N. FAQ
 
-
-
 * [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
 * [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
 * [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
 * [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
 * [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
+* [Minimum Wage](https://www.reddit.com/r/Economics/wiki/faq_minwage)
+* [Economic Methodology](https://www.reddit.com/r/Economics/wiki/faq_methods)
 
 Looking to contribute?  See instructions and a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections)
 
