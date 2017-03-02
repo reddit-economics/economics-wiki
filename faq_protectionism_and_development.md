@@ -1,6 +1,6 @@
 (by /u/Randy_Newman1502)
 
-#Protectionism and Trade in the Developing World
+##Protectionism and Trade in the Developing World
 
 Discussion frequently occurs whether free trade is beneficial for developing countries or not. Most of the [previous FAQ section on trade](https://www.reddit.com/r/Economics/wiki/faq_trade) has focused on the dynamics within rich countries.
 
@@ -11,7 +11,7 @@ The purpose of this section is to summarize the evidence regarding the effects o
 -	Section III: Does protectionism work?
 -	Section IV: Conclusion, sources & further reading
 
-##Section I: Does openness lead to growth?
+#Section I: Does openness lead to growth?
 
 Let us start this section with an unavoidable, incontrovertible fact stated succinctly by Angus Deaton, [who won the Nobel Prize in Economics in 2015](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2015/popular-economicsciences2015.pdf) for his research about consumption levels and poverty:
 
@@ -44,7 +44,7 @@ Mexico. For example, Lopez-Cordova (2002) use plant-level data for the period 19
 
 In short, there is a wealth of evidence regarding the effects of free trade and growth in the developing world, including a great deal of further evidence which space does not permit us to discuss here.
 
-##Section II: An overview of the infant industry argument
+#Section II: An overview of the infant industry argument
 
 The infant-industry argument is the argument that a government must protect domestic industry until such a time that it can become competitive. The key argument often made is one regarding scale: until such a time that domestic industry can “gain a foothold,” it must be protected. [It can be shown, in theory, that such a policy can be welfare increasing if the domestic supply curve shifts to the right after the policy has been removed](http://internationalecon.com/Trade/Tch100/T100-4.php) (since an infant industry policy is temporary by nature). Rather than regurgitating a textbook example, I implore all of you to read the discussion presented in the previous link.  However, two substantial problems exist with the argument:
 
@@ -54,7 +54,7 @@ The infant-industry argument is the argument that a government must protect dome
 
 In the next section, we will examine the empirical track record of such policies and others.
 
-##Section III: Does protectionism work?
+#Section III: Does protectionism work?
 
 There is a reason why Austan Goolsbee, former chairman of the Council of Economic advisers (CEA) under President Obama, [once responded to an IGM poll which asked whether import duties would be a good idea with just one word: “stupid.”](http://www.igmchicago.org/surveys/import-duties) The evidence, on balance, suggests that most protectionist policies are futile at best, and harmful at worst.
 
@@ -88,7 +88,7 @@ In this example, the United States would have been better off paying each of the
 
 It should be noted that there is evidence that export promotion, of the sort South Korea tried, can be helpful in some circumstances. South Korea’s policies enforced harsh discipline by setting export quotes and ensuring that domestic firms faced a mixture of both government and market discipline. The infant industry argument turns problematic when inefficient and loss-making industries are coddled. In the rare instances where industrial policy has worked, it has been through subsidy and the discipline which comes from exposure to foreign competition (ie: more trade, not less). This observation is consistent with Choudri & Hokura (2000). 
 
-##Section IV(a): Conclusion
+#Section IV: Conclusion
 
 An analysis of free trade in the developing world would be complete without noting that trade helps the poor disproportionately in both developed and developing countries. [A 2014 study by Fajgelbaum & Khandelwal](http://www.nber.org/papers/w20331) attempted to quantify this benefit. They reported the following after looking at more than 20 countries, both developing and developed:
 
