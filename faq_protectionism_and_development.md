@@ -11,7 +11,7 @@ The purpose of this section is to summarize the evidence regarding the effects o
 -	Section III: Does protectionism work?
 -	Section IV: Conclusion, sources & further reading
 
-#Section I: Does openness lead to growth?
+###Section I: Does openness lead to growth?
 
 Let us start this section with an unavoidable, incontrovertible fact stated succinctly by Angus Deaton, [who won the Nobel Prize in Economics in 2015](http://www.nobelprize.org/nobel_prizes/economic-sciences/laureates/2015/popular-economicsciences2015.pdf) for his research about consumption levels and poverty:
 
