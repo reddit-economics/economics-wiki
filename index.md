@@ -6,7 +6,8 @@
 ## Frequently Asked Questions
 
 * [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
-* [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
+* [Trade Basics](http://www.reddit.com/r/Economics/wiki/faq_trade)
+ * [Trade: Protectionism and Developing Countries](https://www.reddit.com/r/Economics/wiki/faq_protectionism_and_development)
 * [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
 * [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
 * [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
