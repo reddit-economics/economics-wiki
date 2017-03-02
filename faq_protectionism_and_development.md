@@ -2,14 +2,14 @@
 
 ##Protectionism and Trade in the Developing World
 
-Discussion frequently occurs whether free trade is beneficial for developing countries or not. Most of the [previous FAQ section on trade](https://www.reddit.com/r/Economics/wiki/faq_trade) has focused on the dynamics within rich countries.
+A frequent topic of discussion is whether or not free trade is beneficial for developing countries. Most of the [previous FAQ section on trade](https://www.reddit.com/r/Economics/wiki/faq_trade) has focused on the dynamics within rich countries.
 
 The purpose of this section is to summarize the evidence regarding the effects of trade on developing countries. The article is structured in the following manner:
 
 -	Section I: Does openness lead to growth?
 -	Section II: An overview of the infant industry argument
 -	Section III: Does protectionism work?
--	Section IV: Conclusion, sources & further reading
+-	Section IV: Conclusion
 
 ###Section I: Does openness lead to growth?
 
@@ -50,7 +50,7 @@ The infant-industry argument is the argument that a government must protect dome
 
 -	Political economy problems: Political pressure can make infant industry protections hard to revoke. See the discussion around trade have diffuse gains but concentrated losers. It is inevitable that industry interests, which presumably lobbied hard for such protection, will chafe at the prospect of its removal. If the protection is permanent, this provides little incentive for firms to incur the investment costs necessary to compete in the global market. In other words, the “infants” may never “grow up.”
 
--	Informational problems: For such an argument to work, the government must be able to “pick winners.” In other words, it must be able to see into the future some comparative advantage where none exists currently. Beyond that, they must also decide how large the protective tariffs should be and how long they should be in place for. The policy has to be implemented “just right” such that the efficiency gains from such a tariff are not outweighed by the welfare losses.
+-	Informational problems: For such an argument to work, the government must be able to “pick winners.” In other words, it must be able to see into the future some comparative advantage where none exists currently. Beyond that, they must also decide how large the protective tariffs should be and how long those tariffs should be in place for. The policy has to be implemented “just right” such that the efficiency gains from such a tariff are not outweighed by the welfare losses.
 
 In the next section, we will examine the empirical track record of such policies and others.
 
@@ -90,7 +90,7 @@ It should be noted that there is evidence that export promotion, of the sort Sou
 
 ###Section IV: Conclusion
 
-An analysis of free trade in the developing world would be complete without noting that trade helps the poor disproportionately in both developed and developing countries. [A 2014 study by Fajgelbaum & Khandelwal](http://www.nber.org/papers/w20331) attempted to quantify this benefit. They reported the following after looking at more than 20 countries, both developing and developed:
+An analysis of free trade in the developing world would not be complete without noting that trade helps the poor disproportionately in both developed and developing countries. [A 2014 study by Fajgelbaum & Khandelwal](http://www.nber.org/papers/w20331) attempted to quantify this benefit. They reported the following after looking at more than 20 countries, both developing and developed:
 
 >“We find a pro-poor bias of trade in every country. **On average, the real income loss from closing off trade is 63 percent at the 10th percentile of the income distribution and 28 percent for the 90th percentile.** This bias in the gains from trade toward poor consumers hinges on the fact that these consumers spend relatively more on sectors that are more traded, while high-income individuals consume relatively more services, which are among the least traded sectors.”
 
