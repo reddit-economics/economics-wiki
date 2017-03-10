@@ -45,7 +45,8 @@ For suggestions on news/blogs, [see integral's blog list](http://www.reddit.com/
 
 ### Graduate School Panels
 
-* [Panel I: December 2017](https://www.reddit.com/r/Economics/comments/5f7p5o/reconomics_graduate_school_question_thread/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
+* [Panel I: December 2016](https://www.reddit.com/r/Economics/comments/5f7p5o/reconomics_graduate_school_question_thread/?utm_content=title&utm_medium=user&utm_source=reddit&utm_name=frontpage)
+* [Panel II: March 2017](https://www.reddit.com/r/Economics/comments/5wcut1/second_reconomics_graduate_school_panel/)
 
 ----
 
