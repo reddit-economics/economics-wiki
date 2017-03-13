@@ -4,7 +4,7 @@
 
 -----
 
-###How does a minimum wage effect the labor market?
+###How does a minimum wage affect the labor market?
 
 This is a big question, so let's start from an 'economics 101' perspective.  The minimum wage is a type of [price floor](https://en.wikipedia.org/wiki/Price_floor), where the good in question is labor (and specifically low-wage labor).  Classic economic theory tells us that a sufficiently high price floor in a competitive market will lead to a surplus of goods as seen in [this chart](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Surplus_from_Price_Floor.svg/400px-Surplus_from_Price_Floor.svg.png).  When the law mandates a higher-than-equilibrium price for a good, there are more people willing to supply the good but fewer people willing to purchase the good.  When labor is the good, we call this surplus 'unemployment' - people willing to supply labor (work) for the minimum wage, but not enough firms willing to purchase labor (hire) at that wage.  
 
