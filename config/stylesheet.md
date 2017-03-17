@@ -1549,7 +1549,7 @@ label+#moresearchinfo {
     bottom: 0;
     width: 29px;
     height: 29px;
-    background: url(%%submitlink%%) no-repeat;
+    /*background: url(%%submitlink%%) no-repeat;*/
     content: "";
 }
 
@@ -1560,7 +1560,7 @@ label+#moresearchinfo {
     bottom: 0;
     width: 29px;
     height: 29px;
-    background: url(%%submittext%%) no-repeat;
+    /*background: url(%%submittext%%) no-repeat;*/
     content: "";
 }
 
