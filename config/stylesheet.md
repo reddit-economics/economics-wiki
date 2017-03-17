@@ -1542,28 +1542,6 @@ label+#moresearchinfo {
     margin-top: 6px;
 }
 
-.sidebox.submit.submit-link .morelink a:after {
-    position: absolute;
-    top: 3px;
-    left: 3px;
-    bottom: 0;
-    width: 29px;
-    height: 29px;
-    /*background: url(%%submitlink%%) no-repeat;*/
-    content: "";
-}
-
-.sidebox.submit.submit-text .morelink a:after {
-    position: absolute;
-    top: -3px;
-    left: -3px;
-    bottom: 0;
-    width: 29px;
-    height: 29px;
-    /*background: url(%%submittext%%) no-repeat;*/
-    content: "";
-}
-
 .titlebox h1 a {
     display: none;
     text-align: center;
