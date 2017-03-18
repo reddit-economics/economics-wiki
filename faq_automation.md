@@ -20,7 +20,7 @@ No.
 
 At least, not until the [AI singularity](https://en.wikipedia.org/wiki/Artificial_general_intelligence). The argument often comes from [CGP Grey's "Humans need not apply"](https://www.youtube.com/watch?v=7Pq-S557XQU) which, while well produced, is [not supported by the research and consensus of experts.](https://www.reddit.com/r/badeconomics/comments/35m6i5/low_hanging_fruit_rfuturology_discusses/cr6utdu/). 
 
-It's important to note that the vast majority of workers (>90%) before the industrial revolution worked in agriculture, and that this number is now less than 5%. This is because disruptive technologies have multiple effects. They:
+It's important to note that the vast majority of workers (>90%) before the industrial revolution worked in agriculture, and that this number is now less than 5%. Why did the automation of agriculture not lead to widespread, long term unemployment?  This is because disruptive technologies have multiple effects. They:
 
 - Destroy existing jobs
 
