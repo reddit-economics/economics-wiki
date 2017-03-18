@@ -12,7 +12,7 @@ While a universal basic income is not necessarily a bad idea, it is not a good p
 
 This rhetoric diverts attention away from real problems that automation could create, and the targeted solutions we should advocate for.
 
-# Will human be useless?
+# Will humans be useless?
 
 **1) Will humans be useless? (Does automation cause long run structural unemployment?)**
 
@@ -75,7 +75,3 @@ Jason Furman, former Chief Economic Advisor to President Obama, advocates for th
  
  - Ensure that the benefits of automation are broadly shared
  
-
-
-
-
