@@ -14,7 +14,7 @@ This rhetoric diverts attention away from real problems that automation could cr
 
 # Will humans be useless?
 
-**1) Will humans be useless? (Does automation cause long run structural unemployment?)**
+###**1) Will humans be useless? (Does automation cause long run structural unemployment?)**
 
 No. 
 
