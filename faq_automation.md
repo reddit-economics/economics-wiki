@@ -4,11 +4,15 @@
 
 ----
 
-# A common misconception is that automation will cause long term, [structural](https://en.wikipedia.org/wiki/Structural_unemployment) unemployment. The line of thinking often leads to a prescription of an expansion of the social safety net, sometimes in the form of a [universal basic income](https://www.reddit.com/r/Economics/wiki/faq_basicincome) or an equivalent welfare scheme. 
+# Introduction
+
+A common misconception is that automation will cause long term, [structural](https://en.wikipedia.org/wiki/Structural_unemployment) unemployment. The line of thinking often leads to a prescription of an expansion of the social safety net, sometimes in the form of a [universal basic income](https://www.reddit.com/r/Economics/wiki/faq_basicincome) or an equivalent welfare scheme. 
 
 While a universal basic income is not necessarily a bad idea, it is not a good prescription to address the problems automation is predicted to cause (a proposed basic income welfare scheme should stand on its own merits).
 
 This rhetoric diverts attention away from real problems that automation could create, and the targeted solutions we should advocate for.
+
+# Will human be useless?
 
 **1) Will humans be useless? (Does automation cause long run structural unemployment?)**
 
