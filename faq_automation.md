@@ -45,7 +45,7 @@ While AI may displace different skillsets compared to historical automation inno
 
 Two things: short run structural unemployment, and inequality
 
-> **Short run structural unemployment**
+* *Short run structural unemployment*
 
 This works much like you would intuitively expect. A worker's specific skillset becomes automated, he loses his job, and needs to find a new one - except on a potentially very large scale.
 
@@ -55,7 +55,7 @@ This works very similarly to a shock in [trade](https://www.reddit.com/r/Economi
 
 The effects, as for trade, are that the vast majority of the population benefits greatly from the change, but a small subset of the population suffers greatly, with the overall effect in the economy being overwhelmingly positive. The policy response to help the ones losing from this situation has been historically very poor if any at all. We recommended a reading the FAQ section on trade.
 
-> **Inequality**
+* *Inequality*
 
 [David Autor](http://economics.mit.edu/files/9835) makes the case, which is at this point [often agreed upon](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) that automation is set to greatly increase economic inequality. 
 
