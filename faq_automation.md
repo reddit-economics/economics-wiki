@@ -57,7 +57,7 @@ The effects, as for trade, are that the vast majority of the population benefits
 
 * *Inequality*
 
-[David Autor](http://economics.mit.edu/files/9835) makes the case, which is at this point [often agreed upon](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF) that automation is set to greatly increase economic inequality. 
+Several economists, such as [Acemoglu, Restrepo](http://economics.mit.edu/files/11512) and [David Autor](http://economics.mit.edu/files/9835) make the case (which is at this point [often agreed upon](https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/documents/Artificial-Intelligence-Automation-Economy.PDF)) that automation is set to greatly increase economic inequality.
 
 First, most tasks currently being automated tend to be low skill, which puts downward pressure on labor demand for low wage worker. Second, in the long run, we could possibly see a [polarization between high skill and low skill jobs](http://economics.mit.edu/files/9835), hollowing out middle skill jobs. Third, the productivity gains from automation could simply not translate into wage increases (depending on bargaining power of workers and market structure of industries) which would translate into an increase in inequality between wage income and capital income.
 
