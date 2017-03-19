@@ -51,7 +51,7 @@ This works much like you would intuitively expect. A worker's specific skillset 
 
 In the short run we can't expect "new tasks" to arrive at a sufficient pace to compensate for a sudden shock to the labor market coming from new automation technology. A potential example of this would be self driving trucks erasing all long haul trucking jobs in the matter of a few weeks or months.
 
-This works very similarly to a shock in [trade](https://www.reddit.com/r/Economics/wiki/faq_trade). In fact, the majority of the manufacturing job loss in the US which is often politically blamed on trade is in fact due to automation.
+This works very similarly to a shock in [trade](https://www.reddit.com/r/Economics/wiki/faq_trade). In fact, the majority of the manufacturing job loss in the US which is often politically blamed on trade is in fact [due to automation](http://conexus.cberdata.org/files/MfgReality.pdf).
 
 The effects, as for trade, are that the vast majority of the population benefits greatly from the change, but a small subset of the population suffers greatly, with the overall effect in the economy being overwhelmingly positive. The policy response to help the ones losing from this situation has been historically very poor if any at all. We recommended a reading the FAQ section on trade.
 
