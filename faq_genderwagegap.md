@@ -71,7 +71,7 @@ In sum, these studies are useful to change discourse from “is there discrimina
 
 ###**Claudia Goldin’s Work**
 	
-Claudia Goldin is a professor at Harvard and a leading researcher on the GWG. Her work [(Goldin 2014)](https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf)  while important, is often misrepresented. For this reason is deserves it own section.
+Claudia Goldin is a professor at Harvard and a leading researcher on the GWG. Her work [(Goldin 2014)](https://scholar.harvard.edu/files/goldin/files/goldin_aeapress_2014_1.pdf)  while important, is often misrepresented. For this reason is deserves its own section.
 
 Claudia Goldin wanted to explore how due to gender roles, women value work flexibility more than men, affects the gender wage gap. So she  constructs a model where some industries need people to work long continuous hours. An example is a MBA working as a consultant needs to work long hours on a project, as they can not have someone else take over. It’s just not feasible to get the other person up to speed, compared to paying more to one MBA and having them work really long hours. This causes wages to increase as hours increase, in industries like this. This means, someone with an MBA who works 30 hours a week might make $40 dollars an hour, but an MBA who works 70 hours a week might make $70. So they make more per hour in addition to working more hours. However, not all industries have increasing returns in hours. Some, like pharmacy, have constant returns in hours.
 
