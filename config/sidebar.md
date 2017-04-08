@@ -66,7 +66,7 @@
 * [Economic Methodology](https://www.reddit.com/r/Economics/wiki/faq_methods)
 * [Automation](https://www.reddit.com/r/Economics/wiki/faq_automation)
 
-Looking to contribute?  See instructions and a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections)
+Looking to contribute?  See instructions and a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections) and message the mods [[here](https://www.reddit.com/message/compose?to=%2Fr%2FEconomics)].
 
 * [Frequently Asked Questions Resource Page](https://www.reddit.com/r/Economics/wiki/index#wiki_frequently_asked_questions)
 
