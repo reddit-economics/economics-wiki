@@ -21,7 +21,7 @@
 
 5. **Multimedia Guidelines**
 
-  *Images*, *charts*, and/or *videos* -- *including original content* -- must be submitted with a source and summary.
+  *Images*, *charts*, and/or *videos* -- *including original content* -- must be submitted with a source and summary. Standards for multimedia are strict and left to moderator discretion.
 
 6. **Off-Topic Discourse Guidelines**
 
