@@ -1,4 +1,4 @@
-**Integral's Reading List**
+**Integrald's Reading List**
 
 # Recommended Reading
 
