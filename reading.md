@@ -40,7 +40,7 @@ It's often useful to start with some classic popular books. To that end, I like:
 
 1. Friedman, *Capitalism and Freedom,* 1962, revised 2002. The classic statement of "market economics." This book was much more radical and necessary in the 1960s, when it was first published; many of its recommendations were taken to heart in the 1980s and 1990s. It remains excellent reading.
 
-2. Friedman, *Free to Choose,* 1980, revised 1990. This is a bit of a companion volume to C&F: longer, more practical, less theoretical, and applied to many institutional arraignments in the economy. 
+2. Friedman, *Free to Choose,* 1980, revised 1990. This is a bit of a companion volume to C&amp;F: longer, more practical, less theoretical, and applied to many institutional arraignments in the economy. 
 
 3. Galbraith, *The New Industrial State,* 1967. If you read Friedman, you owe it to yourself to read Galbraith. Galbraith and Friedman were standard-bearers for their respective economic philosophies and clashed for nearly twenty years. Many of Galbraith's observations on the concentration of industry and importance of union bargaining are outdated, but his message remains important.
 
