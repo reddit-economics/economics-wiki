@@ -1,4 +1,4 @@
-**Integrald's Reading List**
+**Integral's Reading List**
 
 # Recommended Reading
 
@@ -10,27 +10,58 @@ The best introduction to economics is to pick up an introductory textbook. Manki
 
 1. Landsburg, *The Armchair Economist,* 1995. This book basically teaches you the first quarter of Micro 101 at a popular, easily-accesible level. He skimps out on market failures but will teach you classic "applied price theory."  This should be read first, because it helps to get a good handle on what economists usually do before branching out into the specifics of different subfields.
 
-2. Dixit and Nalebuff, *Thinking Strategically,* 1993. This book is a great follow-on to Landsburg and teaches you the economics of game theory: how individuals act and react when in competition with each other. 
-
-3. Schelling, *Micromotives and Macrobehavior,* 1978, reprint 2006. This is a lovely book that analyzes the various non-intuitive things that happen when we try to aggregate up from individual behavior to societal aggregates. 
-
 4. Heilbroner, *The Worldly Philosophers,* 1999. This is an excellent introduction to the "history of economic thought" (which is separate from "economic history," mind). It covers major thinkers from Adam Smith through Keynes and Schumpeter.
 
-5. Kahneman, *Thinking, Fast and Slow,* 2013.  It's often useful to read economics in the context of psychology. This is a solid introduction to behavioral economics, the field of microeconomics that explores the boundaries between economics and psychology. 
-
-6. Florida, *The Rise of the Creative Class,* 2002, revised 2012. It's often useful to read economics in the context of sociology. This is a book that does just that, exploring how trends in economics (jobs, technology, and urbanization) have affected American society. He nicely touches on issues of inequality and class stratification. 
+4. Levitt and Dubner, *Freakonomics,* 2010. This book jump-started the pop-economics trend of the past few years. Readable and enjoyable.
 
 ---------------
 
-## **More Microeconomics**
+## **Microeconomics**
+
+2. Dixit and Nalebuff, *Thinking Strategically,* 1993. This book teaches you the economics of game theory: how individuals act and react when in competition with each other. 
+
+3. Schelling, *Micromotives and Macrobehavior,* 1978, reprint 2006. This is a lovely book that analyzes the various non-intuitive things that happen when we try to aggregate up from individual behavior to societal aggregates. 
+
+4. Roth, *Who Gets What and Why*, 2016. Al Roth (Nobel Laureate 2012) teaches you about the explicit and implicit rules that allow markets to function well, and introduces the field of matching, which uses game theory to study markets in kidneys, dating, and more.
+
+5. Akerlof and Shiller, *Phishing for Phools: The Economics of Manipulation and Deception*, 2015. Two Nobel Laureates apply information and behavioral economics to marketing, politics, and every area where profit-maximization creates incentives for deception.
+
+6. Glaeser, *Triumph of the City*, 2012. 
+
+5. Becker and Posner, *Uncommon Sense: Economic Insights from Marriage to Terrorism*, 2010 reprint. The original Freakonomics: Gary Becker pioneered the application of economics to non-economic subject areas.
+
+6. Becker and Becker, *The Economics of Life: From Baseball to Affirmative Action to Immigration, How Real-World Issues Affect Our Everyday Life*, 1998.
+
+7. Becker and Murphy, *Social Economics: Market Behavior in a Social Environment*, 2003.
+
+---------------
+
+## **Behavioral Economics**
+
+5. Kahneman, *Thinking, Fast and Slow,* 2013.  It's often useful to read economics in the context of psychology. This is a solid introduction to behavioral economics, the field of microeconomics that explores the boundaries between economics and psychology. 
 
 1. Thaler and Sunstein, *Nudge,* 2009. This is the second book in the behavioral economics triad. It's useful for its broad swath of interesting and sensible policy recommendations.
 
 2. Ariely, *Predictably Irrational,* 2010. Third book in the behavioral economics triad.
 
+3. Akerlof and Shiller, *Animal Spirits: How Human Psychology Drives the Economy, and Why It Matters for Global Capitalism*, 2009.
+
+4. Thaler, *Misbehaving: The Making of Behavioral Economics*, 2016.
+
+
+---------------
+
+## **Finance**
+
 3. Malkiel, *A Random Walk Down Wall Street,* 1973, revised 2012.  This is a classic book on finance and investing, and comparable to Landsburg in that Malkiel lays out the "basic standard" for investing advice from research in economics and finance. It's the only finance book the layman will ever need, and the first one that an person interested in finance should pick up.
 
-4. Levitt and Dubner, *Freakonomics,* 2010. This book jump-started the pop-economics trend of the past few years. Readable and enjoyable.
+4. Rajan, *Fault Lines: How Hidden Fractures Still Threaten the World Economy*, 2011.
+
+5. Mian and Sufi, *House of Debt: How They (and You) Caused the Great Recession, and How We Can Prevent It from Happening Again*, 2015.
+
+4. Shiller, *Finance and the Good Society*, 2013.
+
+5. Shiller, *Irrational Exuberance*, revised 2015.
 
 ---------------
 
@@ -40,13 +71,13 @@ It's often useful to start with some classic popular books. To that end, I like:
 
 1. Friedman, *Capitalism and Freedom,* 1962, revised 2002. The classic statement of "market economics." This book was much more radical and necessary in the 1960s, when it was first published; many of its recommendations were taken to heart in the 1980s and 1990s. It remains excellent reading.
 
-2. Friedman, *Free to Choose,* 1980, revised 1990. This is a bit of a companion volume to C&amp;F: longer, more practical, less theoretical, and applied to many institutional arraignments in the economy. 
+2. Friedman, *Free to Choose,* 1980, revised 1990. This is a bit of a companion volume to C&F: longer, more practical, less theoretical, and applied to many institutional arraignments in the economy. 
 
 3. Galbraith, *The New Industrial State,* 1967. If you read Friedman, you owe it to yourself to read Galbraith. Galbraith and Friedman were standard-bearers for their respective economic philosophies and clashed for nearly twenty years. Many of Galbraith's observations on the concentration of industry and importance of union bargaining are outdated, but his message remains important.
 
 4. Galbraith, *The Affluent Society,* 1958, revised 1998. This work is the intellectual foundation of 1990s-era moderate liberalism, and is an important read for that reason alone. This book tackles the hard questions of economic affluence, security, and income inequality.
 
-## Modern Macro
+## **Contemporary Macro**
 
 There are also modern books worth reading. I recommend:
 
@@ -60,8 +91,10 @@ There are also modern books worth reading. I recommend:
 
 5. Hartford, *The Undercover Economist Strikes Back,* 2014. If Leamer's the popular-academic book on macro and Deaton's the popular book on growth and inequality, then Hartford is the popular book on recessions and short-run economic fluctuations. He has an easygoing, informal style but explains recessions with some lucidity.
 
+6. Reinhart and Rogoff, *This Time is Different*, 2011.
 
-## **Big Economics: Growth and the Wealth of Nations**
+
+## **Growth**
 
 This is a short list of books that tries to tackle the big questions of economics: why are some countries rich and other countries poor? Is there anything that poor countries can do to make themselves rich?  I'm not going to try to summarize each of these books in one paragraph, but will give a one-word hint as to the answers each provides. None is perfect; none has found the One True Key to economic prosperity. However, taken together, they provide a balanced view of many factors that affect economic growth.
 
@@ -78,7 +111,9 @@ This is a short list of books that tries to tackle the big questions of economic
 
 6. Acemoglu and Robinson, *Why Nations Fail,* 2012. (Political institutions)
 
-## **Economic Development**
+7. Gordon, *The Rise and Fall of American Growth*, 2016. (Historical and skeptical view of long-run growth rates)
+
+## **Development**
 
 These books look specifically at the question, "what can poor countries today do to become rich?" Again, I'm not going to summarize all of them. Many have a special focus on the (in)effectiveness of foreign aid. These books, or part of them, could easily form the core of a syllabus for a course in economic development, pitched at the undergrad level. All of these are geared towards a popular audience.
 
