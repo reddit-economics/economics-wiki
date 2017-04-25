@@ -8,7 +8,7 @@
 
 2. **Economic-Specific Quality Standards**
 
-  Submissions and/or comments *tenuously related to economics, light on economic analysis*, or from perspectives other than those of economists *will be removed*.
+  Submissions and/or comments *tenuously related to economics, light on economic analysis, or from perspectives other than those of economists* will be removed.
 
 3. **Source Standards**
 
@@ -25,7 +25,7 @@
 
 6. **Off-Topic Discourse Guidelines**
 
-  *Comments* consisting of *mere jokes, nakedly political comments, circlejerking,* or otherwise non-substantive contributions without reference to the article, economics, or the thread at hand will be removed.
+  Comments consisting of *mere jokes, nakedly political comments, circlejerking, or otherwise non-substantive contributions* without reference to the article, economics, or the thread at hand will be removed.
 
 ---
 
