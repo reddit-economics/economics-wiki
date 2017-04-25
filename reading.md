@@ -147,3 +147,4 @@ These are a "view from the trenches," written by economists and practitioners on
 4. Wessel, *In Fed We Trust,* 2009. The Bernanke Fed during the crisis.
 5. Meyer, *A Term at the Fed,* 2009. The Greenspan Fed during its Clinton-era heyday.
 6. Paulson, *On the Brink,* 2011. Inside the "panic days" of the financial crisis.
+7. Bernanke, *The Courage to Act*, 2015.  Another look inside the financial crisis, from the perspective of the Chairman of the Federal Reserve.
