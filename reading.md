@@ -99,17 +99,15 @@ There are also modern books worth reading. I recommend:
 This is a short list of books that tries to tackle the big questions of economics: why are some countries rich and other countries poor? Is there anything that poor countries can do to make themselves rich?  I'm not going to try to summarize each of these books in one paragraph, but will give a one-word hint as to the answers each provides. None is perfect; none has found the One True Key to economic prosperity. However, taken together, they provide a balanced view of many factors that affect economic growth.
 
 
-1. Diamond, *Guns, Germs and Steel,* 1999. Despite its flaws, this is required background. (Geography/natural endowments)
-
 2. Landes, *The Wealth and Poverty of Nations,* 1999. (Culture)
 
 3. De Soto, *The Mystery of Capital,* 2003. (Economic institutions)
 
-4. Mokyr, *Gifts of Athena,* 2004. (More technical, with a specific focus on ideas/innovation and the Industrial Revolution)
+6. Acemoglu and Robinson, *Why Nations Fail,* 2012. (Political institutions)
+
+4. Mokyr, *Gifts of Athena,* 2004. (More technical. Focuses on ideas/innovation and the Industrial Revolution)
 
 5. Clark, *A Farewell to Alms,* 2008. (More technical. Focuses on productivity, with an emphasis on the Industrial revolution)
-
-6. Acemoglu and Robinson, *Why Nations Fail,* 2012. (Political institutions)
 
 7. Gordon, *The Rise and Fall of American Growth*, 2016. (Historical and skeptical view of long-run growth rates)
 
