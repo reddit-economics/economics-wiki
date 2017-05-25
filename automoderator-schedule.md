@@ -1,6 +1,6 @@
     ###### If you edit this page, you must [click this link, then click "send"](http://www.reddit.com/message/compose/?to=AutoModerator&subject=economics&message=schedule) to have AutoModerator re-load the schedule from here
     
-    first: “Friday January 20, 2017 12:00 am"  
+    first: “May 25, 2017 1:00 PM -05"  
     repeat: 1 week  
     sticky: true  
     title: “r/Economics Discussion Thread - {{date %d %B %Y}}"  
@@ -11,3 +11,4 @@
 
         * Simple questions should be directed to /r/askeconomics.
         * Low quality and off-topic top-level comments will be removed following Rule VI.
+        
