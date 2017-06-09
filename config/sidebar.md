@@ -12,7 +12,7 @@
 
 3. **Source Standards**
 
-  Submissions must be from *original sources*. Editorialization, memes, and/or blogspam are not acceptable.  
+  Submissions must be from *original sources*. Editorialization, memes, and low-quality blogs are not acceptable.  Source spamming is not acceptable.
 
 4. **User Behavior Standards**
 
