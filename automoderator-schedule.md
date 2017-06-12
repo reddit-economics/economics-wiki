@@ -15,8 +15,8 @@
     ---
         
         
-    first: “June 15, 2017 1:00 PM -05"  
-    repeat: 1 month  
+    first: “June 1, 2017 1:00 PM -05"  
+    rrule: "FREQ=MONTHLY;BYDAY=1MO"
     sticky: true  
     title: “%B Journal Day"  
     text: |   
