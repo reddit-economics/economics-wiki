@@ -88,9 +88,9 @@ A lot of people have, not without merit, blamed the financial crises on inadequa
 
 [Bernanke notes in Chapter 5 of his book](https://www.amazon.com/Courage-Act-Memoir-Crisis-Aftermath/dp/0393353990/ref=asap_bc?ie=UTF8) that the Federal Reserve was not really responsible for regulating a lot of these entities. The lack of good oversight was the result of a muddle of regulatory agencies created by the Congress’ ad-hoc approach to regulation:
 
->The result was a muddle. For example, regulation of financial markets (such as the stock market and futures markets) is split between the SEC and the Commodity Futures Trading Commission, an agency created by Congress in 1974. The regulation of banks is dictated by the charter under which each bank operates. While banks chartered at the federal level, so-called national banks, are regulated by the OCC, banks chartered by state authorities are overseen by state regulators. State-chartered banks that choose to be members of the Federal Reserve System (called state member banks) are also supervised by the Federal Reserve, with the FDIC examining other state-chartered banks. And the Fed oversees bank holding companies—companies that own banks and possibly other types of financial firms—independent of whether the owned banks are state-chartered or nationally chartered. Before the crisis, still another agency, the Office of Thrift Supervision (OTS), regulated savings institutions and the companies that owned savings associations. And the National Credit Union Association oversees credit unions.
+>*The result was a muddle. For example, regulation of financial markets (such as the stock market and futures markets) is split between the SEC and the Commodity Futures Trading Commission, an agency created by Congress in 1974. The regulation of banks is dictated by the charter under which each bank operates. While banks chartered at the federal level, so-called national banks, are regulated by the OCC, banks chartered by state authorities are overseen by state regulators. State-chartered banks that choose to be members of the Federal Reserve System (called state member banks) are also supervised by the Federal Reserve, with the FDIC examining other state-chartered banks. And the Fed oversees bank holding companies—companies that own banks and possibly other types of financial firms—independent of whether the owned banks are state-chartered or nationally chartered. Before the crisis, still another agency, the Office of Thrift Supervision (OTS), regulated savings institutions and the companies that owned savings associations. And the National Credit Union Association oversees credit unions.
 
->Institutions were able to change regulators by changing their charters, which created an incentive for regulators to be less strict so as not to lose their regulatory “clients”—and the exam fees they paid. For example, in March 2007, the subprime lender Countrywide Financial, by switching the charter of the depository institution it owned, replaced the Fed as its principal supervisor with the OTS, after the OTS promised to be “less antagonistic.”
+>Institutions were able to change regulators by changing their charters, which created an incentive for regulators to be less strict so as not to lose their regulatory “clients”—and the exam fees they paid. For example, in March 2007, the subprime lender Countrywide Financial, by switching the charter of the depository institution it owned, replaced the Fed as its principal supervisor with the OTS, after the OTS promised to be “less antagonistic.”*
 
 Bernanke notes that only 20% of Sub-prime loans in 2005 were issued by institutions under Federal supervision. The rest were made by non-bank subsidiaries, independent non-depository lending firms and a host of other entities under state supervision, which tended to be abysmal. The one thing you can criticise the Fed for is perhaps not fully utilising its broad-based power under HOEPA (The Home Ownership and Equity Protection Act) to ban “unfair or deceptive” lending practices which would apply to all lenders.
 
@@ -108,14 +108,21 @@ Financial regulation is, like the other topics, a complex affair which I am unab
 
 - [The Federal Reserve and Financial Regulation: The First Hundred Years](http://www.nber.org/federalreserve_SI2013/Gorton-Metrick.pdf) by Gorton & Metrick cover the history of financial regulation in the United States and discuss future challenges.
 
-**Section 2-4: Practices in mortgage lending**
+**Section 2-4: Practices in mortgage lending & Securitisation**
+
+The previous section hinted at improprieties in the US mortgage markets. This section will contain more detailed descriptions of how the US mortgage market was structured and the process of securitisation. 
+
+The first thing to note is that over time, the US mortgage business changed dramatically. Traditionally, mortgages would be issued to local residents by banks which wished to hold on to the mortgage as an asset on their books and thus, had an incentive to make sure that the borrowing party had the capacity to pay. This simple model began to shift gradually towards a model whereby banks would make the loan, and immediately, or soon afterwards, sell the loan to a securitiser. From [Alan Blinder](https://www.amazon.com/After-Music-Stopped-Financial-Response/dp/014312448X/ref=sr_1_2?s=books&ie=UTF8&qid=1488175309&sr=1-2&keywords=when+the+music+stopped):
+
+> *"A large and growing share of the worst subprime mortgages were not issued by banks at all, but rather by nonbank lenders who would originate dodgy mortgages, perhaps hold them for only a matter of days, and then sell them off to securitizers (whom we will meet shortly). For example, only one of the top ten subprime mortgage originators in 2005 was a regulated commercial bank (Wells Fargo). By 2007 more than half of all subprime loans were being originated by mortgage brokers rather than by banks. Indeed, (Ned) Gramlich estimated that only 20 percent of subprime loans granted in 2005 came from regularly supervised banks and thrifts."*
+
+> *"The nonbank lenders operated beyond the purview of the federal regulatory system, which often meant that they operated with no adult supervision at all. (The severity of the problem varied state by state.) That said, federal regulators should have seen more than enough shenanigans to make them sit up and take notice. But they didn’t."*
 
 
 
-**Section 2-5: Securitisation**
 
-**Section 2-6: The ratings agencies**
+**Section 2-5: The ratings agencies**
 
-**Section 2-7: Incentives in the financial sector**
+**Section 2-6: Incentives in the financial sector**
 
 **Section 3: Conclusion**
