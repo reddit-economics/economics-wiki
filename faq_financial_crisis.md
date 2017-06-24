@@ -4,7 +4,7 @@
 
 The purpose of this FAQ section is to talk about the causes of the financial crisis which occurred in 2008. The financial crisis caused [a deep recession in the United States and Europe](https://www.stlouisfed.org/~/media/Blog/2017/February/BlogImage_RealGDPGrowth_022717.jpg?la=en), saw growth slow across the world, and was inexorably linked to the beginning of the long-running crisis in the Eurozone.
 
-There were long-term regulatory responses to the crisis which involved, in the United States, major legislation such as Dodd-Frank, in China, reforms of the shadow banking sector, and in Europe, new thinking about banking unions to say nothing of the reform efforts made in other countries. Additionally, there were short-run “firefighting” measures undertaken by both governments and central banks. In the United States, the Federal Reserve [employed a veritable alphabet soup of lending programmes](https://www.federalreservehistory.org/essays/fed_credit_programs) to inject liquidity into the markets and the US Congress used the Troubled Asset Relief Programme (TARP) to help repair bank balance sheets. Additionally, governments around the world reacted with stimulus packages of varying magnitudes and many central banks also engaged in "quantitative easing."
+There were long-term regulatory responses to the crisis which involved; in the United States, major legislation such as Dodd-Frank; in China, reforms of the shadow banking sector; and in Europe, new thinking about banking unions (to say nothing of the reform efforts made in other countries). Additionally, there were short-run “firefighting” measures undertaken by both governments and central banks. In the United States, the Federal Reserve [employed a veritable alphabet soup of lending programmes](https://www.federalreservehistory.org/essays/fed_credit_programs) to inject liquidity into the markets and the US Congress used the Troubled Asset Relief Programme (TARP) to help repair bank balance sheets. Additionally, governments around the world reacted with stimulus packages of varying magnitudes and many central banks also engaged in "quantitative easing."
 
 The reader will find **no discussion** of the government & central bank response to the crisis in this write-up. The purpose of this FAQ section is to attempt to answer the question "how we got there" and "what it was" with regards to the financial crisis.
 
@@ -176,10 +176,41 @@ It was not just the big banks that failed in the financial crisis. Institutions 
 
 - First, the incentive system. The customers of the ratings agencies are not investors, who might use the ratings to inform their decisions, or governments, who have an interest in well functioning financial markets. No. The customers of the ratings agencies are the *very banks that issue the securities in the first place.*
 
--Second, consider that the issuers of such securities were often in contact with their ratings agencies and "negotiated ratings" became commonplace. To quote Blinder (once again):
+- Second, consider that the issuers of such securities were often in contact with their ratings agencies and "negotiated ratings" became commonplace. To quote Blinder (once again):
 
 >*Suppose our mythical investment bank, FIB, proposed a particular complicated payment structure to a rating agency, which studied it and replied that such a security would merit only a single-A rating. FIB might then respond with an obvious—and not unreasonable—question: “What would we have to do to get Triple-A?” When the rating agency answered this question, FIB could adjust the details of its proposed securitization accordingly and reapply for a rating. What else could the agency do but rate the proposed new security AAA? Again, there is nothing inherently duplicitous about this up-and-back process. That’s how products get improved. But it led to an awful lot of dubiously rated AAA paper.*
 
-- Third 
+- Third, there was also the phenomenon of "ratings shopping." If one ratings agency is willing to rate a security AAA while another decides that the same security is at best a "double-A" (AA), then it is clear which ratings agency will get the business. 
+
+- Fourth, many investors and market participants relied too heavily on ratings. Bernanke writes the following in his memoir:
+
+>*complexity reduced the ability of investors to independently judge the structured products’ quality. Some potential purchasers insisted on more information and greater transparency, but most took the easy way and relied instead on the credit ratings. When AAA-rated securities that contained subprime mortgages began to go bad, those investors did not have their own analysis to fall back on. Contagion reared its ugly head. Just as depositors in 1907 ran on any bank with a whiff of a connection to the bankrupt stock speculators, investors a century later pulled back en masse from any structured credit product that might carry the subprime virus.*
+
+There is research showing that "ratings shopping" did infact occur. The reader would be well advised to review the following papers:
+
+- [Do bond issuers shop for a better credit rating?](https://www.bis.org/bcbs/events/rtf06maehlmann.pdf) by Thomas Mählmann. The paper analyses a sample of 15,709 US bond issuers with ratings from both, Moody's and S&P, over the period from 1999 to 2004 of which 3,268 issuers also have a third rating from Fitch. The main finding is:
+
+>*Our empirical results indicate that issuers do indeed shop for better credit ratings from Fitch and that this behavior is driven by lower than average standards applied by Fitch to particular US issuers having both mandatory ratings. These results are robust to alternative specifications of the different submodels. The observed higher average ratings from Fitch, documented in previous studies and also found in this paper, are therefore not the result of higher overall rating scales, but of Fitch's strategically lowering of standards for selected issuers.*
+
+- [Rating Shopping in the CMBS Market](https://www.federalreserve.gov/events/conferences/2011/rsr/papers/Cohen.pdf) by Andrew Cohen. Cohen examines securities in the commercial mortgage backed securities (CMBS) market issued between 2001 and 2007. The main finding is:
+
+>*The empirical results reveal that: (1) the relationship between ex-ante measures of credit risk and AAA subordination levels differed over time; (2) AAA subordination levels were affected by variables related to rating shopping incentives; and (3) these effects differed over time. Taken together, the evidence supports the claim that rating shopping contributed to the downward trend in credit support levels over the sample period.*
+
+- [Rating Shopping or Catering? An Examination of the Response to Competitive Pressure for CDO Credit Ratings](https://www.sef.hku.hk/~yjtang/GriffinNickersonTang2013RFS-RatingShoppingOrCatering.pdf) by John Griffin, Jordon Nickerson & Dragon Yongjun Tang. This is an interesting paper which seeks to answer whether the behaviour of ratings agencies could best be characterised by the term "rating shopping," whereby the clients of these agencies (ie the issuers of the securities) hunted around for the best rating or by "ratings catering" whereby ratings agencies, under the heat of competitive pressure, followed their competitors up the "ratings chain" when convenient.
+
+The main findings are:
+
+>*Although investors paid a premium for dual ratings, AAA CDO tranches rated by both Moody’s and S&P defaulted more frequently than tranches rated by only one of them, which is inconsistent with pure rating shopping.*
+
+>*We find that S&P issues more positive AAA size adjustments when they encounter competitive pressure from Moody’s. Similarly, Moody’s is more likely to issue a positive adjustment when S&P uses more favorable assumptions. S&P’s and Moody’s adjustments and disagreements were not reflected in yields at issuance. Although the agencies disagreed on underlying assumptions and agreed on ratings at issuance, they later revert back to their initial underlying credit risk assessment. Although we cannot entirely rule out other possible interpretations, the results are generally consistent with rating agencies going beyond their models due to competitive pressure.*
+
+This paper uses a smaller dataset of 716 CDO transactions to reach the conclusion that ratings agencies "gave in" to competitive pressure. This behaviour is similar to "ratings shopping" with the only difference being that instead of the customer applying pressure on a ratings agency to inflate the rating of a particular security, the rating agency *does so anyway anticipating that if it does not revise the rating upwards, it will lose business.* (ie "ratings catering).
 
 **Section 3: Conclusion**
+
+The financial crisis of 2008 was the largest events in economic history since the great depression. It is not surprising that there exists a voluminous literature on both the causes and the responses to the crisis. The purpose of this FAQ has been to explain the causes of the crisis while ignoring the response. Due to length considerations, I have tried to provide source material, links to academic literature, and other assorted articles and summaries to provide the reader with the opportunity to explore the topic further.
+
+Much remains to be written. The response of governments and central banks around the world, the various stimulus, QE and bailout programmes, the various regulatory responses, and changes to the structure of the financial system are all topics that have received short shrift in this entry as those topics lie outside the remit of this write-up. There was no "one cause" to the crisis and no "silver bullet" that can prevent a repeat performance. Financial crises and bubbles have been a part of human history for centuries from the [Tulip mania](http://www.bbc.com/culture/story/20160419-tulip-mania-the-flowers-that-cost-more-than-houses) in the 17th century to the [various assorted financial and banking crises](https://www.economist.com/media/pdf/this-time-is-different-reinhart-e.pdf) that dozens of countries have been through over the course of their histories.
+
+Several factors contributed to the crisis in 2008 and it is important to have a clear understanding of these factors, how they interacted and their relative importance if one is to have an intelligent and thoughtful discussion about the lessons we can draw from this unfortunate event. I hope that this FAQ entry helps in some small way in that endeavour.
+
