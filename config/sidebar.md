@@ -65,7 +65,6 @@
 * [Minimum Wage](https://www.reddit.com/r/Economics/wiki/faq_minwage)
 * [Economic Methodology](https://www.reddit.com/r/Economics/wiki/faq_methods)
 * [Automation](https://www.reddit.com/r/Economics/wiki/faq_automation)
-* [The Financial Crisis of 2008](https://www.reddit.com/r/Economics/wiki/faq_financial_crisis)
 
 
 
