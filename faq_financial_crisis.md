@@ -1,6 +1,6 @@
 **WORK IN PROGRESS**
 
-**The Financial crisis of 2008**
+**The Financial Crisis of 2008**
 
 The purpose of this FAQ section is to talk about the causes of the financial crisis which occurred in 2008. The financial crisis caused [a deep recession in the United States and Europe](https://www.stlouisfed.org/~/media/Blog/2017/February/BlogImage_RealGDPGrowth_022717.jpg?la=en), saw growth slow across the world, and was inexorably linked to the beginning of the long-running crisis in the Eurozone.
 
