@@ -62,13 +62,35 @@ Person A got a straight 6% return on their investment at the end of the year, bu
 Not necessarily. Suppose instead of a return of 6% at the end of the year, the bond falls in value by 5%. Person A would simply lose the 5%, but get the 6% coupon payment and still be "up" by 1%.
 Person B, who also has to pay the bank, would lose approximately 17%: 10m-0.5m+0.6m (coupon)-9.27m (bank repayment)=0.83m of the original 1m.
 
-Leverage is not automatically "bad." Without the idea of leverage, we would have no mortgages, no car loans, no student loans and very little credit. However, with leverage comes risk and some financial institutions were very highly leveraged at the beginning of the crisis such that even a small loss on their assets was enough to wipe them out.
+Leverage is not automatically "bad." Without the idea of leverage, we would have no mortgages, no car loans, no student loans and very little credit. However, with leverage comes risk and some financial institutions were very highly leveraged at the beginning of the crisis such that even a small loss on their assets was enough to wipe them out. 
 
-During the pre-crisis boom, too many leading banks employed legal and accounting gimmicks to push their leverage higher. One way they did so was by creating off-balance-sheet entities such as structured investment vehicles (SIVs) which had laxer capital requirements. These vehicles had eye-popping leverage ratios such that small losses would render these vehicles bankrupt at which point they would have to run back to their parent institutions.
+During the pre-crisis boom, too many leading banks employed legal and accounting gimmicks to push their leverage higher. One way they did so was by creating off-balance-sheet entities such as structured investment vehicles (SIVs) which had laxer capital requirements. These vehicles had eye-popping leverage ratios such that small losses would render these vehicles bankrupt at which point they would have to run back to their parent institutions. Firms like Bear Stearns, Lehman Brothers, Merrill Lynch, Morgan Stanley, and Goldman Sachs (the old Big Five) operated with 30-to-1 or even 40-to-1 leverage. Think about what that means: With 40-to-1 leverage, a mere 2.5 percent decline in the value of your assets wipes out all shareholder value. The banks were able to do this via creative accounting through which they skirted capital requirements.
 
-Firms like Bear Stearns, Lehman Brothers, Merrill Lynch, Morgan Stanley, and Goldman Sachs (the old Big Five) operated with 30-to-1 or even 40-to-1 leverage. Think about what that means: With 40-to-1 leverage, a mere 2.5 percent decline in the value of your assets wipes out all shareholder value. The banks were able to do this via creative accounting through which they skirted capital requirements.
+This example explains how leverage can wipe out a financial institution and how financial institutions can (and did) use off-balance sheet vehicles to skirt leverage limits. Consider a financial institution called RCB- Really complicated Bank. Here is its balance sheet:
 
-However, another aspect of the excessive leverage that sometimes gets overlooked is that much of the lending was very short-term, often overnight. For example, Bear Stearns’ year-end 2006 balance sheet listed only 16 percent of its liabilities as long-term borrowings. Its short-term borrowings were more than eight times its equity. [Its reported leverage ratio in 2007 was was 36 to 1.](http://siteresources.worldbank.org/FINANCIALSECTOR/Resources/02BearStearnsCaseStudy.pdf) This meant that as soon as markets got an inkling that a firm like Bear "couldn't pay" overnight credit dried up instantly and the institution went under. 
+RCB's Assets | RCB's Liabilities
+---|---
+Loans: $100 billion | Deposits: $90 Billion
+ | Equity: $10 billion
+
+In this example, RCB basically has a cushion of $10 billion; if loan losses exceed $10 billion, then the bank will not be solvent. In other words, this bank is levered 10 to 1 which is relatively safe. However, let us say that RCB also has an off-balance sheet vehicle (a "Structured Investment Vehicle" or SIV) that looks like this:
+
+SIV's Assets | SIV's Liabilities
+---|---
+Loans: $50 billion | [Commercial Paper (short term funding)](http://www.investopedia.com/terms/c/commercialpaper.asp): $49 Billion
+ | Equity: $1 billion
+
+This SIV is levered 50-1 (a ratio that some SIV's actually exceeded) meaning that if loan losses exceed $1 Billion, the SIV will not be able to pay back investors who hold its commercial paper. Therefore, RCB's consoliated balance sheet looks like this:
+
+Consolidated RCB Assets |Consolidated  RCB Liabilities
+---|---
+Loans: $150 billion | Deposits: $90 Billion
+ |Commercial paper: $49 billion
+ | Equity: $11 billion
+
+The consolidated balance sheet shows a higher leverage ratio of around 14 to 1. RCB's actual leverage ratio was always higher than 10-1 and the off-balance-sheet vehicle was simply a ruse used in order to obscure the actual ratio from both investors and regulators alike. In theory, RCB could allow its SIV to become insolvent. However, in practice, if it did that, not only would it suffer a large hit to its reputation, it might also suffer a [bank run.](http://www.investopedia.com/terms/b/bankrun.asp) In the real world, RCB might not have funded $100 billion of loans with $90 billion in deposits and $10 billion in equity. It might have funded the loans with considerably fewer deposits and a large amount of short-term funding which would dry up immediately as investors become concerned about RCB's solvency.
+
+The example also shows another aspect of the excessive leverage that sometimes gets overlooked is that much of the lending was very short-term, often overnight. For example, Bear Stearns’ year-end 2006 balance sheet listed only 16 percent of its liabilities as long-term borrowings. Its short-term borrowings were more than eight times its equity. [Its reported leverage ratio in 2007 was was 36 to 1.](http://siteresources.worldbank.org/FINANCIALSECTOR/Resources/02BearStearnsCaseStudy.pdf) This meant that as soon as markets got an inkling that a firm like Bear "couldn't pay" overnight credit dried up instantly and the institution went under. 
 
 For further reading, please see the literature around "leverage cycles", specifically [Credit Booms Gone Bust: Monetary Policy, Leverage Cycles and Financial Crises, 1870-2008](http://www.frbsf.org/economic-research/files/schularick_taylor.pdf) by Schularick & Taylor which examines the link between credit growth and financial crises as well as the idea of leverage cycles.
 
