@@ -1,5 +1,7 @@
 **The Financial Crisis of 2008**
 
+by /u/Randy_Newman1502 & /u/mrdannyocean 
+
 The purpose of this FAQ section is to talk about the *causes* of the financial crisis which occurred in 2008. The financial crisis caused [a deep recession in the United States and Europe](https://www.stlouisfed.org/~/media/Blog/2017/February/BlogImage_RealGDPGrowth_022717.jpg?la=en), saw growth slow across the world, and was inexorably linked to the beginning of the long-running crisis in the Eurozone.
 
 There were long-term regulatory responses to the crisis which involved; in the United States, major legislation such as Dodd-Frank; in China, reforms of the shadow banking sector; and in Europe, new thinking about banking unions (to say nothing of the reform efforts made in other countries). Additionally, there were short-run “firefighting” measures undertaken by both governments and central banks. In the United States, the Federal Reserve [employed a veritable alphabet soup of lending programmes](https://www.federalreservehistory.org/essays/fed_credit_programs) to inject liquidity into the markets and the US Congress used the Troubled Asset Relief Program (TARP) to help repair bank balance sheets. Additionally, governments around the world reacted with stimulus packages of varying magnitudes and many central banks also engaged in "quantitative easing."
