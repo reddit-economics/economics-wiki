@@ -126,7 +126,7 @@ Financial regulation is, like the other topics, a complex subject which is too b
 
 - [The Federal Reserve and Financial Regulation: The First Hundred Years](http://www.nber.org/federalreserve_SI2013/Gorton-Metrick.pdf) by Gorton & Metrick cover the history of financial regulation in the United States and discuss future challenges.
 
-**Section 2-4: Practices in mortgage lending, securitization and shadow banking**
+**Section 2-4 and 2-5: Practices in mortgage lending, shadow banking, and derivatives**
 
 The previous section hinted at improprieties in the US mortgage markets. This section will contain more detailed descriptions of how the US mortgage market was structured and the process of securitization. 
 
