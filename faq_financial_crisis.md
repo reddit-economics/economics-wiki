@@ -1,8 +1,8 @@
-**The Financial Crisis of 2008**
+**The Financial Crisis of 2007-08**
 
 by /u/Randy_Newman1502 & /u/mrdannyocean 
 
-The purpose of this FAQ section is to talk about the *causes* of the financial crisis which occurred in 2008. The financial crisis caused [a deep recession in the United States and Europe](https://www.stlouisfed.org/~/media/Blog/2017/February/BlogImage_RealGDPGrowth_022717.jpg?la=en), saw growth slow across the world, and was inexorably linked to the beginning of the long-running crisis in the Eurozone.
+The purpose of this FAQ section is to talk about the *causes* of the financial crisis which occurred around 2007-2008. The financial crisis caused [a deep recession in the United States and Europe](https://www.stlouisfed.org/~/media/Blog/2017/February/BlogImage_RealGDPGrowth_022717.jpg?la=en), saw growth slow across the world, and was inexorably linked to the beginning of the long-running crisis in the Eurozone.
 
 There were long-term regulatory responses to the crisis which involved; in the United States, major legislation such as Dodd-Frank; in China, reforms of the shadow banking sector; and in Europe, new thinking about banking unions (to say nothing of the reform efforts made in other countries). Additionally, there were short-run “firefighting” measures undertaken by both governments and central banks. In the United States, the Federal Reserve [employed a veritable alphabet soup of lending programmes](https://www.federalreservehistory.org/essays/fed_credit_programs) to inject liquidity into the markets and the US Congress used the Troubled Asset Relief Program (TARP) to help repair bank balance sheets. Additionally, governments around the world reacted with stimulus packages of varying magnitudes and many central banks also engaged in "quantitative easing."
 
@@ -226,8 +226,15 @@ This paper uses a smaller dataset of 716 CDO transactions to reach the conclusio
 
 **Section 3: Conclusion**
 
-The financial crisis of 2008 was arguably the most important event in economic history since the Great Depression. It is not surprising that there exists a voluminous literature on both the causes and the responses to the crisis. The purpose of this summary has been to explain the causes of the crisis while ignoring the response. Links to academic literature and other assorted articles and summaries have been provided to allow further exploration, due to the length of this FAQ section.
+The financial crisis of 2007-08 was arguably the most important event in economic history since the Great Depression. It is not surprising that there exists a voluminous literature on both the causes and the responses to the crisis. The purpose of this summary has been to explain the causes of the crisis while ignoring the response. Links to academic literature and other assorted articles and summaries have been provided to allow further exploration, due to the length of this FAQ section.
 
-Much remains to be written. The response of governments and central banks around the world, the various stimulus, QE and bailout programs, the various regulatory responses, and changes to the structure of the financial system are all topics that have received short shrift in this entry as those topics lie outside the remit of this write-up. There was no "one cause" to the crisis and no "silver bullet" that can prevent a repeat performance. Financial crises and bubbles have been a part of human history for centuries, from the [Tulip Mania](http://www.bbc.com/culture/story/20160419-tulip-mania-the-flowers-that-cost-more-than-houses) in the 17th century to the [various assorted financial and banking crises](https://www.economist.com/media/pdf/this-time-is-different-reinhart-e.pdf) that dozens of countries have been through over the course of their histories.
+Much remains to be written. These topics include:
 
-Several factors contributed to the crisis in 2008 and it is important to have a clear understanding of these factors, how they interacted and their relative importance if we hope to have an intelligent and thoughtful discussion about the lessons we can draw from this unfortunate event - hopefully this FAQ entry helps in some small way in that endeavor.
+* A more technical explanation of how the above causes of the crisis turned a housing market bubble into a financial crisis, and how that financial crisis turned into a large-scale economic recession.  
+* Responses of governments and central banks around the world, including the various stimulus, QE and bailout programs, the various regulatory responses, and changes to the structure of the financial system
+
+Unfortunately, in the interest of space we reserve those topics for another section.
+
+There was no "one cause" to the crisis and no "silver bullet" that can prevent a repeat performance. Financial crises and bubbles have been a part of human history for centuries, from the [Tulip Mania](http://www.bbc.com/culture/story/20160419-tulip-mania-the-flowers-that-cost-more-than-houses) in the 17th century to the [various assorted financial and banking crises](https://www.economist.com/media/pdf/this-time-is-different-reinhart-e.pdf) that dozens of countries have been through over the course of their histories.
+
+Several factors contributed to the crisis in 2007-08 and it is important to have a clear understanding of these factors, how they interacted and their relative importance if we hope to have an intelligent and thoughtful discussion about the lessons we can draw from this unfortunate event - hopefully this FAQ entry helps in some small way in that endeavor.
