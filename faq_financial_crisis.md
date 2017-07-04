@@ -188,7 +188,7 @@ The following sources further address these topics:
 
 - [This "easy to read" chart](http://imgur.com/a/sedAo)
 
-**Section 2-5: The ratings agencies**
+**Section 2-6: The ratings agencies**
 
 It was not just the big banks that failed in the financial crisis. Institutions which are referred to as "ratings agencies" (led by the big three- Standard & Poor’s, Moody’s, and Fitch) also failed spectacularly in the years leading up to the crisis. There were many dubious securities that received the coveted AAA rating.  Consider that on the eve of the crisis, only the bonds of 6 of 50 US states had that rating. The purpose of this section is to attempt to answer how so much dross got labelled as gold.
 
