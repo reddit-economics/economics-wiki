@@ -239,7 +239,7 @@ There was no "one cause" to the crisis and no "silver bullet" that can prevent a
 
 Several factors contributed to the crisis in 2007-08 and it is important to have a clear understanding of these factors, how they interacted and their relative importance if we hope to have an intelligent and thoughtful discussion about the lessons we can draw from this unfortunate event - hopefully this FAQ entry helps in some small way in that endeavor.
 
-**Bibliography**
+**References**
 
 * Alastair Sooke. “Tulip Mania.” BBC, May 3, 2016. http://www.bbc.com/culture/story/20160419-tulip-mania-the-flowers-that-cost-more-than-houses.
 * Andrew Cohen. “Rating Shopping in the CMBS Market.” Working Paper, October 25, 2011. https://www.federalreserve.gov/events/conferences/2011/rsr/papers/Cohen.pdf.
