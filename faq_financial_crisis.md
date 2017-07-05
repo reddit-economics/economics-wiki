@@ -238,3 +238,30 @@ Unfortunately, in the interest of space we reserve those topics for another sect
 There was no "one cause" to the crisis and no "silver bullet" that can prevent a repeat performance. Financial crises and bubbles have been a part of human history for centuries, from the [Tulip Mania](http://www.bbc.com/culture/story/20160419-tulip-mania-the-flowers-that-cost-more-than-houses) in the 17th century to the [various assorted financial and banking crises](https://www.economist.com/media/pdf/this-time-is-different-reinhart-e.pdf) that dozens of countries have been through over the course of their histories.
 
 Several factors contributed to the crisis in 2007-08 and it is important to have a clear understanding of these factors, how they interacted and their relative importance if we hope to have an intelligent and thoughtful discussion about the lessons we can draw from this unfortunate event - hopefully this FAQ entry helps in some small way in that endeavor.
+
+**Bibliography**
+
+* Alastair Sooke. “Tulip Mania.” BBC, May 3, 2016. http://www.bbc.com/culture/story/20160419-tulip-mania-the-flowers-that-cost-more-than-houses.
+* Andrew Cohen. “Rating Shopping in the CMBS Market.” Working Paper, October 25, 2011. https://www.federalreserve.gov/events/conferences/2011/rsr/papers/Cohen.pdf.
+* Arentsen, Eric, David C. Mauer, Brian Rosenlund, Harold H. Zhang, and Feng Zhao. “Subprime Mortgage Defaults and Credit Default Swaps: Subprime Mortgage Defaults and Credit Default Swaps.” The Journal of Finance 70, no. 2 (April 2015): 689–731. doi:10.1111/jofi.12221.
+* Ben Bernanke. “The Global Saving Glut and the U.S. Current Account Deficit.” Sandridge Lecture presented at the Richmond, Virginia, March 10, 2005. https://www.federalreserve.gov/boarddocs/speeches/2005/200503102/.
+* Bernanke, Ben. The Courage to Act: A Memoir of a Crisis and Its Aftermath, 2017.
+* Blinder, Alan S. After the Music Stopped: The Financial Crisis, the Response, and the Work Ahead. [Paperback] ed. with a new afterword. New York, NY: Penguin Press, 2014.
+* Claudio Borio, and Piti Disyatat. “Global Imbalances and the Financial Crisis: Link or No Link?” BIS Working Papers, May 2011. http://www.bis.org/publ/work346.pdf.
+* Ed Glaeser, and Charles Nathanson. “Housing Bubbles.” Working Paper, August 7, 2014. http://real.wharton.upenn.edu/~duranton/Duranton_Papers/Handbook/Housing_bubbles.pdf.
+* Gary Gorton, and Andrew Metrick. “The Federal Reserve and Financial Regulation: The First Hundred Years.” Working Paper, July 1, 2013. http://www.nber.org/federalreserve_SI2013/Gorton-Metrick.pdf.
+* Griffin, John M., Jordan Nickerson, and Dragon Yongjun Tang. “Rating Shopping or Catering?An Examination of the Response to Competitive Pressure for CDO Credit Ratings.” Review of Financial Studies 26, no. 9 (September 2013): 2270–2310. doi:10.1093/rfs/hht036.
+* Kyunghee Park, and Man Chun Kung. “Cathay Profit Margin Strained as Fuel Hedging Losses Mount.” Bloomberg, August 15, 2016. https://www.bloomberg.com/news/articles/2016-08-15/cathay-profit-margin-under-pressure-as-fuel-hedging-losses-mount.
+* Manuel Adelino, Antoinette Schoar, and Felipe Severino. “Loan Originations and Defaults in the Mortgage Crisis: The Role of the Middle Class.” Working Paper, June 2015. https://www.bc.edu/content/dam/files/schools/cas_sites/economics/pdf/Seminars/SemF2015/A2S_LoanOrigDefault2015_v3.pdf.
+* Michael D. Bordo, Angela Redish, and Hugh Rockoff. “Why Didn’t Canada Have a Banking Crisis in 2008 (or in 1930, or 1907, or ...)?” NBER Working Paper Series, August 2011. http://www.nber.org/papers/w17312.pdf.
+* Miguel Segoviano, Bradley Jones, Peter Lindner, and Johannes Blankenheim. “Securitization: Lessons Learned and the Road Ahead.” IMF Working Paper, November 2013. https://www.imf.org/external/pubs/ft/wp/2013/wp13255.pdf.
+* Moritz Schularick, and Alan M. Taylor. “Credit Booms Gone Bust: Monetary Policy, Leverage Cycles and Financial Crises, 1870–2008.” Working Paper, February 2010. http://www.frbsf.org/economic-research/files/schularick_taylor.pdf.
+* Reinhart, Carmen M., and Kenneth S. Rogoff. This Time Is Different: Eight Centuries of Financial Folly. 13. printing and 1. paperback printing. Princeton: Princeton Univ. Press, 2011.
+* Renee Haltom. “Why Was Canada Exempt from the Financial Crisis?” Richmond Fed Econ Focus, 2013. https://www.richmondfed.org/~/media/richmondfedorg/publications/research/econ_focus/2013/q4/pdf/feature2.pdf.
+* Ricardo Caballero. “The ‘other’ Imbalance and the Financial Crisis.” VOX, January 14, 2010. http://voxeu.org/article/new-insight-role-imbalances-global-crisis.
+* Ricardo J. Caballero. “The ‘Other’ Imbalance and the Financial Crisis.” NBER Working Paper Series, January 2010. http://www.nber.org/papers/w15636.pdf.
+* Richard Portes. “Credit Default Swaps: Useful, Misleading, Dangerous?” VOX, April 30, 2012. http://voxeu.org/article/credit-default-swaps-useful-misleading-dangerous.
+* “Shadow and Substance.” The Economist, May 10, 2014, Special Report: International Banking edition. http://www.economist.com/sites/default/files/20140510_international_banking.pdf.
+* Thomas Mahlmann. “Do Bond Issuers Shop for a Better Credit Rating?” BIS Working Paper, n.d. https://www.bis.org/bcbs/events/rtf06maehlmann.pdf.
+* Vitaly Bord, and João A. C. Santos. “Does Securitization of Corporate Loans Lead to Riskier Lending?” Working Paper, March 2, 2014. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1838383.
+* William Ryback. “Case: Bear Stearns.” Toronto Centre, n.d. http://siteresources.worldbank.org/FINANCIALSECTOR/Resources/02BearStearnsCaseStudy.pdf.
