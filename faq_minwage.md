@@ -30,7 +30,9 @@ Of course, while perfect competition may not be a realistic assumption, monopson
 
 Another assumption of the introductory model was a market without frictions - costless job searches.  In reality, job searches and matching between firms and employees could be quite time consuming and expensive for both parties.  Paying a wage above the market-clearing wage (an [efficiency wage](https://en.wikipedia.org/wiki/Efficiency_wage)) could lead to less employee turnover and thus lower search costs associated with employee turnover, and therefore firms might rationally offer wages above the otherwise market-clearing wage.  Additionally, [Shapiro and Stiglitz](https://en.wikipedia.org/wiki/Shapiro%E2%80%93Stiglitz_theory) theorized that efficiency wages could reduce shirking.  Because firms cannot costlessly monitor all employee behavior, employees frequently have the incentive to shirk rather than produce as much as possible.  Increasing wages might provide a greater disincentive to shirk than would exist at the standard equilibrium wage - the cost of being discovered and fired is now higher (since a job paying higher wages is more valuable). If firms can lower search costs and shirking costs by paying a higher efficiency wage, the prevailing wage will naturally rise beyond the 'perfect competition' equilibrium.  This new market equilibrium will feature higher wages and unemployment as part of the equilibrium, but the existence of a minimum wage in this case would not necessarily have caused the unemployment - unemployment would have independently existed either way.
 
-With all of these caveats, there are many plausible scenarios where the effect of a minimum wage is not as clear cut as the introductory economics-101 model implies.  Our theoretical assumptions heavily impact the results of our model, and we must turn to the data to resolve the question.
+In addition to ideas around monopsony and efficiency wages, economists have also speculated other theoretical reasons that the classic minimum wage story might not hold.  These include the idea that higher wages could intensify job searches and lead to better employer-employee matching, the idea that at subsistence levels of income the supply for labor may be backward-bending to some extent, and the idea that in multiple-sector models the same results do not carry over from simplified models.
+
+With all of these potential caveats, there are many scenarios where the effect of a minimum wage is not as clear cut as the introductory economics-101 model implies.  Our theoretical assumptions heavily impact the results of our model, and we must turn to the data to resolve the question.
 
 ###Empirical Studies
 
@@ -51,6 +53,10 @@ Economists are still divided about the impact of minimum wages today.  A [2006 s
 
 The most comprehensive summary that can be made about the minimum wage literature is that while the evidence is sometimes contradictory, small minimum wage increases seem to either have no employment effects or at least quite small employment effects in the short run.  Estimates of long-run impacts, or the impact of large minimum wage increases are presently unknown.
 
+#####**Aside**
+
+Most of the research above focuses on the contentious issue of 'Does increasing the minimum wage decrease employment?'.  It's important to remember that employment is not the only way to measure impact.  Overall hours worked in low wage jobs and employment-population ratio are also potential response variables.
+
 ###Further Context
 
 ####**Does a MW help people?**
@@ -65,12 +71,20 @@ However, not all economists are convinced that the minimum wage is an effective 
 
 The impact of minimum wages is still contentious, but as noted in the [IGM poll](http://www.igmchicago.org/surveys/minimum-wage) above, a majority of economists believe the benefits of an increase to $9/hour in the US would be worth the costs.
 
-####**If there's going to be a minimum wage, how should it be set?**
+####**If there's going to be a minimum wage, how should it be set?  What about a $15 minimum wage?**
 
 Arindrajit Dube, a prominent minimum wage researcher, has written a [policy proposal](http://www.hamiltonproject.org/assets/legacy/files/downloads_and_links/state_local_minimum_wage_policy_dube.pdf) on how states and cities should set the minimum wage.  He proposes three main strategies:
 
 * Using 50% of the local area median wage as a starting point for MW levels.  This would mean that places like rural Kansas have lower minimum wage than places like San Francisco, as wages are much higher in San Francisco than in Kansas.
 * Adjusting minimum wages for local cost-of-living considerations, including indexing increases to a regional CPI.
-* Coordinating state and local governments to lessen any adverse impact.
+* Coordinating state and local government strategies to lessen any adverse impact.
 
-Dube is careful to note that many of the current minimum wage proposals are 'out of sample' for current research.  There is a large body of evidence about the employment impact of small minimum wage increases - usually little to no employment impact.  For larger increases in the minimum wage such as a 15MW, there is not good data to describe the potential impacts and larger employment effects are possible.
+Dube is careful to note that many of the current minimum wage proposals are 'out of sample' for current research.  There is a large body of evidence about the employment impact of small minimum wage increases - usually little to no employment impact.  
+
+For larger increases in the minimum wage such as a 15MW, there historically has not been good data to describe the potential impacts and larger employment effects are possible.  One [recent study in Seattle](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) found that an increase from $9.47 to $13.00 reduced the hours worked in low-wage jobs by 9%, and reduced the overall earnings for low-wage employees.  This study was unlike many studies in several ways:
+
+* It had access to actual, revealed wage data from workers, rather than approximations of low wage workers like 'teenagers'
+* It had access to all low-wage employees across all industries, rather than specific low-wage industries like 'restaurant workers'
+* It is able to judge two separate jumps:  From $9.47 to $11.00 and from $11.00 to $13.00.  
+
+The researchers found that the jump from $11.00 to $13.00 had a much stronger impact on hours worked than did the jump from $9.47 to $11.00, suggesting a non-linear response.  This paper provides some evidence of what many economists believe - that a 15MW is high enough to have serious disemployment effects.  However, this is just one study and with many states and localities opting to significantly raise their minimum wages, this paper is likely just the first of many to come to study the impact of significantly higher minimum wages.
