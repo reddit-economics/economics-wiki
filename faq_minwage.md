@@ -79,9 +79,7 @@ Arindrajit Dube, a prominent minimum wage researcher, has written a [policy prop
 * Adjusting minimum wages for local cost-of-living considerations, including indexing increases to a regional CPI.
 * Coordinating state and local government strategies to lessen any adverse impact.
 
-Dube is careful to note that many of the current minimum wage proposals are 'out of sample' for current research.  There is a large body of evidence about the employment impact of small minimum wage increases - usually little to no employment impact.  
-
-For larger increases in the minimum wage such as a 15MW, there historically has not been good data to describe the potential impacts and larger employment effects are possible.  One [recent study in Seattle](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) found that an increase from $9.47 to $13.00 reduced the hours worked in low-wage jobs by 9%, and reduced the overall earnings for low-wage employees.  This study was unlike many studies in several ways:
+Dube is careful to note that many of the current minimum wage proposals are 'out of sample' for current research.  There is a large body of evidence about the employment impact of small minimum wage increases - usually little to no employment impact.  For larger increases in the minimum wage such as a 15MW larger employment effects are possible, but there historically has not been good data or research to conclusively show those effects.  With many states undertaking significant jumps in their minimum wage, that may be changing.  One [recent study in Seattle](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) found that an increase from $9.47 to $13.00 reduced the hours worked in low-wage jobs by 9%, and reduced the overall earnings for low-wage employees.  This study was unlike many studies in several ways:
 
 * It had access to actual, revealed wage data from workers, rather than approximations of low wage workers like 'teenagers'
 * It had access to all low-wage employees across all industries, rather than specific low-wage industries like 'restaurant workers'
