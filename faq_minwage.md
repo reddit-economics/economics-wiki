@@ -81,8 +81,12 @@ Arindrajit Dube, a prominent minimum wage researcher, has written a [policy prop
 
 Dube is careful to note that many of the current minimum wage proposals are 'out of sample' for current research.  There is a large body of evidence about the employment impact of small minimum wage increases - usually little to no employment impact.  For larger increases in the minimum wage such as a 15MW larger employment effects are possible, but there historically has not been good data or research to conclusively show those effects.  With many states undertaking significant jumps in their minimum wage, that may be changing.  One [recent study in Seattle](https://evans.uw.edu/sites/default/files/NBER%20Working%20Paper.pdf) found that an increase from $9.47 to $13.00 reduced the hours worked in low-wage jobs by 9%, and reduced the overall earnings for low-wage employees.  This study was unlike many studies in several ways:
 
-* It had access to actual, revealed wage data from workers, rather than approximations of low wage workers like 'teenagers'
-* It had access to all low-wage employees across all industries, rather than specific low-wage industries like 'restaurant workers'
+* It had access to actual, revealed wage data from workers across all industries, rather than approximations of low wage workers like 'teenagers' or 'restaurant workers'
 * It is able to judge two separate jumps:  From $9.47 to $11.00 and from $11.00 to $13.00.  
 
-The researchers found that the jump from $11.00 to $13.00 had a much stronger impact on hours worked than did the jump from $9.47 to $11.00, suggesting a non-linear response.  This paper provides some evidence of what many economists believe - that a 15MW is high enough to have serious disemployment effects.  However, this is just one study and with many states and localities opting to significantly raise their minimum wages, this paper is likely just the first of many to come to study the impact of significantly higher minimum wages.
+The researchers found that the jump from $11.00 to $13.00 had a much stronger impact on hours worked than did the jump from $9.47 to $11.00, suggesting a non-linear response.  This paper provides some evidence of what many economists believe - that a 15MW is high enough to have serious disemployment effects.  However, other researchers have pointed out potential flaws with this study
+
+* Seattle is a booming tech hub with an unemployment rate of around 3%, and may not be a good test case due to its unique characteristics
+* There may be issues with how the researchers constructed their 'synthetic control' of Seattle, using primarily suburban and rural counties.  
+
+In the end, this is just one study and with many states and localities opting to significantly raise their minimum wages, the Seattle paper is likely just the first of many to come to study the impact of significantly higher minimum wages.
