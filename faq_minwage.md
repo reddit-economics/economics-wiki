@@ -89,4 +89,4 @@ The researchers found that the jump from $11.00 to $13.00 had a much stronger im
 * Seattle is a booming tech hub with an unemployment rate of around 3%, and may not be a good test case due to its unique characteristics
 * There may be issues with how the researchers constructed their 'synthetic control' of Seattle, using primarily suburban and rural counties.  
 
-In the end, this is just one study and with many states and localities opting to significantly raise their minimum wages, the Seattle paper is likely just the first of many to come to study the impact of significantly higher minimum wages.
+In the end, this is just one study.  With many states and localities opting to significantly raise their minimum wages, the Seattle paper is likely just the first of many to come to examine the impact of large minimum wage increases.
