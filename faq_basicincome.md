@@ -24,7 +24,7 @@ We can do some simple algebra to rewrite NIT income as
 * above: *income = (1-t)**Pretax + t***cutoff (eq2)*
 * below: *income = (1-k)**Pretax + k***cutoff (eq3)*
 
-Those formulas look awfully similar to the UBI formula. Compare (eq1) with (eq2) and (eq3). Just define "UBI=k*cutoff." And if t=k, then the NIT and UBI in this scenario are exactly the same.
+Those formulas look awfully similar to the UBI formula. Compare (eq1) with (eq2) and (eq3). By altering the values for 'cutoff' and 't' you can obtain whichever size UBI you want (where UBI = t***cutoff). And if t=k, then the NIT and UBI in this scenario are exactly the same.
 
 In this treatment we used a single linear tax rate and kickback rate.  If we allow for a fully nonlinear tax schedule, then any NIT can be converted into a UBI and vice-versa. The two are mathematically identical because a nonlinear tax schedule can absorb any differences between the two policies.
 
