@@ -6,15 +6,18 @@
 
 ###How does a minimum wage affect the labor market? 
 
+####**Economics 101**
+
 This is a big question, so let's start from an 'economics 101' perspective.  The minimum wage is a type of [price floor](https://en.wikipedia.org/wiki/Price_floor), where the good in question is labor.  Classical economic theory tells us that a sufficiently high price floor in a competitive market will lead to a surplus of goods as seen in [this chart](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Surplus_from_Price_Floor.svg/400px-Surplus_from_Price_Floor.svg.png).  When the law mandates a higher-than-equilibrium price for a good, there are more people willing to supply the good but fewer people willing to purchase the good.  When labor is the good, we call this surplus 'unemployment' - people willing to supply labor (work) for the minimum wage, but not enough firms willing to purchase labor (hire) at that wage.  
 
 Firms are less willing to hire at the minimum wage because it becomes unprofitable to employ certain individuals at higher prices.  Firms are generally [profit maximizers](https://en.wikipedia.org/wiki/Profit_maximization) and will not employ a worker unless the worker can produce more value than they cost in wages/expenses.  Imagine an economy with 100 workers, where each worker 1-100 can produce a corresponding $1/hour, $2/hour, $3/hour, .... $99/hour, $100/hour of value with their labor.  The current minimum wage in this group is $10/hour.  Citizens 1 through 9 are unemployed, as no firm will hire them because they do not produce enough value to be worth the cost.  Without a minimum wage, they could sell their labor at its fair value.
 
 In this classical model of the minimum wage, it is very clear that a minimum wage will lead to higher unemployment among low wage workers.  It's easy to imagine how this could apply in the real world with a sufficiently extreme minimum wage - if the minimum wage was raised to 100 dollars per hour in the United States (roughly 13x current levels), there are very few business who would retain all their low-wage staff at those wages.  Instead, you would see unemployment, with huge numbers of workers willing to work for that wage but few companies willing to offer it.
 
-###Is the Econ-101 model the only way to model the impact of a minimum wage?
+####**Beyond the simplified model**
 
-No, it isn't.  It is absolutely true that in a certain type of idealized situation, a minimum wage must lead to unemployment.  However, that situation comes with many assumptions.  The removal or changing of those assumptions could change the conclusions we come to.
+
+The simplified 'economics 101' is not the only way to view the labor market.  It is absolutely true that in a certain type of idealized situation, a minimum wage must lead to unemployment.  However, that situation comes with many assumptions.  The removal or changing of those assumptions could change the conclusions we come to.
 
 ####**Monopsony**
 
