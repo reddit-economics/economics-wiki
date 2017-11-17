@@ -2,6 +2,7 @@
 --------------------
 (by /u/mrdannyocean, /u/integralds, and /u/besttrousers)
 
+Basic Income, a proposal under which every person in a state gets a payment from the government, is a frequent topic of conversation.  Below are some common questions asked about Basic Income.
 
 * **What’s the difference between a Universal Basic Income (UBI) and a Negative Income Tax (NIT)?**
 
