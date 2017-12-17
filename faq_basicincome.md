@@ -51,7 +51,7 @@ In order to come up with a real estimate of how large a UBI the US could current
 * Elimination of nearly all welfare and tax expenditures - TANF, SNAP, EITC, mortgage interest deduction, standard deduction/personal exemption, retirement saving deductions, etc.
 * Current SS beneficiaries can choose between keeping SS or receiving UBI, but not both.  Future SS is gradually wound down.
 
-Based on these parameters, the United States could afford a UBI of $4,452 per person based on current spending.  Any larger number would require additional revenue.
+Based on these parameters, the United States could afford a UBI of $4,452 per person per year based on current spending.  Any larger number would require additional revenue.
 
 * **Will UBI reduce poverty traps?**
 
