@@ -1,4 +1,4 @@
-#Jobs Report FAQ
+## FAQ: Jobs Report
 (by /u/MrDannyOcean & /u/Ponderday)
 
 The purpose of this FAQ to provide a layman with a comfortable understanding of how to read a jobs report from the BLS.  The most recent jobs report can always be found directly from the Bureau of Labor Statistics at [this link](https://www.bls.gov/news.release/empsit.nr0.htm).
