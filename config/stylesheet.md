@@ -253,17 +253,17 @@ body {
 
 /* TYPES of POSTS */
 
-.linkflair-news {
+.linkflair-news .linkflairlabel{
     background-color: #7ea2aa;
     color: #fff;
 }
 
-.linkflair-res {
+.linkflair-res .linkflairlabel{
     background-color: #888da7;
     color: #fff;
 }
 
-.linkflair-sum {
+.linkflair-sum .linkflairlabel{
     background-color: #9c7a97;
     color: #fff;
 }
