@@ -29,7 +29,7 @@
 
 ---
 
-**Want to learn more?** 
+**Want to learn more?** Check out our [wiki](https://www.reddit.com/r/Economics/wiki/index).
 
 * [Books](http://www.reddit.com/r/Economics/wiki/reading/)
 * [Blogs](http://www.reddit.com/r/Economics/wiki/blogs)
@@ -39,26 +39,16 @@
 
 **Want Bureau Member flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/5cbu93/call_for_bureau_member_flair_5/)
 
-* Bureau Members are capable of submitting 'self-posts'. Moreover, Bureau Member's are encouraged to utilize self-posting permissions to spark discussions on detailed issues.   
-
 ---
 
 
-#Reddit Economics Network (R.E.N.)
 
-|Subreddit|Subject|
-|---|---|
-|/r/Economics|General economics discussion and news|
-|/r/AskEconomics|Got a question about economics? We'll try to answer it!|
-|/r/BadEconomics|Share examples of bad, ill-informed, or just silly economics|
 
---
-
-###R.E.N. FAQ
+### FAQ
 
 * [Immigration](http://www.reddit.com/r/Economics/wiki/faq_immigration)
-* [Trade Basics](http://www.reddit.com/r/Economics/wiki/faq_trade)
- * [Trade: Protectionism and Developing Countries](https://www.reddit.com/r/Economics/wiki/faq_protectionism_and_development)
+* [Trade](http://www.reddit.com/r/Economics/wiki/faq_trade)
+* [Protectionism and Developing Countries](https://www.reddit.com/r/Economics/wiki/faq_protectionism_and_development)
 * [Inequality](http://www.reddit.com/r/Economics/wiki/faq_inequality)
 * [Basic Income](http://www.reddit.com/r/Economics/wiki/faq_basicincome)
 * [Gender Wage Gap](http://www.reddit.com/r/Economics/wiki/faq_genderwagegap)
@@ -69,9 +59,17 @@
 
 
 
-Looking to contribute?  See instructions and a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections) and message the mods [[here](https://www.reddit.com/message/compose?to=%2Fr%2FEconomics)].
+Looking to contribute?  Here are [instructions and a list of topics needing coverage](https://www.reddit.com/r/Economics/wiki/faq_neededsections). [Message us!](https://www.reddit.com/message/compose?to=%2Fr%2FEconomics).
 
-* [Frequently Asked Questions Resource Page](https://www.reddit.com/r/Economics/wiki/index#wiki_frequently_asked_questions)
+-------
+
+### /r/economics is a member of the Reddit Economics Network
+
+|Subreddit|Subject|
+|---|---|
+|/r/Economics|General economics discussion and news|
+|/r/AskEconomics|Got a question about economics? We'll try to answer it!|
+|/r/BadEconomics|Share examples of bad, ill-informed, or just silly economics|
 
 --
 
