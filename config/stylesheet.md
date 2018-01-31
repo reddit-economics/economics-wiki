@@ -268,6 +268,11 @@ body {
     color: #fff;
 }
 
+.linkflair-stat .linkflairlabel{
+    background-color: #544e61;
+    color: #fff;
+}
+
 /*
 .flair-settings {
     margin-bottom: 5px;
