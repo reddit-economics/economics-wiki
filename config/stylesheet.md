@@ -273,6 +273,13 @@ body {
     color: #fff;
 }
 
+.linkflair-blog .linkflairlabel{
+    background-color: #67597a;
+    color: #fff;
+}
+
+
+
 /*
 .flair-settings {
     margin-bottom: 5px;
