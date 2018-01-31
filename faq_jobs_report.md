@@ -1,4 +1,4 @@
-
+---------------------------
 # FAQ: Jobs Report
 (by /u/MrDannyOcean & /u/Ponderday)
 
