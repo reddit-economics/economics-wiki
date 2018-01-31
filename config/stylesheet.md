@@ -251,6 +251,23 @@ body {
     color: #fff;
 }
 
+/* TYPES of POSTS */
+
+.flair-news {
+    background-color: #7ea2aa;
+    color: #fff;
+}
+
+.flair-res {
+    background-color: #888da7;
+    color: #fff;
+}
+
+.flair-sum {
+    background-color: #9c7a97;
+    color: #fff;
+}
+
 /*
 .flair-settings {
     margin-bottom: 5px;
