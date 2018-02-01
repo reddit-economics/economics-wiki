@@ -11,6 +11,8 @@ The purpose of this FAQ to provide a layman with a comfortable understanding of 
 
 The government considers someone unemployed if (1) they have not done any work for pay, or worked at a family owned business in the last week, and (2) have looked for a job in the last four weeks.  All others are either employed or out of the labor force.  The second point is important, this means that people who don't have a job but are not looking either by choice or because they have given up on the idea of finding a job are not considered unemployed.  
 
+There is a common misconception that unemployment figures are linked to the number of people receiving unemployment benefits, but these two numbers are not related.
+
 ###Are there alternative ways to measure unemployment?
 
 Yes- in fact there are several definitions of unemployment.  The large majority of the time when people speak about unemployment, they're referring to the U3 or 'headline' unemployment figure, which is defined above.  There are alternative definitions ranging from U1 to U6, with U1 always being the strictest definition and the lowest of the unemployment rates, and U6 being the loosest and highest of the unemployment rates.  U6 counts people who aren't looking for jobs but are 'discouraged workers' and also some part-time employees as unemployed, while U1 only counts workers as unemployed if they have been completely out of work for 15 weeks or more. 
@@ -29,7 +31,7 @@ The percent of people in the population in the labor force is measured by the [l
 
 Not necessarily.  Some unemployment in the economy is natural as it takes time for workers to find jobs when entering the labor force, or quitting jobs they do not like.  Even in the best of times companies fail and workers are laid off. Some amount of job churn is inevitable.  This type of unemployment is called 'frictional unemployment'.  By contrast, unemployment caused by a downturn in the greater economy is called 'cyclical unemployment'.  Economists are concerned with cyclical, not frictional unemployment.  
 
-The [natural rate of unemployment](https://en.wikipedia.org/wiki/Natural_rate_of_unemployment) is the unemployment rate where only frictional, and no cyclical unemployment exists.  It is typically thought to be around [4-5%](https://www.federalreserve.gov/faqs/economy_14424.htm) by most economists.  
+The [natural rate of unemployment](https://en.wikipedia.org/wiki/Natural_rate_of_unemployment) is the unemployment rate where only frictional, and no cyclical unemployment exists.  It is typically thought to be around [4-5%](https://www.federalreserve.gov/faqs/economy_14424.htm) in the USA by most economists.  The natural rate can move up or down over time, and is influenced by the fundamental characteristics of the labor market.  For instance, the EU has a [higher natural rate of unemployment](https://www.ecb.europa.eu/press/key/date/2014/html/sp140822.en.html) than the US because of the differences between the labor markets in those two areas.
 
 
 #Common Questions about the Jobs Report numbers
@@ -51,7 +53,7 @@ There are a number of factors that go into a 'good' jobs report.  A few (but not
 
 * The headline number of jobs added
 * The unemployment rates, specifically U3 and U6
-* The labor force participation rate
+* The labor force participation rate (along with similar measures like the employment to population ratio)
 * The hourly wage data
 
 In a typical month, it is considered good news if a significant number of jobs are added, unemployment falls (or remains low), hourly wages increase, and labor force participation increases.  How large should these increases be?  There's no exact formula for what is considered 'good', but there are a few useful guidelines. 
@@ -60,3 +62,5 @@ In a typical month, it is considered good news if a significant number of jobs a
 ###What are revisions?  Are these numbers fudged up or down?
 
 The initially reported numbers are an estimate based on the available data at the time of release.  As new data becomes available, more accurate estimates can be reported.  The BLS updates their estimates [twice in the two months after the initial jobs report](https://www.bls.gov/news.release/empsit.faq.htm).  On average, the final reported jobs number is about [13,000 jobs higher](https://www.bls.gov/web/empsit/cesnaicsrev.htm) than the initial jobs number, and the average size of the miss is about 54,000 jobs (as of January 2018).  These numbers are estimates and subject to revision, so economists normally encourage observers to note trends over time rather than individual data points.  
+
+The BLS is an independent national statistical agency, and their data collection process is not influenced by the other arms of government -the President and Congress don't even get to see the BLS data before anyone else.  There is no evidence that the data is in any way manipulated for political gain, and the definition of headline unemployment has remained unchanged for decades.
