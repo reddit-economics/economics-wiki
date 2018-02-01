@@ -15,6 +15,7 @@
 * [Economic Methodology](https://www.reddit.com/r/Economics/wiki/faq_methods)
 * [Automation](https://www.reddit.com/r/Economics/wiki/faq_automation)
 * [2007-08 Financial Crisis:  Causes](https://www.reddit.com/r/Economics/wiki/faq_financial_crisis)
+* [BLS Jobs Report](https://www.reddit.com/r/Economics/wiki/faq_jobs_report)
 
 Looking to contribute?  See instructions and a list of topics needing coverage [here](https://www.reddit.com/r/Economics/wiki/faq_neededsections)
 
