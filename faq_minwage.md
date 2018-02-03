@@ -76,7 +76,7 @@ There's an important interplay between low wage income and employment to conside
 
 A common question raised about minimum wage increases is "Won't a minimum wage increase just increase prices, canceling out any benefit?"
 
-The weight of the empirical evidence tells us that prices are not heavily impacted by minimum wage increases.  [Lemos 2004](http://ftp.iza.org/dp1072.pdf) reviews dozens of studies and finds that the large majority of research does not find significant overall price effects.  A 10% rise in the minimum wage is likely to lead to at most a 0.5% rise in the overall price level.  
+The weight of the empirical evidence tells us that prices are not heavily impacted by minimum wage increases.  [Lemos 2004](http://ftp.iza.org/dp1072.pdf) reviews dozens of studies and finds that the large majority of research does not find significant overall price effects.  A 10% rise in the minimum wage is likely to lead to at most a 0.4% rise in the overall price level.  
 
 ###Further Context
 
