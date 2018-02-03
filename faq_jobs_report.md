@@ -9,7 +9,7 @@ The purpose of this FAQ to provide a layman with a comfortable understanding of 
 
 ###Who does the BLS Count as Unemployed?
 
-The government considers someone unemployed if (1) they have not done any work for pay, or worked at a family owned business in the last week, and (2) have looked for a job in the last four weeks.  All others are either employed or out of the labor force.  The second point is important, this means that people who don't have a job but are not looking either by choice or because they have given up on the idea of finding a job are not considered unemployed.  
+The government considers someone unemployed if (1) they have not done any work for pay, or worked at a family owned business in the last week, and (2) have looked for a job in the last four weeks.  All others are either employed or out of the labor force.  The second point is important - this means that people who don't have a job but are not looking either by choice or because they have given up on the idea of finding a job are not considered unemployed.  
 
 There is a common misconception that unemployment figures are linked to the number of people receiving unemployment benefits, but these two numbers are not related.
 
