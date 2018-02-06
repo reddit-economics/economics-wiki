@@ -5,10 +5,10 @@
 /*** COLOR SCHEME ***/
 
 #header, .footer-parent  {
-    background: #8676ae; /* Old browsers */
-    background: -moz-linear-gradient(top,  #8676ae 0%, #555 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(top,  #8676ae 0%,#555 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to bottom,  #8676ae 0%,#555 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: #605C7F; /* Old browsers */
+    background: -moz-linear-gradient(top,  #605C7F 0%, #555 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #605C7F 0%,#555 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #605C7F 0%,#555 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 }
 
 .morelink {
