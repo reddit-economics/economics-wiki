@@ -8,7 +8,7 @@
 
 2. **Economic-Specific Quality Standards**
 
-  Submissions and/or comments *tenuously related to economics, light on economic analysis, or from perspectives other than those of economists* will be removed.
+  Submissions *tenuously related to economics, light on economic analysis, or from perspectives other than those of economists* will be removed.
 
 3. **Source Standards**
 
