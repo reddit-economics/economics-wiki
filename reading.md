@@ -24,6 +24,8 @@ The best introduction to economics is to pick up an introductory textbook. Manki
 
 4. Roth, *Who Gets What and Why*, 2016. Al Roth (Nobel Laureate 2012) teaches you about the explicit and implicit rules that allow markets to function well, and introduces the field of matching, which uses game theory to study markets in kidneys, dating, and more.
 
+5. Tirole, *Economics for the Common Good,* 2017.
+
 5. Akerlof and Shiller, *Phishing for Phools: The Economics of Manipulation and Deception*, 2015. Two Nobel Laureates apply information and behavioral economics to marketing, politics, and every area where profit-maximization creates incentives for deception.
 
 6. Glaeser, *Triumph of the City*, 2012. 
@@ -62,6 +64,8 @@ The best introduction to economics is to pick up an introductory textbook. Manki
 4. Shiller, *Finance and the Good Society*, 2013.
 
 5. Shiller, *Irrational Exuberance*, revised 2015.
+
+6. Desai, *The Wisdom of Finance*, 2017.
 
 ---------------
 
