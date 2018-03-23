@@ -2,28 +2,28 @@
 
 --
 
-1. **Discipline-Specific News, Research, & Work**
+I. **Discipline-Specific News, Research, & Work**
 
   /r/Economics concerns proliferation and discourse pertaining to *research, news, academic work, and academic summaries from the perspective of economists*.
 
-2. **Economic-Specific Quality Standards**
+II. **Economic-Specific Quality Standards**
 
   Submissions *tenuously related to economics, light on economic analysis, or from perspectives other than those of economists* will be removed.
 
-3. **Source Standards**
+III. **Source Standards**
 
   Submissions must be from *original sources*. Editorialization, memes, and low-quality blogs are not acceptable.  Source spamming is not acceptable.
 
-4. **User Behavior Standards**
+IV. **User Behavior Standards**
 
   *Personal attacks and harassment will result in removal of comments; multiple infractions will result in a permanent ban.* Please report personal attacks, racism, misogyny, or harassment you see or experience. 
 
 
-5. **Multimedia Guidelines**
+V. **Multimedia Guidelines**
 
   *Images*, *charts*, and/or *videos* -- *including original content* -- must be submitted with a source and summary. Standards for multimedia are strict and left to moderator discretion.
 
-6. **Off-Topic Discourse Guidelines**
+VI. **Off-Topic Discourse Guidelines**
 
   Comments consisting of *mere jokes, nakedly political comments, circlejerking, personal anecdotes or otherwise non-substantive contributions* without reference to the article, economics, or the thread at hand will be removed.
 
