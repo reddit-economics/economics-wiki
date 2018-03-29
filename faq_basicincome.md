@@ -38,8 +38,8 @@ This is a [normative](https://en.wikipedia.org/wiki/Normative_statement) questio
 This is an enormously complicated question.  Most proposals for a UBI call for replacing most welfare-state programs with a UBI, and using the savings from eliminating those programs to fund a UBI.  The details are very tricky (assuming a United States perspective below)
 
 * Will healthcare programs be eliminated and lumped into the UBI fund, or dealt with separately?
-* How do we deal with children and education?  In theory, granting a full UBI to each child could be enough to provide a child's living expenses and education.  But there is risk that parents might spend that money imprudently and neglect their children's education.  
 * Should we measure federal money only, or state/local programs as well?  
+* How do we deal with children and education?  In theory, granting a full UBI to each child could be enough to provide a child's living expenses and education.  But there is risk that parents might spend that money imprudently and neglect their children's education.  
 * Should we also eliminate [tax expenditures](https://en.wikipedia.org/wiki/Tax_expenditure) like mortgage-interest and healthcare deductions, which can be portrayed as middle-class welfare programs?
 * How to deal with social security, which is a system you pay into and only partially redistributive?
 
