@@ -8,11 +8,11 @@ I. **Discipline-Specific News, Research, & Work**
 
 II. **Economic-Specific Quality Standards**
 
-  Submissions *tenuously related to economics, light on economic analysis, or from perspectives other than those of economists* will be removed.
+  Submissions *tenuously related to economics, light on economic analysis, or from perspectives other than those of economists* will be removed. [Further Explanation.](https://www.reddit.com/r/Economics/comments/7x14px/meta_rules_roundtable_2_submissions_and_rii/)
 
 III. **Source Standards**
 
-  Submissions must be from *original sources*. Editorialization, memes, and low-quality blogs are not acceptable.  Source spamming is not acceptable.
+  Submissions must be from *original sources*. Editorialization, memes, and low-quality blogs are not acceptable.  Source spamming is not acceptable. [Further Explanation.](https://www.reddit.com/r/Economics/comments/80gcd0/meta_rules_round_table_3_rule_iii/)
 
 IV. **User Behavior Standards**
 
@@ -25,7 +25,7 @@ V. **Multimedia Guidelines**
 
 VI. **Off-Topic Discourse Guidelines**
 
-  Comments consisting of *mere jokes, nakedly political comments, circlejerking, personal anecdotes or otherwise non-substantive contributions* without reference to the article, economics, or the thread at hand will be removed.
+  Comments consisting of *mere jokes, nakedly political comments, circlejerking, personal anecdotes or otherwise non-substantive contributions* without reference to the article, economics, or the thread at hand will be removed. [Further Explanation.](https://www.reddit.com/r/Economics/comments/7vp3cf/rules_roundtable_rule_vi_and_offtopic_comments/)
 
 ---
 
