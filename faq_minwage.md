@@ -57,7 +57,7 @@ Neumark and Wascher also examined NJ and PA restaurant data and found contradict
 
 ####**Impact on Employment Levels - Moving towards consensus**
 
-The precise impact of minimum wages on is still a topic of hot debate, but economists have slowly been moving towards consensus in the last 10 years.  Most of the highest quality analyses in the last decade have found limited, small, or no employment impact from minimum wage increases.  These analyses include:
+The precise impact of minimum wages on employment levels is still a topic of hot debate, but economists have slowly been moving towards consensus in the last 10 years.  Most of the highest quality analyses in the last decade have found limited, small, or no employment impact from minimum wage increases.  These analyses include:
 
 * A 2010 study by [Dube, Lester and Reich](http://escholarship.org/uc/item/86w5m90m) examined border counties on all instances nationwide where states raised MW.  They found no evidence of detrimental effects on low-wage employment.  This study is considered to be one of the gold standard studies for the sheer breadth of data it analyzes.
 * Meta analyses from [Card and Kruger](https://www.jstor.org/stable/2117925) and also from [Doucouliagos and Stanley](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8543.2009.00723.x/abstract) show no evidence of employment effects.  In fact, they present a strong case for the existence of publication bias (bias towards publishing negative results).  
