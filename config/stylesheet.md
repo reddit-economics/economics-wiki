@@ -242,12 +242,12 @@ body {
 /* BUREAU FLAIR */
 
 .flair-QC {
-    background-color: #8676ae !important;
+    background-color: #d4cbe5 !important;
     color: #fff !important;
 }
 
 .flair-DS {
-    background-color: #B40404;
+    background-color: #bea8aa;
     color: #fff;
 }
 
