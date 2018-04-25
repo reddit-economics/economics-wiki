@@ -251,6 +251,11 @@ body {
     color: #fff;
 }
 
+.flair-ama {
+    background-color: #7c7f65;
+    color: #fff;
+}
+
 /* TYPES of POSTS */
 
 .linkflair-news .linkflairlabel{
