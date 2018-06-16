@@ -37,7 +37,7 @@ VI. **Off-Topic Discourse Guidelines**
 
 ---
 
-**Want Bureau Member flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/5cbu93/call_for_bureau_member_flair_5/)
+**Want Bureau Member flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/86p3y5/call_for_bureau_members_and_quality_contributors/)
 
 ---
 
@@ -71,6 +71,7 @@ Looking to contribute?  Here are [instructions and a list of topics needing cove
 |/r/Economics|General economics discussion and news|
 |/r/AskEconomics|Got a question about economics? We'll try to answer it!|
 |/r/BadEconomics|Share examples of bad, ill-informed, or just silly economics|
+|/r/EconomicHistory|Discussion of Economic History and related topics|
 
 --
 
