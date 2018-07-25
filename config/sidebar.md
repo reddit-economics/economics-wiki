@@ -12,7 +12,7 @@ II. **Economic-Specific Quality Standards**
 
 III. **Source Standards**
 
-  Submissions must be from *original sources*. Editorialization, memes, and low-quality blogs are not acceptable.  Source spamming is not acceptable. [Further Explanation.](https://www.reddit.com/r/Economics/comments/80gcd0/meta_rules_round_table_3_rule_iii/)
+Submissions must be from original sources with original headlines. Memes, self-promotion and low-quality blogs are not acceptable. Source spamming is not acceptable.  [Further Explanation.](https://www.reddit.com/r/Economics/comments/80gcd0/meta_rules_round_table_3_rule_iii/)
 
 IV. **User Behavior Standards**
 
