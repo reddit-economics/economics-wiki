@@ -37,7 +37,7 @@ VI. **Off-Topic Discourse Guidelines**
 
 ---
 
-**Want Bureau Member or Quality Contributor flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/91nyt9/call_for_new_mods/)
+**Want Bureau Member or Quality Contributor flair?** [**Apply here!**](https://www.reddit.com/r/Economics/comments/94l22r/call_for_new_bureau_members_and_quality/)
 
 ---
 
