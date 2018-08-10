@@ -288,6 +288,11 @@ body {
     color: #fff;
 }
 
+.linkflair-editorial .linkflairlabel{
+    background-color: #5a759e;
+    color: #fff;
+}
+
 
 
 /*
