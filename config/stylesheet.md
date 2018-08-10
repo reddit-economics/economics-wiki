@@ -247,7 +247,7 @@ body {
 }
 
 .flair-DS {
-    background-color: #bea8aa;
+    background-color: #571f7f;
     color: #fff;
 }
 
