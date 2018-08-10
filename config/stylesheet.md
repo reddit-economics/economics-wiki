@@ -242,7 +242,7 @@ body {
 /* BUREAU FLAIR */
 
 .flair-QC {
-    background-color: #63142B;
+    background-color: #973A42;
     color: #fff;
 }
 
