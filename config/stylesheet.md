@@ -283,6 +283,11 @@ body {
     color: #fff;
 }
 
+.linkflair-interview .linkflairlabel{
+    background-color: #c296c2;
+    color: #fff;
+}
+
 
 
 /*
