@@ -242,8 +242,8 @@ body {
 /* BUREAU FLAIR */
 
 .flair-QC {
-    background-color: #d4cbe5 !important;
-    color: #fff !important;
+    background-color: #63142B;
+    color: #fff;
 }
 
 .flair-DS {
