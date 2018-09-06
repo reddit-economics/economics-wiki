@@ -37,7 +37,7 @@ First, the existence/accuracy of forecasting is not a necessary condition for so
 
 Second, economics does not equal macroeconomics. Macro is a subset of economics, and macroeconomic forecasting is a subset of macroeconomics. Judging the validity of an entire discipline for the perceived failure of a sub-sub-discipline is illogical. The vast majority of economists are not macroeconomic forecasters; in addition, it’s not even the average *macro*-economist’s job to predict recessions. 
 
-Third, some economists did see a crisis on the horizon. This includes Janet Yellen, current chair of the Federal Reserve. Regardless, just as seismologists have learned from Tohoku, macroeconomists have learned from the Crisis. 
+Third, some economists did see a crisis on the horizon. This includes Janet Yellen, former chair of the Federal Reserve. Regardless, just as seismologists have learned from Tohoku, macroeconomists have learned from the Crisis. 
 
 
 ####**Are there laws of economics?**
