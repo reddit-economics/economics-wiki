@@ -101,7 +101,7 @@ Theoretical models in any science are simplistic for a reason, and can be made m
 
 ####**Do economists always assume people are perfectly rational?**
 
-[Behavioral economists](https://en.wikipedia.org/wiki/Behavioral_economics) study what happens when we relax this assumption. Richard Thaler is one of them, and he pioneered the study of behavioral finance. See also the above response to “Theoretical econ models are too simplistic,” as it isn’t always necessary to relax this assumption.
+[Behavioral economists](https://en.wikipedia.org/wiki/Behavioral_economics) study what happens when we relax this assumption. Richard Thaler, a recent Nobel Prize winner, is one of the most famous behavioral economists and pioneered the study of behavioral finance. See also the above response to “Theoretical econ models are too simplistic,” as it isn’t always necessary to relax this assumption.
 
 
 ####**Do economists always assume perfect competition?**
