@@ -133,15 +133,15 @@ When GDP fails to provide us with accurate info on a given topic, economists are
 
 In sum, economists do not hold up GDP as the immutable measure of living standards.
 
-**Economists can’t run experiments.** 
+####**Economists can’t run experiments.** 
 
 They can and frequently do (especially microeconomists, behavioral economists, etc), but often macroeconomists can’t. [Experimental economics](https://en.wikipedia.org/wiki/Experimental_economics) can take place in a lab setting or in field, and can study a wide array of fields.  For an overview of modern field experiments, see [Levitt and List 2008](http://www.nber.org/papers/w14356).
 
-**Economists can’t determine causality.  They only report correlations between variables.**
+####**Economists can’t determine causality.  They only report correlations between variables.**
 
 Economists often estimate causal effects. It is a common misconception that most modern empirical economics studies use non-random observational data and vanilla OLS. In fact, if a microeconomist cannot credibly estimate a causal effect, she has no hope of publishing in top journals today.  A perusal of a top economics journal will quickly verify this.
 
-**Empirical economics studies are mostly unreplicable.**
+####**Empirical economics studies are mostly unreplicable.**
 
 This criticism has become more common since the recent replication crisis in psychology and a few papers trying to replicate economics studies. If most econ results don’t replicate, why should we ever listen to economists?
 
