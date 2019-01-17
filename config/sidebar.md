@@ -25,7 +25,7 @@ V. **Multimedia Guidelines**
 
 VI. **Off-Topic Discourse Guidelines**
 
-  Comments consisting of *mere jokes, nakedly political comments, circlejerking, personal anecdotes or otherwise non-substantive contributions* without reference to the article, economics, or the thread at hand will be removed. [Further Explanation.](https://www.reddit.com/r/Economics/comments/7vp3cf/rules_roundtable_rule_vi_and_offtopic_comments/)
+  Comments consisting of *mere jokes, nakedly political comments, circlejerking, personal anecdotes or otherwise non-substantive contributions* without reference to the article, economics, or the thread at hand will be removed. [Further Explanation.](https://www.reddit.com/r/Economics/comments/aebjti/rules_roundtable_redux_rule_vi_and_offtopic/)
 
 ---
 
