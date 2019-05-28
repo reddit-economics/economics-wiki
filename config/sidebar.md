@@ -57,7 +57,7 @@ VI. **Off-Topic Discourse Guidelines**
 * [Automation](https://www.reddit.com/r/Economics/wiki/faq_automation)
 * [2007-08 Financial Crisis:  Causes](https://www.reddit.com/r/Economics/wiki/faq_financial_crisis)
 * [BLS Jobs Report](https://www.reddit.com/r/Economics/wiki/faq_jobs_report)
-
+* [Carbon Pricing](https://www.reddit.com/r/Economics/wiki/faq_carbonpricing)
 
 
 Looking to contribute?  Here are [instructions and a list of topics needing coverage](https://www.reddit.com/r/Economics/wiki/faq_neededsections). [Message us!](https://www.reddit.com/message/compose?to=%2Fr%2FEconomics).
