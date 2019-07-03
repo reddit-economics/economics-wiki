@@ -12,7 +12,7 @@
     first: "June 1, 2017 1:00 PM -05"  
     rrule: "FREQ=MONTHLY;BYDAY=1MO"
     sticky: true  
-    title: "%B Journal Day"  
+    title: "{{date %B}} Journal Day"  
     text: |   
         This is our monthly /r/economics Journal Day. Only links to journal articles and working papers are allowed today. Have fun!
 
