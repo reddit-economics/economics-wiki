@@ -99,6 +99,10 @@ Now consider taxes on cigarettes. It doesn’t matter if we assume perfect or im
 Theoretical models in any science are simplistic for a reason, and can be made more complex when necessary.  This is similar to physics where simple models are explained using perfectly spherical frictionless balls, and complications are added later as necessary.
 
 
+####**Is economics research just a bunch of theoretical modeling with no connection to data?**
+
+Decades ago, theory-driven papers dominated economics journals.  But the last 30 years have seen an steady decrease in the percentage of theory-driven papers, and a rise in experimental and empirical papers.  Purely theoretical papers now make [less than 20%](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9VuJpuQn430/v0/1200x941.png) of all published papers in top economics journals, while more than 70% of top papers are driven by empirical data or direct experimentation.
+
 ####**Do economists always assume people are perfectly rational?**
 
 [Behavioral economists](https://en.wikipedia.org/wiki/Behavioral_economics) study what happens when we relax this assumption. Richard Thaler, a recent Nobel Prize winner, is one of the most famous behavioral economists and pioneered the study of behavioral finance. See also the above response to “Theoretical econ models are too simplistic,” as it isn’t always necessary to relax this assumption.
