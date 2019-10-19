@@ -133,9 +133,11 @@ So economists aren’t using math just for the sake of appearances. As for physi
 
 Economists like GDP because it's a simple measure of aggregate economic activity that is highly correlated with things we actually care about and consider reflective of our quality of life, such as education and health care quality, life expectancy, health status, educational attainment, social mobility, good governance, and poverty reduction. The Human Development Index is often seen as a better alternative to GDP, but HDI and GDP are also highly correlated and GDP is easier to calculate. 
 
-When GDP fails to provide us with accurate info on a given topic, economists are not timid to use other indicators. HDI is one. Nighttime illumination, cell phone usage, and satellite images of road networks and buildings can tell us a lot about regional economic activity and, most importantly, underserved impoverished areas. We now have indicators of economic policy uncertainty, immigration anxiety, and average prices updated in real time using “big data.” (See [here](http://science.sciencemag.org/content/346/6210/1243089) for more info.)
+When economists believe that GDP isn't the right metric, they are not timid about using other indicators. HDI is one. Nighttime illumination, cell phone usage, and satellite images of road networks and buildings can tell us a lot about regional economic activity and, most importantly, underserved impoverished areas. We now have indicators of economic policy uncertainty, immigration anxiety, and average prices updated in real time using “big data.” (See [here](http://science.sciencemag.org/content/346/6210/1243089) for more info.)
 
-In sum, economists do not hold up GDP as the immutable measure of living standards.
+In addition, many economists study entirely different areas other than the macro-economy.  Many economics research and publish papers investigating health outcomes, cultural attitudes, migration patterns, marriage rates, and dozens of other 'non-economic' indicators.
+
+In sum, economists do not hold up GDP as the immutable measure of living standards, and economic research is not centered around GDP.
 
 ####**Economists can’t run experiments.** 
 
